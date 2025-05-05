@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Literature Notes/Permanet Notes.md",
+                "file": "02 - Literature Notes/Feeling Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Permanet Notes"
+              "title": "Feeling Notes"
             }
           }
         ],
@@ -219,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,17 +235,17 @@
   },
   "active": "4a9e5e0e2b3d2b50",
   "lastOpenFiles": [
+    "02 - Literature Notes/Literature Notes.md",
+    "02 - Literature Notes/Obsidian  & Zettelkasten の使い方.md",
+    "02 - Literature Notes/Obsidianの使い方は人それぞれ.md",
+    "02 - Literature Notes/Zettelkastenを始める3つのノート.md",
+    "02 - Literature Notes/Permanet Notes.md",
+    "02 - Literature Notes/Feeling Notes.md",
     "80 - Image/CleanShot 2025-05-05 at 23.11.49.png",
     "80 - Image/CleanShot 2025-05-05 at 23.11.17.png",
-    "02 - Literature Notes/Obsidianの使い方は人それぞれ.md",
-    "02 - Literature Notes/Obsidian  & Zettelkasten の使い方.md",
-    "02 - Literature Notes/Feeling Notes.md",
-    "02 - Literature Notes/Literature Notes.md",
-    "02 - Literature Notes/Permanet Notes.md",
     "80 - Image/CleanShot 2025-05-05 at 23.01.46.png",
     "80 - Image/CleanShot 2025-05-05 at 23.01.20.png",
     "80 - Image/CleanShot 2025-05-05 at 23.00.49.png",
-    "02 - Literature Notes/Zettelkastenを始める3つのノート.md",
     "80 - Image",
     "01 - Feeling Notes/Zettelkastenとは？.md",
     "無題のファイル.md",
