@@ -1,1 +1,6 @@
-{}
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "00_InBox",
+  "attachmentFolderPath": "./",
+  "promptDelete": false
+}
