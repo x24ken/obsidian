@@ -1,6 +1,6 @@
  #zettelkasten 
 
-まずは、３つのフォルダ(Note)を作成する
+Zettelkastenは３つのノートから始めることができる
 - [[Feeling Notes]]
 - [[Literature Notes]]
 - [[Permanet Notes]]
