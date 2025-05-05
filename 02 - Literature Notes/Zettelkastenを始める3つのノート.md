@@ -1,4 +1,4 @@
-#obsidian #zettelkasten 
+ #zettelkasten 
 
 まずは、３つのフォルダ(Note)を作成する
 - [[Feeling Notes]]
