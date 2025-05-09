@@ -114,9 +114,47 @@
               "icon": "lucide-file",
               "title": "初デートでしてほしいこと"
             }
+          },
+          {
+            "id": "956d7220cddff4af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Feeling Notes/GitHub Actions + AWS S3のやり方.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GitHub Actions + AWS S3のやり方"
+            }
+          },
+          {
+            "id": "1450c88d2b8a54d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Feeling Notes/React + Vite + Typescript 導入.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "React + Vite + Typescript 導入"
+            }
+          },
+          {
+            "id": "98f49edc1465f107",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "グラフビュー"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -274,12 +312,16 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "4891bd2d4dd1698d",
+  "active": "98f49edc1465f107",
   "lastOpenFiles": [
+    "01 - Feeling Notes/Obsidianコードブロックの仕方.md",
+    "無題のファイル.canvas",
+    "01 - Feeling Notes/React + Vite + Typescript 導入.md",
+    "01 - Feeling Notes/GitHub Actions + AWS S3のやり方.md",
+    "02 - Literature Notes/初デートでしてほしいこと.md",
     "02 - Literature Notes/Obsidianの使い方は人それぞれ.md",
     "02 - Literature Notes/Obsidian  & Zettelkasten の使い方.md",
     "02 - Literature Notes/Zettelkastenを始める3つのノート.md",
-    "02 - Literature Notes/初デートでしてほしいこと.md",
     "01 - Feeling Notes/可愛いね！という.md",
     "02 - Literature Notes/Permanet Notes.md",
     "02 - Literature Notes/IKEA効果.md",
@@ -299,7 +341,6 @@
     "PARAシステム.md",
     "00_Inbox/test.md",
     "00_InBox/2025-05-05.md",
-    "無題のファイル.canvas",
     "99_Zettlekasten",
     "04_Archive",
     "03_Resources",
