@@ -1,6 +1,6 @@
 #AWS #github-actions 
 
-`aws s3 sync build s3://github-action-s3-test --delete`
+`aws s3 sync dist s3://github-action-s3-test --delete`
 
 --delete オプションは、aws s3 sync コマンドで使われるフラグです。
 

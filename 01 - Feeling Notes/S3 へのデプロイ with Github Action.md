@@ -1,9 +1,8 @@
 #AWS #github-actions 
 
-
 1. [[GithubにAWS認証させる]]
 2. S3バケットを作る
-3. [[S3へのデプロイ]]
+3. [[S3へのデプロイAction]]
 
 
 参考:
