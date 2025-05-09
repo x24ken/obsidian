@@ -1,7 +1,9 @@
 #AWS #github-actions 
 
-Githubに対して必要な設定
-- [[GithubにAWS認証させる]]
+
+1. [[GithubにAWS認証させる]]
+2. S3バケットを作る
+3. 
 
 
 参考:
