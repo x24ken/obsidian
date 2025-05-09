@@ -1,3 +1,5 @@
 #react #vite #typescript
 
-aa
+```zash
+npm create vite@latest my-app -- --template react-ts
+```

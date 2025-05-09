@@ -135,26 +135,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Feeling Notes/React + Vite + Typescript 導入.md",
+                "file": "01 - Feeling Notes/GithubにAWS認証させる.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "React + Vite + Typescript 導入"
-            }
-          },
-          {
-            "id": "98f49edc1465f107",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
+              "title": "GithubにAWS認証させる"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -312,12 +302,14 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "98f49edc1465f107",
+  "active": "1450c88d2b8a54d1",
   "lastOpenFiles": [
-    "01 - Feeling Notes/Obsidianコードブロックの仕方.md",
-    "無題のファイル.canvas",
-    "01 - Feeling Notes/React + Vite + Typescript 導入.md",
     "01 - Feeling Notes/GitHub Actions + AWS S3のやり方.md",
+    "01 - Feeling Notes/GithubにAWS認証させる.md",
+    "01 - Feeling Notes/React + Vite + Typescript 導入.md",
+    "01 - Feeling Notes/Obsidianコードブロックの仕方.md",
+    "無題のファイル 1.canvas",
+    "無題のファイル.canvas",
     "02 - Literature Notes/初デートでしてほしいこと.md",
     "02 - Literature Notes/Obsidianの使い方は人それぞれ.md",
     "02 - Literature Notes/Obsidian  & Zettelkasten の使い方.md",
