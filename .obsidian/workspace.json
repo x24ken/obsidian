@@ -177,12 +177,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Feeling Notes/GitHub Actions + AWS S3のやり方.md",
+                "file": "01 - Feeling Notes/S3のオプション --delete.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GitHub Actions + AWS S3のやり方"
+              "title": "S3のオプション --delete"
             }
           }
         ],
@@ -346,9 +346,11 @@
   },
   "active": "b9c8116210cb64f2",
   "lastOpenFiles": [
+    "01 - Feeling Notes/S3へのデプロイ.md",
+    "01 - Feeling Notes/S3のオプション --delete.md",
+    "01 - Feeling Notes/GitHub Actions + AWS S3のやり方.md",
     "01 - Feeling Notes/github-action上でAWS認証する.md",
     "01 - Feeling Notes/GithubにAWS認証させる.md",
-    "01 - Feeling Notes/GitHub Actions + AWS S3のやり方.md",
     "02 - Literature Notes/React + Vite + Typescript 導入.md",
     "01 - Feeling Notes/アクセスキーIDとシークレットアクセスキーの取得.md",
     "01 - Feeling Notes/デジタルガーデンの起源.md",
