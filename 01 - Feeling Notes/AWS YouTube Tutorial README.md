@@ -1,8 +1,10 @@
+ああ
+
 ```mermaid
 graph TD
-    A[ユーザーがGitHubリポジトリにコードをプッシュ] --> B[GitHub Actionsがトリガーされる]
+    A[GitHubリポジトリにコードをプッシュ] --> B[GitHub Actionsがトリガーされる]
     B --> C[S3バケットが同期される]
-    C --> D[CloudFrontがユーザーに配信]
+    C --> D[CloudFrontが配信]
 ```
 
 ## 手順一覧

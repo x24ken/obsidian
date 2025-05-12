@@ -1,18 +1,18 @@
+#github-actions #AWS 
+
 ```mermaid
 graph TD
-    A[ユーザーがGitHubリポジトリにコードをプッシュ] --> B[GitHub Actionsがトリガーされる]
+    A[GitHubにコードをプッシュ] --> B[GitHub Actionsがトリガーされる]
     B --> C[S3バケットが同期される]
-    C --> D[CloudFrontがユーザーに配信]
+    C --> D[CloudFrontが配信]
 ```
-
-## 手順一覧
 
 1. GitHub リポジトリを作成します。
 2. AWS アカウントで S3 バケットを作成します。
    ```sh
    aws s3 mb s3://githubaction-bucket-141
    ```
-3. CloudFront ディストリビューションを作成し、S3 バケットをオリジンとして選択します。
+3. [[CloudFront distribution]]を作成し、S3 バケットをオリジンとして選択します。
    ```sh
    aws cloudfront create-distribution \
      --origin-domain-name <bucket-name>.s3.amazonaws.com \
@@ -23,7 +23,7 @@ graph TD
 5. GitHub を OIDC プロバイダーを使って AWS に認証します。
 6. AWS コンソールで新しいアイデンティティを作成します。
 7. GitHub Actions を設定します。
-8. 
+
    - `.github/workflows/`ディレクトリに`deploy.yaml`という名前のファイルを作成します。
    - 以下の内容を記述します。
 
@@ -68,3 +68,4 @@ jobs:
 
 ---
 
+参考: https://www.youtube.com/watch?v=WSiV0Q0zvEI
