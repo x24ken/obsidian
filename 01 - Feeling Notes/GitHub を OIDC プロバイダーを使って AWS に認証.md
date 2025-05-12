@@ -1,9 +1,10 @@
 #github-actions #AWS 
 
-## 必要なもの
+## 手順
 
- - IDプロバイダ
- - IAMロール
+ - Githubアクション用のIDプロバイダを作成する (https://token.actions.githubusercontent.com)
+ - IAMロールに、許可したいものを追加(S3とCloudfrontなど)して作成
+ - 
 
 
 参考: 
