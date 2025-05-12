@@ -1,3 +1,8 @@
+#AWS 
+
+- S3バケットのARN
+- CloudFront distributionARN
+
 バケットポリシーを変える
 ![[CleanShot 2025-05-12 at 15.04.26.png]]
 ![[CleanShot 2025-05-12 at 15.05.35.png]]
