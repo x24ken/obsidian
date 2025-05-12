@@ -233,12 +233,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Feeling Notes/CloudFront.md",
+                "file": "01 - Feeling Notes/GitHub を OIDC プロバイダーを使って AWS に認証.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CloudFront"
+              "title": "GitHub を OIDC プロバイダーを使って AWS に認証"
             }
           }
         ],
@@ -402,18 +402,18 @@
   },
   "active": "e8878e6389ee99a6",
   "lastOpenFiles": [
+    "01 - Feeling Notes/CloudFront配信手順.md",
+    "01 - Feeling Notes/CloudFront.md",
     "01 - Feeling Notes/CloudFront distribution.md",
     "01 - Feeling Notes/CloudFront FunctionsでBasic認証のパスワードをかける.md",
-    "01 - Feeling Notes/S3のOAC設定.md",
-    "01 - Feeling Notes/CloudFront配信手順.md",
+    "01 - Feeling Notes/CloudFrontのOAC設定.md",
     "01 - Feeling Notes/GitHub を OIDC プロバイダーを使って AWS に認証.md",
+    "01 - Feeling Notes/S3のOAC設定.md",
     "01 - Feeling Notes/OAC（オリジンアクセスコントロール）.md",
-    "01 - Feeling Notes/CloudFront.md",
     "01 - Feeling Notes/AWS YouTube Tutorial README.md",
     "01 - Feeling Notes/S3とCloudFrontとのOAC設定.md",
     "80 - Image/CleanShot 2025-05-12 at 15.05.35.png",
     "80 - Image/CleanShot 2025-05-12 at 15.04.26.png",
-    "01 - Feeling Notes/CloudFrontのOAC設定.md",
     "80 - Image/CleanShot 2025-05-12 at 15.01.10.png",
     "80 - Image/CleanShot 2025-05-12 at 15.00.58.png",
     "80 - Image/CleanShot 2025-05-12 at 15.00.27.png",
