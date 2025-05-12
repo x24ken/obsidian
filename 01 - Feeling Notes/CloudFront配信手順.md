@@ -1,5 +1,6 @@
 #github-actions #AWS 
 
+実行イメージ
 ```mermaid
 graph TD
     A[GitHubにコードをプッシュ] --> B[GitHub Actionsがトリガーされる]
@@ -20,7 +21,7 @@ graph TD
    ```
    - S3 リソースへのアクセスを制限するために OAC（オリジンアクセスコントロール）を作成してください。
 4. CloudFront 配信用の index.html ファイルを GitHub リポジトリに作成します。
-5. GitHub を OIDC プロバイダーを使って AWS に認証します。
+5. [[GitHub を OIDC プロバイダーを使って AWS に認証]]します。
 6. AWS コンソールで新しいアイデンティティを作成します。
 7. GitHub Actions を設定します。
 
