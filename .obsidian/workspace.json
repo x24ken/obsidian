@@ -4,245 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c1d994c69020ab13",
+        "id": "237d0d1b5aadadaa",
         "type": "tabs",
         "children": [
           {
-            "id": "634095b9505f7626",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "グラフビュー"
-            }
-          },
-          {
-            "id": "22da6ad6458ca52f",
+            "id": "5a81030de1f78c71",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Literature Notes/Obsidian  & Zettelkasten の使い方.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian  & Zettelkasten の使い方"
-            }
-          },
-          {
-            "id": "ae2319f648b4e92a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Literature Notes/Obsidianの使い方は人それぞれ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obsidianの使い方は人それぞれ"
-            }
-          },
-          {
-            "id": "652a2a980d05807e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Literature Notes/Zettelkastenを始める3つのノート.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Zettelkastenを始める3つのノート"
-            }
-          },
-          {
-            "id": "4a9e5e0e2b3d2b50",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Literature Notes/Feeling Notes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Feeling Notes"
-            }
-          },
-          {
-            "id": "9af67552d8163833",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Literature Notes/Obsidian  & Zettelkasten の使い方.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian  & Zettelkasten の使い方"
-            }
-          },
-          {
-            "id": "807aeba5b6df21f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Feeling Notes/デジタルガーデンの起源.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "デジタルガーデンの起源"
-            }
-          },
-          {
-            "id": "4891bd2d4dd1698d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Literature Notes/初デートでしてほしいこと.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "初デートでしてほしいこと"
-            }
-          },
-          {
-            "id": "956d7220cddff4af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Feeling Notes/S3 へのデプロイ with Github Action.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "S3 へのデプロイ with Github Action"
-            }
-          },
-          {
-            "id": "1450c88d2b8a54d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Feeling Notes/GithubにAWS認証させる.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GithubにAWS認証させる"
-            }
-          },
-          {
-            "id": "97bbf7a9b606d9c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Feeling Notes/GithubにAWS認証させる.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GithubにAWS認証させる"
-            }
-          },
-          {
-            "id": "2a928bf1c110ff9d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Feeling Notes/GithubにAWS認証させる.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GithubにAWS認証させる"
-            }
-          },
-          {
-            "id": "b9c8116210cb64f2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Feeling Notes/Github Action上でAWS認証する.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Github Action上でAWS認証する"
-            }
-          },
-          {
-            "id": "c7a1f6d43050809c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Feeling Notes/CloudFront distribution.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "CloudFront distribution"
-            }
-          },
-          {
-            "id": "c293763b2d858997",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Feeling Notes/CloudFront配信手順.md",
+                "file": "02 - Literature Notes/CloudFront配信手順.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "CloudFront配信手順"
             }
-          },
-          {
-            "id": "a36778b7a0c2a135",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Feeling Notes/GitHub を OIDC プロバイダーを使って AWS に認証.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GitHub を OIDC プロバイダーを使って AWS に認証"
-            }
-          },
-          {
-            "id": "e8878e6389ee99a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Feeling Notes/GitHub を OIDC プロバイダーを使って AWS に認証.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GitHub を OIDC プロバイダーを使って AWS に認証"
-            }
           }
-        ],
-        "currentTab": 16
+        ]
       }
     ],
     "direction": "vertical"
@@ -400,18 +179,34 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "e8878e6389ee99a6",
+  "active": "5a81030de1f78c71",
   "lastOpenFiles": [
-    "01 - Feeling Notes/CloudFront配信手順.md",
-    "01 - Feeling Notes/CloudFront.md",
-    "01 - Feeling Notes/CloudFront distribution.md",
-    "01 - Feeling Notes/CloudFront FunctionsでBasic認証のパスワードをかける.md",
-    "01 - Feeling Notes/CloudFrontのOAC設定.md",
-    "01 - Feeling Notes/GitHub を OIDC プロバイダーを使って AWS に認証.md",
-    "01 - Feeling Notes/S3のOAC設定.md",
-    "01 - Feeling Notes/OAC（オリジンアクセスコントロール）.md",
+    "02 - Literature Notes/Feeling Notes.md",
+    "02 - Literature Notes/Github Action上でAWS認証する.md",
+    "02 - Literature Notes/Githubのシークレット設定場所.md",
+    "02 - Literature Notes/GitHub を OIDC プロバイダーを使って AWS に認証.md",
+    "02 - Literature Notes/Obsidianの使い方は人それぞれ.md",
+    "02 - Literature Notes/React + Vite + Typescript 導入.md",
+    "02 - Literature Notes/Zettelkastenを始める3つのノート.md",
+    "02 - Literature Notes/デジタルガーデンの起源.md",
+    "02 - Literature Notes/デートでするべきこと.md",
+    "02 - Literature Notes/アクセスキーIDとシークレットアクセスキーの取得.md",
+    "02 - Literature Notes/S3へのデプロイAction.md",
+    "02 - Literature Notes/S3のオプション --delete.md",
+    "02 - Literature Notes/S3のOAC設定.md",
+    "02 - Literature Notes/S3 へのデプロイ with Github Action.md",
+    "02 - Literature Notes/Permanet Notes.md",
+    "02 - Literature Notes/Obsidian  & Zettelkasten の使い方.md",
+    "02 - Literature Notes/OAC（オリジンアクセスコントロール）.md",
+    "02 - Literature Notes/Literature Notes.md",
+    "02 - Literature Notes/IKEA効果.md",
+    "02 - Literature Notes/CloudFront配信手順.md",
+    "02 - Literature Notes/CloudFrontのOAC設定.md",
+    "02 - Literature Notes/CloudFront FunctionsでBasic認証のパスワードをかける.md",
+    "02 - Literature Notes/CloudFront.md",
+    "02 - Literature Notes/CloudFront distribution.md",
+    "02 - Literature Notes/GithubにAWS認証させる.md",
     "01 - Feeling Notes/AWS YouTube Tutorial README.md",
-    "01 - Feeling Notes/S3とCloudFrontとのOAC設定.md",
     "80 - Image/CleanShot 2025-05-12 at 15.05.35.png",
     "80 - Image/CleanShot 2025-05-12 at 15.04.26.png",
     "80 - Image/CleanShot 2025-05-12 at 15.01.10.png",
@@ -419,25 +214,9 @@
     "80 - Image/CleanShot 2025-05-12 at 15.00.27.png",
     "80 - Image/CleanShot 2025-05-12 at 14.59.19.png",
     "80 - Image/CleanShot 2025-05-12 at 11.23.50.png",
-    "01 - Feeling Notes/CloudFront distributionの作成方法.md",
     "80 - Image/CleanShot 2025-05-09 at 14.57.57.png",
     "80 - Image/CleanShot 2025-05-09 at 14.47.38.png",
     "80 - Image/CleanShot 2025-05-06 at 08.14.39.png",
-    "02 - Literature Notes/Obsidian  & Zettelkasten の使い方.md",
-    "02 - Literature Notes/デジタルガーデンの起源.md",
-    "02 - Literature Notes/初デートでしてほしいこと.md",
-    "02 - Literature Notes/アクセスキーIDとシークレットアクセスキーの取得.md",
-    "02 - Literature Notes/Zettelkastenを始める3つのノート.md",
-    "02 - Literature Notes/S3へのデプロイAction.md",
-    "02 - Literature Notes/S3のオプション --delete.md",
-    "02 - Literature Notes/React + Vite + Typescript 導入.md",
-    "02 - Literature Notes/S3 へのデプロイ with Github Action.md",
-    "02 - Literature Notes/Permanet Notes.md",
-    "02 - Literature Notes/Literature Notes.md",
-    "02 - Literature Notes/Githubのシークレット設定場所.md",
-    "02 - Literature Notes/GithubにAWS認証させる.md",
-    "02 - Literature Notes/Github Action上でAWS認証する.md",
-    "02 - Literature Notes/Feeling Notes.md",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "80 - Image",
