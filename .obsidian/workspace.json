@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Literature Notes/Obsidianの使い方は人それぞれ.md",
+                "file": "02 - Literature Notes/CloudFrontのOAC設定.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obsidianの使い方は人それぞれ"
+              "title": "CloudFrontのOAC設定"
             }
           }
         ]
@@ -179,14 +179,14 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "959121f9f15f09af",
+  "active": "5a81030de1f78c71",
   "lastOpenFiles": [
+    "02 - Literature Notes/Obsidianの使い方は人それぞれ.md",
     "02 - Literature Notes/CloudFront配信手順.md",
     "02 - Literature Notes/Feeling Notes.md",
     "02 - Literature Notes/Github Action上でAWS認証する.md",
     "02 - Literature Notes/Githubのシークレット設定場所.md",
     "02 - Literature Notes/GitHub を OIDC プロバイダーを使って AWS に認証.md",
-    "02 - Literature Notes/Obsidianの使い方は人それぞれ.md",
     "02 - Literature Notes/React + Vite + Typescript 導入.md",
     "02 - Literature Notes/Zettelkastenを始める3つのノート.md",
     "02 - Literature Notes/デジタルガーデンの起源.md",
