@@ -20,7 +20,7 @@ graph TD
      --default-root-object index.html
    ```
    - S3 リソースへのアクセスを制限するために [[OAC（オリジンアクセスコントロール）]]を作成してください。
-	   - S3とCloudFrontとのOAC設定
+	   - [[S3とCloudFrontとのOAC設定]]
 1. CloudFront 配信用の index.html ファイルを GitHub リポジトリに作成します。
 2. [[GitHub を OIDC プロバイダーを使って AWS に認証]]します。
 3. AWS コンソールで新しいアイデンティティを作成します。
