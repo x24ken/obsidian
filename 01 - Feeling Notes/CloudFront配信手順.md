@@ -19,11 +19,11 @@ graph TD
      --origin-domain-name <bucket-name>.s3.amazonaws.com \
      --default-root-object index.html
    ```
-   - S3 リソースへのアクセスを制限するために OAC（オリジンアクセスコントロール）を作成してください。
-4. CloudFront 配信用の index.html ファイルを GitHub リポジトリに作成します。
-5. [[GitHub を OIDC プロバイダーを使って AWS に認証]]します。
-6. AWS コンソールで新しいアイデンティティを作成します。
-7. GitHub Actions を設定します。
+   - S3 リソースへのアクセスを制限するために [[OAC（オリジンアクセスコントロール）]]を作成してください。
+1. CloudFront 配信用の index.html ファイルを GitHub リポジトリに作成します。
+2. [[GitHub を OIDC プロバイダーを使って AWS に認証]]します。
+3. AWS コンソールで新しいアイデンティティを作成します。
+4. GitHub Actions を設定します。
 
    - `.github/workflows/`ディレクトリに`deploy.yaml`という名前のファイルを作成します。
    - 以下の内容を記述します。
