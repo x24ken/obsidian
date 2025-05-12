@@ -205,12 +205,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Feeling Notes/OAC（オリジンアクセスコントロール）.md",
+                "file": "01 - Feeling Notes/CloudFront配信手順.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "OAC（オリジンアクセスコントロール）"
+              "title": "CloudFront配信手順"
             }
           }
         ],
@@ -375,9 +375,9 @@
   "active": "c293763b2d858997",
   "lastOpenFiles": [
     "01 - Feeling Notes/OAC（オリジンアクセスコントロール）.md",
+    "01 - Feeling Notes/GitHub を OIDC プロバイダーを使って AWS に認証.md",
     "01 - Feeling Notes/CloudFront配信手順.md",
     "01 - Feeling Notes/CloudFront distribution.md",
-    "01 - Feeling Notes/GitHub を OIDC プロバイダーを使って AWS に認証.md",
     "80 - Image/CleanShot 2025-05-12 at 11.23.50.png",
     "01 - Feeling Notes/CloudFront distributionの作成方法.md",
     "01 - Feeling Notes/CloudFront.md",
