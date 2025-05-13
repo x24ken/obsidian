@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Literature Notes/CloudFront配信手順.md",
+                "file": "02 - Literature Notes/CloudFront FunctionsでBasic認証のパスワードをかける.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CloudFront配信手順"
+              "title": "CloudFront FunctionsでBasic認証のパスワードをかける"
             }
           }
         ]
@@ -181,9 +181,9 @@
   },
   "active": "5a81030de1f78c71",
   "lastOpenFiles": [
+    "02 - Literature Notes/CloudFront配信手順.md",
     "02 - Literature Notes/CloudFrontのOAC設定.md",
     "02 - Literature Notes/Obsidianの使い方は人それぞれ.md",
-    "02 - Literature Notes/CloudFront配信手順.md",
     "02 - Literature Notes/Feeling Notes.md",
     "02 - Literature Notes/Github Action上でAWS認証する.md",
     "02 - Literature Notes/Githubのシークレット設定場所.md",
