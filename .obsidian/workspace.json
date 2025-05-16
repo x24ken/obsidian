@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Feeling Notes/アトラシアンの権限許可画面.md",
+                "file": "01 - Feeling Notes/ダウンロード後に次何をすればいいかを説明する.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "アトラシアンの権限許可画面"
+              "title": "ダウンロード後に次何をすればいいかを説明する"
             }
           },
           {
@@ -264,13 +264,13 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "959121f9f15f09af",
+  "active": "c1cda4816c4ec41e",
   "lastOpenFiles": [
-    "80 - Image/CleanShot 2025-05-16 at 12.02.20@2x.png",
+    "01 - Feeling Notes/許可オンボーディングレイアウト.md",
     "01 - Feeling Notes/ダウンロード後に次何をすればいいかを説明する.md",
     "01 - Feeling Notes/アトラシアンの権限許可画面.md",
+    "80 - Image/CleanShot 2025-05-16 at 12.02.20@2x.png",
     "80 - Image/CleanShot 2025-05-16 at 11.57.42@2x.png",
-    "01 - Feeling Notes/許可オンボーディングレイアウト.md",
     "01 - Feeling Notes/Electronアプリのプライバシー許可オンボーディング ベストプラクティス.md",
     "02 - Literature Notes/React + Vite + Typescript 導入.md",
     "02 - Literature Notes/CloudFront FunctionsでBasic認証のパスワードをかける.md",
@@ -301,7 +301,6 @@
     "80 - Image/CleanShot 2025-05-12 at 14.59.19.png",
     "80 - Image/CleanShot 2025-05-12 at 11.23.50.png",
     "80 - Image/CleanShot 2025-05-09 at 14.57.57.png",
-    "80 - Image/CleanShot 2025-05-09 at 14.47.38.png",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "80 - Image",
