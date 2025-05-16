@@ -159,8 +159,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -265,7 +264,7 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "c1cda4816c4ec41e",
+  "active": "959121f9f15f09af",
   "lastOpenFiles": [
     "80 - Image/CleanShot 2025-05-16 at 12.02.20@2x.png",
     "01 - Feeling Notes/ダウンロード後に次何をすればいいかを説明する.md",
