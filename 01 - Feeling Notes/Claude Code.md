@@ -2,4 +2,7 @@
 https://www.anthropic.com/claude-code
 
 
+# 
+
+
 [[なぜClaude CodeはIDEではなくターミナルでの開発なのか？]]
