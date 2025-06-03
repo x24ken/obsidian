@@ -33,3 +33,8 @@ Claude.mdを作ってくれる
 
 ## Escape2回押せば会話履歴戻れる
 
+チェックポイント的な扱い
+
+## 考えてもらいたいときは"think"を使う
+
+"think" < "think hard" < "think harder" < "ultrathink"
