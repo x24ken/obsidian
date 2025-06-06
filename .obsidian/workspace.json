@@ -111,12 +111,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Literature Notes/IKEA効果.md",
+                "file": "01 - Feeling Notes/Electronアプリのプライバシー許可オンボーディング ベストプラクティス.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "IKEA効果"
+              "title": "Electronアプリのプライバシー許可オンボーディング ベストプラクティス"
             }
           }
         ],
@@ -280,10 +280,10 @@
   },
   "active": "3783897d393e94de",
   "lastOpenFiles": [
+    "02 - Literature Notes/IKEA効果.md",
     "02 - Literature Notes/Literature Notes.md",
     "02 - Literature Notes/OAC（オリジンアクセスコントロール）.md",
     "02 - Literature Notes/Obsidian  & Zettelkasten の使い方.md",
-    "02 - Literature Notes/IKEA効果.md",
     "02 - Literature Notes/GithubにAWS認証させる.md",
     "02 - Literature Notes/Githubのシークレット設定場所.md",
     "02 - Literature Notes/GitHub を OIDC プロバイダーを使って AWS に認証.md",
