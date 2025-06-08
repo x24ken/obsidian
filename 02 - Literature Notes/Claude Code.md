@@ -3,7 +3,7 @@ https://www.anthropic.com/claude-code
 
 参考: 
 [[なぜClaude CodeはIDEではなくターミナルでの開発なのか？]]
-
+[[Claude Code理解のために何やればいいの？]]
 
 ## 料金体系
 
