@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Feeling Notes/macOS + iTerm2でのClaude Code音声通知設定ガイド.md",
+                "file": "01 - Feeling Notes/Git ワークツリーを使用して Claude コードを並列化する方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "macOS + iTerm2でのClaude Code音声通知設定ガイド"
+              "title": "Git ワークツリーを使用して Claude コードを並列化する方法"
             }
           }
         ],
@@ -322,8 +322,8 @@
   },
   "active": "2c74366e2e05ab49",
   "lastOpenFiles": [
+    "02 - Literature Notes/macOS + iTerm2でのClaude Code音声通知設定ガイド.md",
     "01 - Feeling Notes/Claude Codeでやりたいこと.md",
-    "01 - Feeling Notes/macOS + iTerm2でのClaude Code音声通知設定ガイド.md",
     "01 - Feeling Notes/Git ワークツリーを使用して Claude コードを並列化する方法.md",
     "01 - Feeling Notes/Claude Code理解のために何やればいいの？.md",
     "80 - Image/CleanShot 2025-06-09 at 11.16.27.png",
