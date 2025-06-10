@@ -125,12 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Feeling Notes/Git ワークツリーを使用して Claude コードを並列化する方法.md",
+                "file": "01 - Feeling Notes/Git-worktreeを使用して Claude コードを並列化する方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git ワークツリーを使用して Claude コードを並列化する方法"
+              "title": "Git-worktreeを使用して Claude コードを並列化する方法"
             }
           },
           {
@@ -153,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Feeling Notes/Git ワークツリーを使用して Claude コードを並列化する方法.md",
+                "file": "01 - Feeling Notes/Git-worktreeを使用して Claude コードを並列化する方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git ワークツリーを使用して Claude コードを並列化する方法"
+              "title": "Git-worktreeを使用して Claude コードを並列化する方法"
             }
           },
           {
@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Feeling Notes/git-worktree.md",
+                "file": "01 - Feeling Notes/Git-worktreeを使用して Claude コードを並列化する方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git-worktree"
+              "title": "Git-worktreeを使用して Claude コードを並列化する方法"
             }
           }
         ],
@@ -350,14 +350,14 @@
   },
   "active": "0645e52c6d6e7d45",
   "lastOpenFiles": [
-    "80 - Image/CleanShot 2025-06-10 at 17.29.54.png",
-    "01 - Feeling Notes/claudeにコマンドを追加する.md",
     "01 - Feeling Notes/git-worktree.md",
-    "80 - Image/CleanShot 2025-06-10 at 14.29.07.png",
-    "01 - Feeling Notes/Git ワークツリーを使用して Claude コードを並列化する方法.md",
-    "02 - Literature Notes/macOS + iTerm2でのClaude Code音声通知設定ガイド.md",
-    "01 - Feeling Notes/Claude Codeでやりたいこと.md",
+    "01 - Feeling Notes/Git-worktreeを使用して Claude コードを並列化する方法.md",
+    "01 - Feeling Notes/claudeにコマンドを追加する.md",
     "01 - Feeling Notes/Claude Code理解のために何やればいいの？.md",
+    "01 - Feeling Notes/Claude Codeでやりたいこと.md",
+    "80 - Image/CleanShot 2025-06-10 at 17.29.54.png",
+    "80 - Image/CleanShot 2025-06-10 at 14.29.07.png",
+    "02 - Literature Notes/macOS + iTerm2でのClaude Code音声通知設定ガイド.md",
     "80 - Image/CleanShot 2025-06-09 at 11.16.27.png",
     "02 - Literature Notes/Claude Code.md",
     "01 - Feeling Notes/Electronアプリのプライバシー許可オンボーディング ベストプラクティス.md",
@@ -385,7 +385,6 @@
     "80 - Image/CleanShot 2025-05-12 at 15.01.10.png",
     "80 - Image/CleanShot 2025-05-12 at 15.00.58.png",
     "80 - Image/CleanShot 2025-05-12 at 15.00.27.png",
-    "80 - Image/CleanShot 2025-05-12 at 14.59.19.png",
     "無題のファイル 1.canvas",
     "無題のファイル.canvas",
     "80 - Image",
