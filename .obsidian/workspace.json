@@ -181,12 +181,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Feeling Notes/Git-worktreeを使用して Claude コードを並列化する方法.md",
+                "file": "01 - Feeling Notes/Claude Codeでやりたいこと.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git-worktreeを使用して Claude コードを並列化する方法"
+              "title": "Claude Codeでやりたいこと"
             }
           }
         ],
@@ -350,10 +350,10 @@
   },
   "active": "0645e52c6d6e7d45",
   "lastOpenFiles": [
+    "01 - Feeling Notes/Claude Code理解のために何やればいいの？.md",
     "01 - Feeling Notes/git-worktree.md",
     "01 - Feeling Notes/Git-worktreeを使用して Claude コードを並列化する方法.md",
     "01 - Feeling Notes/claudeにコマンドを追加する.md",
-    "01 - Feeling Notes/Claude Code理解のために何やればいいの？.md",
     "01 - Feeling Notes/Claude Codeでやりたいこと.md",
     "80 - Image/CleanShot 2025-06-10 at 17.29.54.png",
     "80 - Image/CleanShot 2025-06-10 at 14.29.07.png",
