@@ -188,9 +188,51 @@
               "icon": "lucide-file",
               "title": "Claude Codeでやりたいこと"
             }
+          },
+          {
+            "id": "0fae785bfa9ff894",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Feeling Notes/疲労と疲労感は違う.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "疲労と疲労感は違う"
+            }
+          },
+          {
+            "id": "79df33ba4221162a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Feeling Notes/寝るだけじゃない！7つの休養タイプ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "寝るだけじゃない！7つの休養タイプ"
+            }
+          },
+          {
+            "id": "d1e5bcf43e205226",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01 - Feeling Notes/疲労と疲労感は違う.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "疲労と疲労感は違う"
+            }
           }
         ],
-        "currentTab": 12
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -348,13 +390,15 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "0645e52c6d6e7d45",
+  "active": "d1e5bcf43e205226",
   "lastOpenFiles": [
+    "01 - Feeling Notes/寝るだけじゃない！7つの休養タイプ.md",
+    "01 - Feeling Notes/疲労と疲労感は違う.md",
+    "01 - Feeling Notes/Claude Codeでやりたいこと.md",
     "01 - Feeling Notes/Claude Code理解のために何やればいいの？.md",
     "01 - Feeling Notes/git-worktree.md",
     "01 - Feeling Notes/Git-worktreeを使用して Claude コードを並列化する方法.md",
     "01 - Feeling Notes/claudeにコマンドを追加する.md",
-    "01 - Feeling Notes/Claude Codeでやりたいこと.md",
     "80 - Image/CleanShot 2025-06-10 at 17.29.54.png",
     "80 - Image/CleanShot 2025-06-10 at 14.29.07.png",
     "02 - Literature Notes/macOS + iTerm2でのClaude Code音声通知設定ガイド.md",
@@ -377,7 +421,6 @@
     "02 - Literature Notes/CloudFront.md",
     "02 - Literature Notes/S3 へのデプロイ with Github Action.md",
     "02 - Literature Notes/Zettelkastenを始める3つのノート.md",
-    "02 - Literature Notes/アクセスキーIDとシークレットアクセスキーの取得.md",
     "80 - Image/CleanShot 2025-05-16 at 12.02.20@2x.png",
     "80 - Image/CleanShot 2025-05-16 at 11.57.42@2x.png",
     "80 - Image/CleanShot 2025-05-12 at 15.05.35.png",
