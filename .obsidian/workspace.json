@@ -125,26 +125,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Feeling Notes/Git-worktreeを使用して Claude コードを並列化する方法.md",
+                "file": "01 - Feeling Notes/Git Work Treeを使用して Claude コードを並列化する方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git-worktreeを使用して Claude コードを並列化する方法"
-            }
-          },
-          {
-            "id": "6ceeabc0fc66ffe5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Feeling Notes/Claude Codeでやりたいこと.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Claude Codeでやりたいこと"
+              "title": "Git Work Treeを使用して Claude コードを並列化する方法"
             }
           },
           {
@@ -153,12 +139,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Feeling Notes/Git-worktreeを使用して Claude コードを並列化する方法.md",
+                "file": "01 - Feeling Notes/Git Work Treeを使用して Claude コードを並列化する方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git-worktreeを使用して Claude コードを並列化する方法"
+              "title": "Git Work Treeを使用して Claude コードを並列化する方法"
             }
           },
           {
@@ -167,12 +153,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Feeling Notes/claudeにコマンドを追加する.md",
+                "file": "01 - Feeling Notes/Claude Codeにコマンドを追加する.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "claudeにコマンドを追加する"
+              "title": "Claude Codeにコマンドを追加する"
             }
           },
           {
@@ -181,12 +167,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Feeling Notes/Claude Codeでやりたいこと.md",
+                "file": "01 - Feeling Notes/Claude Code理解のために何やればいいの？.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Claude Codeでやりたいこと"
+              "title": "Claude Code理解のために何やればいいの？"
             }
           },
           {
@@ -195,7 +181,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Feeling Notes/疲労と疲労感は違う.md",
+                "file": "02 - Literature Notes/疲労と疲労感は違う.md",
                 "mode": "source",
                 "source": false
               },
@@ -209,7 +195,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Feeling Notes/寝るだけじゃない！7つの休養タイプ.md",
+                "file": "02 - Literature Notes/寝るだけじゃない！7つの休養タイプ.md",
                 "mode": "source",
                 "source": false
               },
@@ -223,16 +209,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Feeling Notes/｢頑張ってから休む｣んじゃなくて、｢休んでから頑張る｣.md",
+                "file": "01 - Feeling Notes/Git Work Treeを使用して Claude コードを並列化する方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "｢頑張ってから休む｣んじゃなくて、｢休んでから頑張る｣"
+              "title": "Git Work Treeを使用して Claude コードを並列化する方法"
             }
           }
         ],
-        "currentTab": 15
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -392,15 +378,15 @@
   },
   "active": "d1e5bcf43e205226",
   "lastOpenFiles": [
-    "01 - Feeling Notes/寝るだけじゃない！7つの休養タイプ.md",
-    "01 - Feeling Notes/｢頑張ってから休む｣んじゃなくて、｢休んでから頑張る｣.md",
-    "80 - Image/CleanShot 2025-06-16 at 22.21.36.png",
-    "01 - Feeling Notes/疲労と疲労感は違う.md",
+    "01 - Feeling Notes/Git Work Tree.md",
+    "01 - Feeling Notes/Git Work Treeを使用して Claude コードを並列化する方法.md",
+    "01 - Feeling Notes/Claude Codeにコマンドを追加する.md",
     "01 - Feeling Notes/Claude Codeでやりたいこと.md",
     "01 - Feeling Notes/Claude Code理解のために何やればいいの？.md",
-    "01 - Feeling Notes/git-worktree.md",
-    "01 - Feeling Notes/Git-worktreeを使用して Claude コードを並列化する方法.md",
-    "01 - Feeling Notes/claudeにコマンドを追加する.md",
+    "02 - Literature Notes/寝るだけじゃない！7つの休養タイプ.md",
+    "02 - Literature Notes/｢頑張ってから休む｣んじゃなくて、｢休んでから頑張る｣.md",
+    "80 - Image/CleanShot 2025-06-16 at 22.21.36.png",
+    "02 - Literature Notes/疲労と疲労感は違う.md",
     "80 - Image/CleanShot 2025-06-10 at 17.29.54.png",
     "80 - Image/CleanShot 2025-06-10 at 14.29.07.png",
     "02 - Literature Notes/macOS + iTerm2でのClaude Code音声通知設定ガイド.md",
