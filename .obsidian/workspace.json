@@ -4,207 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "237d0d1b5aadadaa",
+        "id": "15188818cef113c9",
         "type": "tabs",
         "children": [
           {
-            "id": "5a81030de1f78c71",
+            "id": "4098aad1c79eb0f9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Literature Notes/React + Vite + Typescript 導入.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "React + Vite + Typescript 導入"
-            }
-          },
-          {
-            "id": "09e44a395a8c0ba5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Feeling Notes/Electronアプリのプライバシー許可オンボーディング ベストプラクティス.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Electronアプリのプライバシー許可オンボーディング ベストプラクティス"
-            }
-          },
-          {
-            "id": "afb7a281468e4999",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Feeling Notes/許可オンボーディングレイアウト.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "許可オンボーディングレイアウト"
-            }
-          },
-          {
-            "id": "858f9ea63699bb68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Feeling Notes/ダウンロード後に次何をすればいいかを説明する.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "ダウンロード後に次何をすればいいかを説明する"
-            }
-          },
-          {
-            "id": "c1cda4816c4ec41e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Feeling Notes/Electronアプリのプライバシー許可オンボーディング ベストプラクティス.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Electronアプリのプライバシー許可オンボーディング ベストプラクティス"
-            }
-          },
-          {
-            "id": "18ff7d89a112deca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Literature Notes/Claude Code.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Claude Code"
-            }
-          },
-          {
-            "id": "a3e7fd2f1b1c6171",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Literature Notes/Claude Code.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Claude Code"
-            }
-          },
-          {
-            "id": "a94adb3258f41663",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Literature Notes/Git Work Treeを使用して Claude コードを並列化する方法.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git Work Treeを使用して Claude コードを並列化する方法"
-            }
-          },
-          {
-            "id": "2c74366e2e05ab49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Literature Notes/Git Work Treeを使用して Claude コードを並列化する方法.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git Work Treeを使用して Claude コードを並列化する方法"
-            }
-          },
-          {
-            "id": "16de3871ea298260",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Literature Notes/Claude Codeにコマンドを追加する.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Claude Codeにコマンドを追加する"
-            }
-          },
-          {
-            "id": "0645e52c6d6e7d45",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Literature Notes/Git Work Tree.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Git Work Tree"
-            }
-          },
-          {
-            "id": "0fae785bfa9ff894",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Literature Notes/疲労と疲労感は違う.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "疲労と疲労感は違う"
-            }
-          },
-          {
-            "id": "79df33ba4221162a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Literature Notes/寝るだけじゃない！7つの休養タイプ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "寝るだけじゃない！7つの休養タイプ"
-            }
-          },
-          {
-            "id": "d1e5bcf43e205226",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02 - Literature Notes/Claude Codeにコマンドを追加する.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Claude Codeにコマンドを追加する"
+              "title": "新規タブ"
             }
           }
-        ],
-        "currentTab": 13
+        ]
       }
     ],
     "direction": "vertical"
@@ -261,7 +74,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fb3c7b8d786fa023",
@@ -349,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -362,10 +177,10 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "d1e5bcf43e205226",
+  "active": "4098aad1c79eb0f9",
   "lastOpenFiles": [
-    "01 - Feeling Notes/Claude Code理解のために何やればいいの？.md",
     "02 - Literature Notes/Claude Codeにコマンドを追加する.md",
+    "01 - Feeling Notes/Claude Code理解のために何やればいいの？.md",
     "02 - Literature Notes/Git Work Treeを使用して Claude コードを並列化する方法.md",
     "02 - Literature Notes/Git Work Tree.md",
     "01 - Feeling Notes/Claude Codeでやりたいこと.md",
