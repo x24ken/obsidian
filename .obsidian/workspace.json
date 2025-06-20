@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Feeling Notes/n8n完全入門.md",
+                "file": "01 - Feeling Notes/n8n vs Difi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "n8n完全入門"
+              "title": "n8n vs Difi"
             }
           },
           {
@@ -196,8 +196,10 @@
   },
   "active": "4098aad1c79eb0f9",
   "lastOpenFiles": [
-    "01 - Feeling Notes/n8n料金体系.md",
     "01 - Feeling Notes/n8n完全入門.md",
+    "01 - Feeling Notes/n8n vs Difi.md",
+    "01 - Feeling Notes/n8n vs zapier.md",
+    "01 - Feeling Notes/n8n料金体系.md",
     "02 - Literature Notes/Claude Codeにコマンドを追加する.md",
     "01 - Feeling Notes/Claude Code理解のために何やればいいの？.md",
     "02 - Literature Notes/Git Work Treeを使用して Claude コードを並列化する方法.md",
@@ -224,8 +226,6 @@
     "02 - Literature Notes/CloudFront配信手順.md",
     "02 - Literature Notes/Github Action上でAWS認証する.md",
     "02 - Literature Notes/CloudFrontのOAC設定.md",
-    "02 - Literature Notes/CloudFront FunctionsでBasic認証のパスワードをかける.md",
-    "02 - Literature Notes/CloudFront distribution.md",
     "80 - Image/CleanShot 2025-05-16 at 12.02.20@2x.png",
     "80 - Image/CleanShot 2025-05-16 at 11.57.42@2x.png",
     "80 - Image/CleanShot 2025-05-12 at 15.05.35.png",
