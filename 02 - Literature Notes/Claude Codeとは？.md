@@ -1,9 +1,5 @@
-ターミナル上で実行するコーディング用のAIエージェント
-https://www.anthropic.com/claude-code
 
-参考: 
-[[なぜClaude CodeはIDEではなくターミナルでの開発なのか？]]
-[[Claude Code理解のために何やればいいの？]]
+ターミナル上で実行するコーディング用のAIエージェント
 
 ## 料金体系
 
@@ -38,3 +34,6 @@ Claude.mdを作ってくれる
 ## 考えてもらいたいときは"think"を使う
 
 "think" < "think hard" < "think harder" < "ultrathink"
+
+
+参考: [[なぜClaude CodeはIDEではなくターミナルでの開発なのか？]]

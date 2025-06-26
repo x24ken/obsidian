@@ -5,6 +5,6 @@
 - 1つのエージェントが失敗する一方で、別のエージェントがゴールドを生み出します。これは、複雑なタスクにおけるモデルの失敗に対するヘッジ方法です。
 
 
-[[Git Work Tree]]
+[[Git Work Tree とは？]]
 
 参考: https://www.youtube.com/watch?v=f8RnRuaxee8

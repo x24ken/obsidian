@@ -2,6 +2,6 @@
 
 Zettelkastenは３つのノートから始めることができる
 
-- [[Feeling Notes]]
+- [[Feeling Notes とは？]]
 - [[Literature Notes]]
 - [[Permanet Notes]]
