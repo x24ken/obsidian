@@ -1,4 +1,5 @@
 #claude
+
 ## 各設定項目の説明
 
 **`defaultMode: "accept"`**
