@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Feeling Notes/予定納税.md",
+                "file": "01 - Feeling Notes/e-Tax振替納税設定ガイド.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "予定納税"
+              "title": "e-Tax振替納税設定ガイド"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fb3c7b8d786fa023",
@@ -182,10 +183,10 @@
   },
   "active": "00f04b92fd14fbe4",
   "lastOpenFiles": [
-    "01 - Feeling Notes/MCP Obsidian セットアップ.md",
     "01 - Feeling Notes/Obsidianプラグイン (Local REST API).md",
-    "01 - Feeling Notes/e-Tax振替納税設定ガイド.md",
     "01 - Feeling Notes/予定納税.md",
+    "01 - Feeling Notes/MCP Obsidian セットアップ.md",
+    "01 - Feeling Notes/e-Tax振替納税設定ガイド.md",
     "01 - Feeling Notes/振替納税の口座登録完全ガイド.md",
     "01 - Feeling Notes/予定納税の支払い方法比較検討.md",
     "80 - Image/CleanShot 2025-07-05 at 14.13.16@2x.png",
