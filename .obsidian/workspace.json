@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f379f1c2b720ce46",
+        "id": "d449fb9a61955c11",
         "type": "tabs",
         "children": [
           {
-            "id": "712dd546525fa82e",
+            "id": "cd5930349316a0b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Feeling Notes/MCP Obsidian セットアップ.md",
+                "file": "01 - Feeling Notes/Obsidianプラグイン (Local REST API).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MCP Obsidian セットアップ"
+              "title": "Obsidianプラグイン (Local REST API)"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fb3c7b8d786fa023",
@@ -181,9 +180,13 @@
       "command-palette:コマンドパレットを開く": false
     }
   },
-  "active": "712dd546525fa82e",
+  "active": "cd5930349316a0b1",
   "lastOpenFiles": [
     "01 - Feeling Notes/MCP Obsidian セットアップ.md",
+    "01 - Feeling Notes/Obsidianプラグイン (Local REST API).md",
+    "80 - Image/CleanShot 2025-07-05 at 13.59.10@2x 1.png",
+    "80 - Image/CleanShot 2025-07-05 at 13.59.10@2x.png",
+    "無題のファイル.canvas",
     "02 - Literature Notes/ClaudeCode許可設定.md",
     "02 - Literature Notes/デザインシステム用MCPサーバー実装ガイド.md",
     "02 - Literature Notes/疲労と疲労感は違う.md",
@@ -208,7 +211,6 @@
     "02 - Literature Notes/React + Vite + Typescript 導入.md",
     "02 - Literature Notes/Github Action上でAWS認証する.md",
     "02 - Literature Notes/Git Work Treeを使用して Claude コードを並列化する方法.md",
-    "02 - Literature Notes/OAC（オリジンアクセスコントロール）.md",
     "無題のフォルダ",
     "80 - Image/CleanShot 2025-06-16 at 22.21.36.png",
     "80 - Image/CleanShot 2025-06-10 at 17.29.54.png",
@@ -218,10 +220,7 @@
     "80 - Image/CleanShot 2025-05-16 at 11.57.42@2x.png",
     "80 - Image/CleanShot 2025-05-12 at 15.05.35.png",
     "80 - Image/CleanShot 2025-05-12 at 15.04.26.png",
-    "80 - Image/CleanShot 2025-05-12 at 15.01.10.png",
-    "80 - Image/CleanShot 2025-05-12 at 15.00.58.png",
     "無題のファイル 1.canvas",
-    "無題のファイル.canvas",
     "80 - Image",
     "99_Zettlekasten",
     "04_Archive",
