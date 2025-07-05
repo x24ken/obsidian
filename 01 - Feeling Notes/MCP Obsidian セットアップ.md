@@ -12,8 +12,9 @@ code ~/Library/Application\ Support/Claude/claude_desktop_config.json
 
 [[ Obsidianプラグイン (Local REST API) ]]
 
+## 注意点
 
-which uvxとして、uvxのフルパスを貼り付ける
+which uvxをして出てきたuvxのフルパスを貼り付ける
 
 ![[CleanShot 2025-07-05 at 14.13.16@2x.png]]
 
