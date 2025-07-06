@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Literature Notes/🔍Zettelkasten.md",
+                "file": "02 - Literature Notes/Claude Code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🔍Zettelkasten"
+              "title": "Claude Code"
             }
           }
         ]
@@ -180,8 +180,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "959121f9f15f09af",
+  "active": "4b0c2a608a589ed0",
   "lastOpenFiles": [
+    "02 - Literature Notes/S3へのデプロイAction.md",
+    "02 - Literature Notes/S3 sync --delete オプションの効果.md",
+    "99 - Templates/Concept Prompt.md",
+    "99 - Templates/超包括的Zettelkastenプロンプト.md",
+    "02 - Literature Notes/疲労と疲労感は違う.md",
+    "02 - Literature Notes/Claude Code権限最適化ガイド.md",
+    "02 - Literature Notes/予定納税の新しい支払い方法.md",
+    "02 - Literature Notes/デート成功の3つのポイント.md",
+    "02 - Literature Notes/🔍Zettelkasten.md",
+    "02 - Literature Notes/React + Vite + TypeScript プロジェクト作成.md",
+    "02 - Literature Notes/Claude Codeカスタムコマンド追加ガイド.md",
+    "02 - Literature Notes/休んでから頑張る7つの休養タイプ.md",
+    "02 - Literature Notes/GitHub ActionでAWS認証する簡単な方法.md",
+    "02 - Literature Notes/IKEA効果.md",
     "02 - Literature Notes/Claude Code.md",
     "02 - Literature Notes/🔍Claude Code.md",
     "02 - Literature Notes/🔍CloudFront.md",
@@ -189,25 +203,11 @@
     "02 - Literature Notes/📋CloudFront Basic認証設定ガイド.md",
     "02 - Literature Notes/📋Claude Codeカスタムコマンド追加ガイド.md",
     "02 - Literature Notes/📋Claude Code音声通知設定ガイド.md",
-    "99 - Templates/🚀超包括的Zettelkastenプロンプト.md",
     "02 - Literature Notes/💡予定納税の新しい支払い方法.md",
     "02 - Literature Notes/💡GitHub ActionでAWS認証する簡単な方法.md",
     "02 - Literature Notes/💡S3 sync --delete オプションの効果.md",
     "02 - Literature Notes/💡デート成功の3つのポイント.md",
     "02 - Literature Notes/🔍Literature Notes.md",
-    "02 - Literature Notes/🔍Git Work Tree.md",
-    "02 - Literature Notes/🔍CloudFront distribution.md",
-    "02 - Literature Notes/💡休んでから頑張る7つの休養タイプ.md",
-    "02 - Literature Notes/🔍デジタルガーデン.md",
-    "02 - Literature Notes/🔍Feeling Notes.md",
-    "02 - Literature Notes/🔍Obsidianの使い方は人それぞれ.md",
-    "02 - Literature Notes/💡React + Vite + TypeScript プロジェクト作成.md",
-    "02 - Literature Notes/📋デザインシステム用MCPサーバー実装ガイド.md",
-    "02 - Literature Notes/🔍ダイレクト納付.md",
-    "02 - Literature Notes/💡予定納税の納付書が来なくなった.md",
-    "02 - Literature Notes/💡寝るだけじゃない！7つの休養タイプ.md",
-    "02 - Literature Notes/💡デートでするべきこと.md",
-    "99 - Templates/🤖最強Zettelkastenプロンプト.md",
     "99 - Templates",
     "無題のファイル.canvas",
     "80 - Image/CleanShot 2025-07-05 at 14.13.16@2x.png",
