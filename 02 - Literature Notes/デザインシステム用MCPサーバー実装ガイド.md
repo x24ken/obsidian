@@ -71,7 +71,7 @@ your-design-system/
 - **MCP接続エラー**: クライアント側設定の確認
 
 ## 🔄 関連リンク
-- [[📋MCPサーバー配置・使用ガイド]]
+- [[MCPサーバー配置・使用ガイド]]
 - FastMCP Framework公式ドキュメント
 - Tailwind CSS v4設定ガイド
 

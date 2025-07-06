@@ -9,14 +9,14 @@ CloudFront Functionsを使用してBasic認証を実装し、Webサイトへの�
 
 ## 🧰 必要なもの
 - AWSアカウント
-- [[🔍CloudFront distribution]]が設定済み
+- [[CloudFront distribution]]が設定済み
 - base64コマンドの知識
 
 ## 📝 手順概要
 1. Basic認証の認証情報を準備
 2. base64エンコードによる認証情報の変換
 3. CloudFront Functionsコードの実装
-4. [[🔍CloudFront]]への関数適用
+4. [[CloudFront]]への関数適用
 
 ## 🔧 詳細手順
 
@@ -33,7 +33,7 @@ echo -n "testID:testPass" | base64
 上記のbase64エンコード結果をCloudFront Functionsに実装
 
 ### Step 4: 配信設定への適用
-[[🔍CloudFront distribution]]のビヘイビア設定に関数を適用
+[[CloudFront distribution]]のビヘイビア設定に関数を適用
 
 ## ✅ 完了チェック
 - [ ] 認証情報がbase64エンコードされている
@@ -43,16 +43,16 @@ echo -n "testID:testPass" | base64
 
 ## 🚨 よくある失敗と対策
 - **認証が働かない**: base64エンコードが正しいか確認
-- **アクセスエラー**: [[🔍CloudFront]]キャッシュのクリア
-- **設定反映されない**: [[🔍CloudFront]]デプロイ完了を待つ
+- **アクセスエラー**: [[CloudFront]]キャッシュのクリア
+- **設定反映されない**: [[CloudFront]]デプロイ完了を待つ
 
 ## 🔄 関連リンク
-- [[🔍CloudFront]]の基本概念
+- [[CloudFront]]の基本概念
 - CloudFront Functionsの実装
 - Basic認証の仕組み
 
 ## 🚀 次のステップ
-- [[📋CloudFront OAC設定ガイド]]
+- [[CloudFront OAC設定ガイド]]
 - [[CloudFront配信ガイド]]
 - 高度なセキュリティ設定
 

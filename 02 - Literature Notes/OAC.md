@@ -28,7 +28,7 @@ Webサービスが、どのオリジンからのリクエストを許可・拒�
 - **CORS設定**：`Access-Control-Allow-Origin: https://trusted-site.com`
 - **API保護**：特定ドメインからのみAPI呼び出しを許可
 - **埋め込み制御**：iframe埋め込みを特定サイトのみ許可
-- **CDN設定**：[[🔍CloudFront]]でのオリジンアクセス制限
+- **CDN設定**：[[CloudFront]]でのオリジンアクセス制限
 
 ## 🎓 なぜ重要？
 - Webセキュリティ：悪意のあるサイトからの攻撃を防止
@@ -40,4 +40,4 @@ Webサービスが、どのオリジンからのリクエストを許可・拒�
 - 上位概念：Webセキュリティ、アクセス制御、HTTP
 - 実装技術：CORS、HTTPヘッダー、サーバーサイド検証
 - 関連攻撃：CSRF、XSS、クロスサイトリクエストフォージェリ
-- 応用例：[[🔍CloudFront]]、API Gateway、Webアプリケーション
+- 応用例：[[CloudFront]]、API Gateway、Webアプリケーション
