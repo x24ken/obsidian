@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Literature Notes/🔍Zettelkasten.md",
+                "file": "99 - Templates/🤖最強Zettelkastenプロンプト.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🔍Zettelkasten"
+              "title": "🤖最強Zettelkastenプロンプト"
             }
           }
         ]
@@ -182,8 +182,9 @@
   },
   "active": "32f4cb203281ee51",
   "lastOpenFiles": [
-    "02 - Literature Notes/🔍デジタルガーデン.md",
     "02 - Literature Notes/🔍Literature Notes.md",
+    "02 - Literature Notes/🔍Zettelkasten.md",
+    "02 - Literature Notes/🔍デジタルガーデン.md",
     "02 - Literature Notes/💡S3へのデプロイAction.md",
     "02 - Literature Notes/💡GitHub ActionでAWS認証する簡単な方法.md",
     "02 - Literature Notes/📋Claude Code音声通知設定ガイド.md",
@@ -198,7 +199,6 @@
     "02 - Literature Notes/📋Claude Codeコマンド追加ガイド.md",
     "02 - Literature Notes/📋Git Work Tree並列化ガイド.md",
     "02 - Literature Notes/🔍ダイレクト納付.md",
-    "02 - Literature Notes/🔍Zettelkasten.md",
     "02 - Literature Notes/🔍Permanent Notes.md",
     "02 - Literature Notes/🔍Obsidianの使い方は人それぞれ.md",
     "02 - Literature Notes/🔍OAC.md",
