@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Feeling Notes/e-Tax振替納税設定ガイド.md",
+                "file": "01 - Feeling Notes/税金口座振替.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "e-Tax振替納税設定ガイド"
+              "title": "税金口座振替"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "fb3c7b8d786fa023",
@@ -184,15 +183,16 @@
   "active": "00f04b92fd14fbe4",
   "lastOpenFiles": [
     "01 - Feeling Notes/Obsidianプラグイン (Local REST API).md",
+    "01 - Feeling Notes/e-Tax振替納税設定ガイド.md",
+    "01 - Feeling Notes/税金口座振替.md",
+    "無題のファイル.canvas",
     "01 - Feeling Notes/予定納税.md",
     "01 - Feeling Notes/MCP Obsidian セットアップ.md",
-    "01 - Feeling Notes/e-Tax振替納税設定ガイド.md",
     "01 - Feeling Notes/振替納税の口座登録完全ガイド.md",
     "01 - Feeling Notes/予定納税の支払い方法比較検討.md",
     "80 - Image/CleanShot 2025-07-05 at 14.13.16@2x.png",
     "80 - Image/CleanShot 2025-07-05 at 13.59.10@2x 1.png",
     "80 - Image/CleanShot 2025-07-05 at 13.59.10@2x.png",
-    "無題のファイル.canvas",
     "02 - Literature Notes/ClaudeCode許可設定.md",
     "02 - Literature Notes/デザインシステム用MCPサーバー実装ガイド.md",
     "02 - Literature Notes/疲労と疲労感は違う.md",
@@ -211,8 +211,6 @@
     "02 - Literature Notes/MCPサーバーの配置・使用方法：完全ガイド（2025年版）.md",
     "02 - Literature Notes/CloudFrontとは？.md",
     "02 - Literature Notes/n8n vs zapier.md",
-    "02 - Literature Notes/Githubのシークレット設定場所.md",
-    "02 - Literature Notes/GithubにAWS認証させる.md",
     "無題のフォルダ",
     "80 - Image/CleanShot 2025-06-16 at 22.21.36.png",
     "80 - Image/CleanShot 2025-06-10 at 17.29.54.png",
