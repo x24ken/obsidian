@@ -1,7 +1,3 @@
-# 📋Claude Code権限最適化ガイド
-
-**UID**: 20250706-140011-claude-permissions
-
 ## 📝 一行要約
 Claude Codeの権限設定を適切に調整し、安全で効率的な開発環境を構築する方法
 
