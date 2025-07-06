@@ -28,7 +28,7 @@ GitHubからAWSサービスにアクセスするための認証を設定し、Gi
 - `AWS_SECRET_ACCESS_KEY`
 
 ### Step 3: GitHub Actionsでの認証
-[[💡GitHub ActionでAWS認証する簡単な方法]]を参照して認証コードを実装
+[[GitHub ActionでAWS認証する簡単な方法]]を参照して認証コードを実装
 
 ## ✅ 完了チェック
 - [ ] AWSアクセスキーが取得されている
@@ -43,9 +43,9 @@ GitHubからAWSサービスにアクセスするための認証を設定し、Gi
 ## 🔄 関連リンク
 - [[アクセスキーIDとシークレットアクセスキーの取得]]
 - [[💡GitHubシークレット設定の場所を一瞬で見つける方法]]
-- [[💡GitHub ActionでAWS認証する簡単な方法]]
+- [[GitHub ActionでAWS認証する簡単な方法]]
 
 ## 🚀 次のステップ
 - [[📋GitHub OIDC AWS認証ガイド]]（セキュア版）
-- [[📋CloudFront配信ガイド]]
+- [[CloudFront配信ガイド]]
 - [[S3 へのデプロイ with Github Action]]

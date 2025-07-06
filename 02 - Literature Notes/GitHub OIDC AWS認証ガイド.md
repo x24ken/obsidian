@@ -61,7 +61,7 @@ AWS ConsoleでIAM→IDプロバイダーからOIDCプロバイダーを作成
 - OIDC認証の仕組み
 
 ## 🚀 次のステップ
-- [[📋CloudFront配信ガイド]]
+- [[CloudFront配信ガイド]]
 - 高度なセキュリティ設定
 
 **参考リンク**:

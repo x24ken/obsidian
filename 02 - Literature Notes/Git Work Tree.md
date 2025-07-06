@@ -38,5 +38,5 @@
 ## 🔄 つながり
 - 上位概念：Git、バージョン管理、並行開発
 - 関連機能：Git Branch、Git Stash、Git Clone
-- 応用例：[[📋Git Work Tree並列化ガイド]]
+- 応用例：[[Git Work Tree並列化ガイド]]
 - 連携ツール：IDE、CI/CD、テスト環境
