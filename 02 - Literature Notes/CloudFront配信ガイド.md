@@ -80,14 +80,7 @@ jobs:
           aws cloudfront create-invalidation --distribution-id <distribution_id> --paths '/*'
 ```
 
-## ✅ 完了チェック
-- [ ] GitHubリポジトリが作成されている
-- [ ] S3バケットが作成されている
-- [ ] [[CloudFront distribution]]が設定されている
-- [ ] [[OAC]]が正しく設定されている
-- [ ] GitHub Actionsが正常に動作している
-
-## 🚨 よくある失敗と対策
+## 🔧 トラブルシューティング
 - **権限エラー**: OIDC設定とIAMロールを確認
 - **デプロイ失敗**: S3バケット名とリージョンを確認
 - **キャッシュ問題**: [[CloudFront]]キャッシュの無効化を実行
