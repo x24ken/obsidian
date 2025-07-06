@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Literature Notes/📋Obsidian Local REST API プラグイン設定ガイド.md",
+                "file": "01 - Feeling Notes/📋e-Tax振替納税設定ガイド.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "📋Obsidian Local REST API プラグイン設定ガイド"
+              "title": "📋e-Tax振替納税設定ガイド"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "fb3c7b8d786fa023",
@@ -182,8 +183,8 @@
   },
   "active": "32f4cb203281ee51",
   "lastOpenFiles": [
-    "01 - Feeling Notes/📋MCP Obsidian セットアップガイド.md",
     "02 - Literature Notes/📋Obsidian Local REST API プラグイン設定ガイド.md",
+    "01 - Feeling Notes/📋MCP Obsidian セットアップガイド.md",
     "02 - Literature Notes/🔍Zettelkasten.md",
     "02 - Literature Notes/🔍IKEA効果.md",
     "02 - Literature Notes/🔍デジタルガーデン.md",
