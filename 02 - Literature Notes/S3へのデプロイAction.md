@@ -5,4 +5,4 @@
 	run: aws s3 sync dist s3://github-action-s3-test --delete
 ```
 
-[[S3のオプション --delete]]
+[[💡S3 sync --delete オプションの効果]]
