@@ -1,0 +1,52 @@
+#!/usr/bin/env python3
+"""
+Zettelkasten変換コマンド
+Feeling Notesの未変換ファイルをZettelkastenテンプレート形式に変換する
+"""
+
+import os
+import sys
+
+def main():
+    print("🤖 Zettelkasten変換コマンドを実行します")
+    print()
+    
+    # Feeling Notesディレクトリをチェック
+    feeling_notes_dir = "01 - Feeling Notes"
+    
+    if not os.path.exists(feeling_notes_dir):
+        print("❌ 01 - Feeling Notesディレクトリが見つかりません")
+        sys.exit(1)
+    
+    # 未変換ファイル（絵文字プレフィックスなし）を検索
+    unprocessed_files = []
+    emoji_prefixes = ['🔍', '📋', '💡']
+    
+    for filename in os.listdir(feeling_notes_dir):
+        if filename.endswith('.md'):
+            # 絵文字プレフィックスがあるかチェック
+            has_prefix = any(filename.startswith(prefix) for prefix in emoji_prefixes)
+            if not has_prefix:
+                unprocessed_files.append(filename)
+    
+    if not unprocessed_files:
+        print("✅ 未変換ファイルはありません。すべて処理済みです！")
+        return
+    
+    print(f"📝 未変換ファイルが {len(unprocessed_files)} 個見つかりました：")
+    for i, filename in enumerate(unprocessed_files, 1):
+        print(f"  {i}. {filename}")
+    
+    print()
+    print("🚀 Claude Codeでの変換手順：")
+    print("1. 各ファイルの内容を読み込み")
+    print("2. 🤖Zettelkastenプロンプト.mdを使用してテンプレート判定")
+    print("3. 適切なテンプレート（🔍Concept/📋Guide/💡Tips）で変換")
+    print("4. 絵文字プレフィックス付きファイル名で保存")
+    print("5. 元ファイルを削除")
+    print()
+    print("💡 次のコマンドで変換を開始してください：")
+    print("   claude -p \"01 - Feeling Notesの未変換ファイルをすべてZettelkastenプロンプトで変換して\"")
+
+if __name__ == "__main__":
+    main()

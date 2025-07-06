@@ -17,7 +17,7 @@ GitHub Actionsを使用してS3に自動デプロイし、[[🔍CloudFront]]で�
 1. GitHubリポジトリの作成
 2. S3バケットの作成
 3. [[🔍CloudFront distribution]]の設定
-4. [[🔍OAC（オリジンアクセスコントロール）]]の設定
+4. [[🔍OAC]]の設定
 5. GitHub Actionsの設定
 6. OIDC認証の設定
 
@@ -44,7 +44,7 @@ aws cloudfront create-distribution \
 ```
 
 ### Step 4: セキュリティ設定
-- [[🔍OAC（オリジンアクセスコントロール）]]を作成
+- [[🔍OAC]]を作成
 - 関連設定：[[📋CloudFront OAC設定ガイド]]
 
 ### Step 5: GitHub認証設定
@@ -85,7 +85,7 @@ jobs:
 - [ ] GitHubリポジトリが作成されている
 - [ ] S3バケットが作成されている
 - [ ] [[🔍CloudFront distribution]]が設定されている
-- [ ] [[🔍OAC（オリジンアクセスコントロール）]]が正しく設定されている
+- [ ] [[🔍OAC]]が正しく設定されている
 - [ ] GitHub Actionsが正常に動作している
 
 ## 🚨 よくある失敗と対策

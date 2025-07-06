@@ -1,5 +1,3 @@
- #zettelkasten 
-
 Zettelkastenは３つのノートから始めることができる
 
 - [[🔍Feeling Notes]]

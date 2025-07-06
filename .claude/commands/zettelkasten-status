@@ -1,0 +1,81 @@
+#!/usr/bin/env python3
+"""
+Zettelkasten変換状況チェックコマンド
+Feeling Notesの変換状況を確認し、02 - Literature Notesへの移動準備ができているファイルを表示
+"""
+
+import os
+import sys
+
+def main():
+    print("📊 Zettelkasten変換状況をチェック中...")
+    print()
+    
+    # ディレクトリをチェック
+    feeling_notes_dir = "01 - Feeling Notes"
+    literature_notes_dir = "02 - Literature Notes"
+    
+    if not os.path.exists(feeling_notes_dir):
+        print("❌ 01 - Feeling Notesディレクトリが見つかりません")
+        sys.exit(1)
+    
+    # ファイルを分類
+    emoji_prefixes = ['🔍', '📋', '💡']
+    unprocessed_files = []
+    processed_files = []
+    
+    for filename in os.listdir(feeling_notes_dir):
+        if filename.endswith('.md'):
+            has_prefix = any(filename.startswith(prefix) for prefix in emoji_prefixes)
+            if has_prefix:
+                processed_files.append(filename)
+            else:
+                unprocessed_files.append(filename)
+    
+    # 結果表示
+    print("=" * 50)
+    print("📋 FEELING NOTES 変換状況レポート")
+    print("=" * 50)
+    
+    if unprocessed_files:
+        print(f"⏳ 未変換ファイル: {len(unprocessed_files)} 個")
+        for filename in unprocessed_files:
+            print(f"   📄 {filename}")
+        print()
+    
+    if processed_files:
+        print(f"✅ 変換済み（レビュー待ち）: {len(processed_files)} 個")
+        concept_files = [f for f in processed_files if f.startswith('🔍')]
+        guide_files = [f for f in processed_files if f.startswith('📋')]
+        tips_files = [f for f in processed_files if f.startswith('💡')]
+        
+        if concept_files:
+            print(f"   🔍 Concept: {len(concept_files)} 個")
+            for f in concept_files:
+                print(f"      • {f}")
+        
+        if guide_files:
+            print(f"   📋 Guide: {len(guide_files)} 個")
+            for f in guide_files:
+                print(f"      • {f}")
+        
+        if tips_files:
+            print(f"   💡 Tips: {len(tips_files)} 個")
+            for f in tips_files:
+                print(f"      • {f}")
+        
+        print()
+        print("👀 人間によるレビュー後、以下のコマンドで移動してください：")
+        print("   mv \"01 - Feeling Notes/ファイル名.md\" \"02 - Literature Notes/\"")
+    
+    print("=" * 50)
+    
+    if not unprocessed_files and not processed_files:
+        print("📁 Feeling Notesは空です")
+    elif not unprocessed_files:
+        print("🎉 すべてのファイルが変換済みです！レビューをお願いします。")
+    else:
+        print("🔄 まだ未変換ファイルがあります。zettelkasten-convertコマンドを実行してください。")
+
+if __name__ == "__main__":
+    main()
