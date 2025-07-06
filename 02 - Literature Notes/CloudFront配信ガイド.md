@@ -6,9 +6,6 @@ GitHub ActionsでS3に自動デプロイし、CloudFrontで高速配信する完
 ## 🎯 最終ゴール
 [[CloudFront]]で高速配信する完全なCI/CDパイプラインを構築する
 
-## ⏱️ 所要時間
-約30〜45分
-
 ## 🧰 必要なもの
 - GitHubアカウント
 - AWSアカウント

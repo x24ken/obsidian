@@ -6,15 +6,6 @@ GitHub ActionsでS3へ自動デプロイする手順
 ## 🎯 最終ゴール
 GitHub ActionsでS3へ自動デプロイする
 
-## 【参考タスク】: S3 へのデプロイ with Github Action
-【対象レベル】: 初級〜中級
-
-## 🎯 このガイドのゴール
-GitHub Actionsを使用してS3にWebサイトを自動デプロイする
-
-## ⏱️ 所要時間
-約30分〜1時間
-
 ## 🧰 必要なもの
 - AWSアカウント
 - GitHubアカウント
