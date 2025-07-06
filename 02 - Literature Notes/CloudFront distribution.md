@@ -1,10 +1,10 @@
 【テーマ】: CloudFront distribution
 
 ## 📝 一言で言うと
-[[🔍CloudFront]]サービス内で作成する個別の配信設定
+[[CloudFront]]サービス内で作成する個別の配信設定
 
 ## 🎯 核心的な定義
-[[🔍CloudFront]]において、特定のコンテンツを配信するための設定単位。オリジンサーバー、キャッシュポリシー、ドメイン名、SSL証明書などを組み合わせて構成される
+[[CloudFront]]において、特定のコンテンツを配信するための設定単位。オリジンサーバー、キャッシュポリシー、ドメイン名、SSL証明書などを組み合わせて構成される
 
 ## 🔗 構成要素
 - オリジンサーバー（S3、EC2、ALBなど）
@@ -20,7 +20,7 @@
 - **独自ドメイン**：Route53と連携したカスタムドメイン設定
 
 ## 🆚 似ているけど違うもの
-- **[[🔍CloudFront]]**：サービス全体の名前、distributionはその中の個別設定
+- **[[CloudFront]]**：サービス全体の名前、distributionはその中の個別設定
 - **S3バケット**：単一のストレージ単位、distributionは配信設定
 - **Load Balancer**：リクエスト分散、distributionはキャッシュ配信
 
@@ -37,5 +37,5 @@
 - 監視：distribution単位でのCloudWatchメトリクス
 
 ## 🔄 つながり
-- 上位概念：[[🔍CloudFront]]
-- 設定方法：[[CloudFront配信ガイド]]、[[📋CloudFront OAC設定ガイド]]
+- 上位概念：[[CloudFront]]
+- 設定方法：[[CloudFront配信ガイド]]、[[CloudFront OAC設定ガイド]]

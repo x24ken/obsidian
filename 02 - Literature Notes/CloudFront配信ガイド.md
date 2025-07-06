@@ -2,7 +2,7 @@
 【対象レベル】: 中級〜上級
 
 ## 🎯 このガイドのゴール
-GitHub Actionsを使用してS3に自動デプロイし、[[🔍CloudFront]]で高速配信する完全なCI/CDパイプラインを構築する
+GitHub Actionsを使用してS3に自動デプロイし、[[CloudFront]]で高速配信する完全なCI/CDパイプラインを構築する
 
 ## ⏱️ 所要時間
 約30〜45分
@@ -16,8 +16,8 @@ GitHub Actionsを使用してS3に自動デプロイし、[[🔍CloudFront]]で�
 ## 📝 手順概要
 1. GitHubリポジトリの作成
 2. S3バケットの作成
-3. [[🔍CloudFront distribution]]の設定
-4. [[🔍OAC]]の設定
+3. [[CloudFront distribution]]の設定
+4. [[OAC]]の設定
 5. GitHub Actionsの設定
 6. OIDC認証の設定
 
@@ -44,11 +44,11 @@ aws cloudfront create-distribution \
 ```
 
 ### Step 4: セキュリティ設定
-- [[🔍OAC]]を作成
-- 関連設定：[[📋CloudFront OAC設定ガイド]]
+- [[OAC]]を作成
+- 関連設定：[[CloudFront OAC設定ガイド]]
 
 ### Step 5: GitHub認証設定
-- [[📋GitHub OIDC AWS認証ガイド]]
+- [[GitHub OIDC AWS認証ガイド]]
 - AWSコンソールで新しいアイデンティティを作成
 
 ### Step 6: GitHub Actions設定
@@ -84,22 +84,22 @@ jobs:
 ## ✅ 完了チェック
 - [ ] GitHubリポジトリが作成されている
 - [ ] S3バケットが作成されている
-- [ ] [[🔍CloudFront distribution]]が設定されている
-- [ ] [[🔍OAC]]が正しく設定されている
+- [ ] [[CloudFront distribution]]が設定されている
+- [ ] [[OAC]]が正しく設定されている
 - [ ] GitHub Actionsが正常に動作している
 
 ## 🚨 よくある失敗と対策
 - **権限エラー**: OIDC設定とIAMロールを確認
 - **デプロイ失敗**: S3バケット名とリージョンを確認
-- **キャッシュ問題**: [[🔍CloudFront]]キャッシュの無効化を実行
+- **キャッシュ問題**: [[CloudFront]]キャッシュの無効化を実行
 
 ## 🔄 関連リンク
 - GitHub Actionsの基本概念
-- [[📋CloudFront OAC設定ガイド]]
+- [[CloudFront OAC設定ガイド]]
 
 ## 🚀 次のステップ
-- [[📋CloudFront Basic認証設定ガイド]]
-- [[💡S3 sync --delete オプションの効果]]
+- [[CloudFront Basic認証設定ガイド]]
+- [[S3 sync --delete オプションの効果]]
 - 高度なCI/CD設定
 
 **参考**: https://www.youtube.com/watch?v=WSiV0Q0zvEI

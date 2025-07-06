@@ -30,9 +30,9 @@ GitHub Actionsを使用してS3にWebサイトを自動デプロイする
 - 必要に応じて[[CloudFront配信ガイド]]でCDN設定
 
 ### Step 3: デプロイActionを設定
-- [[💡S3へのデプロイAction]]のコードを使用
+- [[S3へのデプロイAction]]のコードを使用
 - GitHub Actionsワークフローファイルを作成
-- [[💡S3 sync --delete オプションの効果]]を理解して適用
+- [[S3 sync --delete オプションの効果]]を理解して適用
 
 ## ✅ 完了チェック
 - [ ] AWSとGitHubの認証が設定済み
@@ -49,7 +49,7 @@ GitHub Actionsを使用してS3にWebサイトを自動デプロイする
 ## 🔄 関連リンク
 - [[GitHub AWS認証設定ガイド]]
 - [[GitHub ActionでAWS認証する簡単な方法]]
-- [[💡S3へのデプロイAction]]
+- [[S3へのデプロイAction]]
 - [[CloudFront配信ガイド]]
 
 ## 🚀 次のステップ

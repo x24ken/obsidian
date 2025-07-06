@@ -4,7 +4,7 @@
 Zettelkastenにおいて、自分の考えや洞察を完成度高く記録する最終形のノート
 
 ## 🎯 核心的な定義
-[[🔍Feeling Notes]]や[[🔍Literature Notes]]から発展させた自分独自の考えや洞察を、他人にも見せられる完成度で記録するノート形式
+[[Feeling Notes]]や[[Literature Notes]]から発展させた自分独自の考えや洞察を、他人にも見せられる完成度で記録するノート形式
 
 ## 🔗 構成要素
 - タイトル（内容を表す見出し）
@@ -16,12 +16,12 @@ Zettelkastenにおいて、自分の考えや洞察を完成度高く記録す�
 ## 🌟 主な特徴
 - **独創性**：自分の言葉で書かれた独自の考え
 - **完成度**：他人にも見せられる品質
-- **発展性**：[[🔍Feeling Notes]]や[[🔍Literature Notes]]からの発展
+- **発展性**：[[Feeling Notes]]や[[Literature Notes]]からの発展
 - **永続性**：時間が経っても価値を持つ内容
 
 ## 🆚 似ているけど違うもの
-- [[🔍Feeling Notes]]：一時的記録だが、Permanent Notesは完成度重視
-- [[🔍Literature Notes]]：外部情報だが、Permanent Notesは自分の考え
+- [[Feeling Notes]]：一時的記録だが、Permanent Notesは完成度重視
+- [[Literature Notes]]：外部情報だが、Permanent Notesは自分の考え
 - ブログ記事：公開前提だが、Permanent Notesは個人知識
 
 ## 💡 身近な例
@@ -44,7 +44,7 @@ Zettelkastenにおいて、自分の考えや洞察を完成度高く記録す�
 
 ## 🔄 つながり
 - 上位概念：Zettelkasten、知識管理、創造的思考
-- 発展元：[[🔍Feeling Notes]]、[[🔍Literature Notes]]
+- 発展元：[[Feeling Notes]]、[[Literature Notes]]
 - 関連手法：セカンドブレイン、PKM
 - 実践方法：[[Zettelkasten]]
 

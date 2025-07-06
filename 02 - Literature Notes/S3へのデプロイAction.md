@@ -36,7 +36,7 @@ S3へのデプロイを1つのGitHub Actionsコマンドで実現
 - [ ] 同期エラーの解消
 
 ## ⚠️ 注意点
-- [[💡S3 sync --delete オプションの効果]]を理解してから使用
+- [[S3 sync --delete オプションの効果]]を理解してから使用
 - バケット名とディレクトリパスの確認
 - 権限設定の適切な設定
 
@@ -80,6 +80,6 @@ jobs:
 ```
 
 ## 🔄 関連リンク
-- [[📋S3 へのデプロイ with Github Action]]
-- [[💡S3 sync --delete オプションの効果]]
+- [[S3 へのデプロイ with Github Action]]
+- [[S3 sync --delete オプションの効果]]
 - [[GitHub ActionでAWS認証する簡単な方法]]

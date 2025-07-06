@@ -46,7 +46,7 @@ GitHubリポジトリのシークレット設定場所を素早く見つけ、Gi
 ## 🔄 関連リンク
 - [[GitHub AWS認証設定ガイド]]
 - [[GitHub ActionでAWS認証する簡単な方法]]
-- [[📋GitHub OIDC AWS認証ガイド]]
+- [[GitHub OIDC AWS認証ガイド]]
 
 ## 🚀 次のステップ
 - Organizationレベルでのシークレット管理
