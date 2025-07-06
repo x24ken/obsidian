@@ -1,7 +1,3 @@
-# 📋Claude Codeカスタムコマンド追加ガイド
-
-**UID**: 20250706-140004-claude-custom-commands
-
 ## 📝 一行要約
 Claude Codeに独自のコマンドを追加して繰り返し作業を自動化する方法
 

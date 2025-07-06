@@ -1,7 +1,3 @@
-# 💡GitHub ActionでAWS認証する簡単な方法
-
-**UID**: 20250706-140000-github-aws-auth
-
 ## 📝 一行要約
 GitHub Actionsでアクセスキーを使った従来のAWS認証を簡単に実装する方法
 

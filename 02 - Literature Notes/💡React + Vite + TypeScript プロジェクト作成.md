@@ -1,7 +1,3 @@
-# 💡React+Vite+TypeScriptプロジェクト作成
-
-**UID**: 20250706-140006-react-vite-typescript
-
 ## 📝 一行要約
 React+TypeScript+Viteのモダンフロントエンドプロジェクトを1コマンドで素早く作成する方法
 
