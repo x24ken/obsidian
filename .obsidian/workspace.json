@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Literature Notes/🔍デジタルガーデン.md",
+                "file": "02 - Literature Notes/📋Obsidian Local REST API プラグイン設定ガイド.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🔍デジタルガーデン"
+              "title": "📋Obsidian Local REST API プラグイン設定ガイド"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "デジタルガーデン",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "ブックマーク"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -183,12 +182,14 @@
   },
   "active": "32f4cb203281ee51",
   "lastOpenFiles": [
+    "01 - Feeling Notes/📋MCP Obsidian セットアップガイド.md",
+    "02 - Literature Notes/📋Obsidian Local REST API プラグイン設定ガイド.md",
     "02 - Literature Notes/🔍Zettelkasten.md",
-    "01 - Feeling Notes/🔍デジタルガーデン.md",
+    "02 - Literature Notes/🔍IKEA効果.md",
     "02 - Literature Notes/🔍デジタルガーデン.md",
+    "01 - Feeling Notes/🔍デジタルガーデン.md",
     "02 - Literature Notes/🔍OAC.md",
     "02 - Literature Notes/🔍n8n料金体系.md",
-    "02 - Literature Notes/🔍IKEA効果.md",
     "02 - Literature Notes/💡寝るだけじゃない！7つの休養タイプ.md",
     "02 - Literature Notes/🔍疲労と疲労感は違う.md",
     "02 - Literature Notes/🔍予定納税.md",
@@ -207,8 +208,6 @@
     "02 - Literature Notes/📋アクセスキーIDとシークレットアクセスキーの取得.md",
     "02 - Literature Notes/🔍なぜClaude CodeはIDEではなくターミナルでの開発なのか？.md",
     "02 - Literature Notes/📋GitHubシークレット設定ガイド.md",
-    "02 - Literature Notes/📋GitHub OIDC AWS認証ガイド.md",
-    "02 - Literature Notes/📋Git Work Tree並列化ガイド.md",
     "99 - Templates",
     "無題のファイル.canvas",
     "80 - Image/CleanShot 2025-07-05 at 14.13.16@2x.png",
