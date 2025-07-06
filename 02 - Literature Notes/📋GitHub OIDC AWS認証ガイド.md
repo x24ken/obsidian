@@ -62,7 +62,6 @@ AWS ConsoleでIAM→IDプロバイダーからOIDCプロバイダーを作成
 
 ## 🚀 次のステップ
 - [[📋CloudFront配信ガイド]]
-- [[S3 へのデプロイ with Github Action]]
 - 高度なセキュリティ設定
 
 **参考リンク**:

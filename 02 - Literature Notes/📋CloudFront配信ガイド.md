@@ -95,7 +95,6 @@ jobs:
 
 ## 🔄 関連リンク
 - GitHub Actionsの基本概念
-- [[S3 へのデプロイ with Github Action]]
 - [[📋CloudFront OAC設定ガイド]]
 
 ## 🚀 次のステップ

@@ -38,4 +38,4 @@ Zettelkastenにおける一時的なメモ（Fleeting Notes）
 ## 🔄 つながり
 - 発展先：[[🔍Literature Notes]]、[[🔍Permanent Notes]]
 - 実践方法：[[🔍Zettelkasten]]
-- 活用例：[[Obsidian  & Zettelkasten の使い方]]
+- 活用例：[[🔍Obsidianの使い方は人それぞれ]]
