@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Templates/🤖自動テンプレート選択器.md",
+                "file": "99 - Templates/🤖Zettelkastenプロンプト.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🤖自動テンプレート選択器"
+              "title": "🤖Zettelkastenプロンプト"
             }
           }
         ]
@@ -183,7 +183,7 @@
   "active": "00f04b92fd14fbe4",
   "lastOpenFiles": [
     "99 - Templates/Auto Template Selector.md",
-    "99 - Templates/🤖自動テンプレート選択器.md",
+    "99 - Templates/🤖Zettelkastenプロンプト.md",
     "99 - Templates/Guide Prompt.md",
     "99 - Templates/Concept Prompt.md",
     "99 - Templates/Tips Prompt.md",
