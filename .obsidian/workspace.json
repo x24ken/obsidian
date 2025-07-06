@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99 - Templates/Auto Template Selector.md",
+                "file": "99 - Templates/🤖自動テンプレート選択器.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Auto Template Selector"
+              "title": "🤖自動テンプレート選択器"
             }
           }
         ]
@@ -182,13 +182,14 @@
   },
   "active": "00f04b92fd14fbe4",
   "lastOpenFiles": [
+    "99 - Templates/Auto Template Selector.md",
+    "99 - Templates/🤖自動テンプレート選択器.md",
+    "99 - Templates/Guide Prompt.md",
     "99 - Templates/Concept Prompt.md",
+    "99 - Templates/Tips Prompt.md",
     "01 - Feeling Notes/税金口座振替.md",
     "01 - Feeling Notes/🎯いえーい.md",
     "01 - Feeling Notes/e-Tax振替納税設定ガイド.md",
-    "99 - Templates/Auto Template Selector.md",
-    "99 - Templates/Guide Prompt.md",
-    "99 - Templates/Tips Prompt.md",
     "02 - Literature Notes/｢頑張ってから休む｣んじゃなくて、｢休んでから頑張る｣.md",
     "02 - Literature Notes/Claude Codeとは？.md",
     "02 - Literature Notes/Claude Code音声通知設定ガイド.md",
@@ -207,7 +208,6 @@
     "02 - Literature Notes/なぜClaude CodeはIDEではなくターミナルでの開発なのか？.md",
     "02 - Literature Notes/デートでするべきこと.md",
     "02 - Literature Notes/S3のオプション --delete.md",
-    "02 - Literature Notes/CloudFrontのOAC設定.md",
     "99 - Templates",
     "無題のファイル.canvas",
     "80 - Image/CleanShot 2025-07-05 at 14.13.16@2x.png",
