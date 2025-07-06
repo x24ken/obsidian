@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "o3-search": {
+      "command": "npx",
+      "args": ["o3-search-mcp"],
+      "env": {
+        "OPENAI_API_KEY": "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",
+        "SEARCH_CONTEXT_SIZE": "medium",
+        "REASONING_EFFORT": "medium"
+      }
+    },
+    "context7": {
+      "command": "npx",
+      "args": ["-y", "@upstash/context7-mcp@latest"]
+    }
+  }
+}
