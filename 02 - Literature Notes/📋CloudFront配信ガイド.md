@@ -2,24 +2,24 @@
 【対象レベル】: 中級〜上級
 
 ## 🎯 このガイドのゴール
-[[GitHub Actions]]を使用して[[S3]]に自動デプロイし、[[CloudFront]]で高速配信する完全な[[CI/CD]]パイプラインを構築する
+GitHub Actionsを使用してS3に自動デプロイし、[[🔍CloudFront]]で高速配信する完全なCI/CDパイプラインを構築する
 
 ## ⏱️ 所要時間
 約30〜45分
 
 ## 🧰 必要なもの
-- [[GitHub]]アカウント
-- [[AWS]]アカウント
-- [[AWS CLI]]がインストール済み
-- [[Git]]の基本操作知識
+- GitHubアカウント
+- AWSアカウント
+- AWS CLIがインストール済み
+- Gitの基本操作知識
 
 ## 📝 手順概要
-1. [[GitHub]]リポジトリの作成
-2. [[S3]]バケットの作成
-3. [[CloudFront distribution]]の設定
-4. [[OAC]]（オリジンアクセスコントロール）の設定
-5. [[GitHub Actions]]の設定
-6. [[OIDC]]認証の設定
+1. GitHubリポジトリの作成
+2. S3バケットの作成
+3. [[🔍CloudFront distribution]]の設定
+4. [[🔍OAC（オリジンアクセスコントロール）]]の設定
+5. GitHub Actionsの設定
+6. OIDC認証の設定
 
 ## 🔧 詳細手順
 
@@ -44,12 +44,12 @@ aws cloudfront create-distribution \
 ```
 
 ### Step 4: セキュリティ設定
-- [[OAC（オリジンアクセスコントロール）]]を作成
-- 関連設定：[[S3のOAC設定]]、[[CloudFrontのOAC設定]]
+- [[🔍OAC（オリジンアクセスコントロール）]]を作成
+- 関連設定：[[📋CloudFront OAC設定ガイド]]
 
 ### Step 5: GitHub認証設定
-- [[GitHub を OIDC プロバイダーを使って AWS に認証]]
-- [[AWS]]コンソールで新しいアイデンティティを作成
+- [[📋GitHub OIDC AWS認証ガイド]]
+- AWSコンソールで新しいアイデンティティを作成
 
 ### Step 6: GitHub Actions設定
 `.github/workflows/deploy.yaml`を作成：
@@ -82,25 +82,25 @@ jobs:
 ```
 
 ## ✅ 完了チェック
-- [ ] [[GitHub]]リポジトリが作成されている
-- [ ] [[S3]]バケットが作成されている
-- [ ] [[CloudFront distribution]]が設定されている
-- [ ] [[OAC]]が正しく設定されている
-- [ ] [[GitHub Actions]]が正常に動作している
+- [ ] GitHubリポジトリが作成されている
+- [ ] S3バケットが作成されている
+- [ ] [[🔍CloudFront distribution]]が設定されている
+- [ ] [[🔍OAC（オリジンアクセスコントロール）]]が正しく設定されている
+- [ ] GitHub Actionsが正常に動作している
 
 ## 🚨 よくある失敗と対策
-- **権限エラー**: [[OIDC]]設定と[[IAM]]ロールを確認
-- **デプロイ失敗**: [[S3]]バケット名とリージョンを確認
-- **キャッシュ問題**: [[CloudFront]]キャッシュの[[無効化]]を実行
+- **権限エラー**: OIDC設定とIAMロールを確認
+- **デプロイ失敗**: S3バケット名とリージョンを確認
+- **キャッシュ問題**: [[🔍CloudFront]]キャッシュの無効化を実行
 
 ## 🔄 関連リンク
-- [[GitHub Actions]]の基本概念
+- GitHub Actionsの基本概念
 - [[S3 へのデプロイ with Github Action]]
-- [[CloudFrontのOAC設定]]
+- [[📋CloudFront OAC設定ガイド]]
 
 ## 🚀 次のステップ
-- [[CloudFront FunctionsでBasic認証のパスワードをかける]]
-- [[S3のオプション --delete]]
-- [[高度なCI/CD設定]]
+- [[📋CloudFront Basic認証設定ガイド]]
+- [[💡S3 sync --delete オプションの効果]]
+- 高度なCI/CD設定
 
 **参考**: https://www.youtube.com/watch?v=WSiV0Q0zvEI

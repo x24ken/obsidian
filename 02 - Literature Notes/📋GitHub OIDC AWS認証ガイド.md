@@ -2,32 +2,32 @@
 【対象レベル】: 中級〜上級
 
 ## 🎯 このガイドのゴール
-[[GitHub Actions]]で[[OIDC]]（OpenID Connect）を使用して[[AWS]]に安全に認証し、[[アクセスキー]]を使わないセキュアなデプロイメントを実現する
+GitHub ActionsでOIDC（OpenID Connect）を使用してAWSに安全に認証し、アクセスキーを使わないセキュアなデプロイメントを実現する
 
 ## ⏱️ 所要時間
 約20〜30分
 
 ## 🧰 必要なもの
-- [[GitHub]]アカウント
-- [[AWS]]アカウント
-- [[IAM]]の基本知識
-- [[GitHub Actions]]の基本理解
+- GitHubアカウント
+- AWSアカウント
+- IAMの基本知識
+- GitHub Actionsの基本理解
 
 ## 📝 手順概要
-1. [[AWS]]での[[IDプロバイダー]]作成
-2. [[IAMロール]]の作成と権限設定
-3. [[GitHub Actions]]での認証設定
+1. AWSでのIDプロバイダー作成
+2. IAMロールの作成と権限設定
+3. GitHub Actionsでの認証設定
 4. 動作確認とテスト
 
 ## 🔧 詳細手順
 
 ### Step 1: GitHub Actions用IDプロバイダーの作成
-[[AWS Console]]で[[IAM]]→[[IDプロバイダー]]から[[OIDC]]プロバイダーを作成
+AWS ConsoleでIAM→IDプロバイダーからOIDCプロバイダーを作成
 
 ### Step 2: IAMロールの作成
-- [[IAMロール]]に必要な権限を追加
-- [[S3]]と[[CloudFront]]の権限を設定
-- [[GitHub Actions]]からの信頼関係を構築
+- IAMロールに必要な権限を追加
+- S3とCloudFrontの権限を設定
+- GitHub Actionsからの信頼関係を構築
 
 ### Step 3: GitHub Actionsでの認証設定
 ```yaml
@@ -40,30 +40,30 @@
 ```
 
 ### Step 4: セキュリティ設定
-- [[短期間トークン]]の使用
-- [[最小権限原則]]の適用
-- [[アクセスキー]]の廃止
+- 短期間トークンの使用
+- 最小権限原則の適用
+- アクセスキーの廃止
 
 ## ✅ 完了チェック
-- [ ] [[IDプロバイダー]]が作成されている
-- [ ] [[IAMロール]]が適切に設定されている
-- [ ] [[GitHub Actions]]で認証が成功している
-- [ ] [[アクセスキー]]が不要になっている
+- [ ] IDプロバイダーが作成されている
+- [ ] IAMロールが適切に設定されている
+- [ ] GitHub Actionsで認証が成功している
+- [ ] アクセスキーが不要になっている
 
 ## 🚨 よくある失敗と対策
-- **認証エラー**: [[信頼関係]]ポリシーを確認
-- **権限不足**: [[IAMロール]]の権限を見直し
-- **設定ミス**: [[GitHub Secrets]]の値を確認
+- **認証エラー**: 信頼関係ポリシーを確認
+- **権限不足**: IAMロールの権限を見直し
+- **設定ミス**: GitHub Secretsの値を確認
 
 ## 🔄 関連リンク
-- [[GitHub Actions]]の基本概念
-- [[AWS IAM]]セキュリティ
-- [[OIDC]]認証の仕組み
+- GitHub Actionsの基本概念
+- AWS IAMセキュリティ
+- OIDC認証の仕組み
 
 ## 🚀 次のステップ
-- [[CloudFront配信手順]]
+- [[📋CloudFront配信ガイド]]
 - [[S3 へのデプロイ with Github Action]]
-- [[高度なセキュリティ設定]]
+- 高度なセキュリティ設定
 
 **参考リンク**:
 - https://zenn.dev/kou_pg_0131/articles/gh-actions-oidc-aws
