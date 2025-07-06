@@ -2,20 +2,20 @@
 【対象レベル】: 中級〜上級
 
 ## 🎯 このガイドのゴール
-[[🔍Git Work Tree]]を活用して複数の[[🔍Claude Code]]インスタンスを並列実行し、LLMの非決定性を活用した最適解の発見を実現する
+[[🔍Git Work Tree]]を活用して複数の[[Claude Code]]インスタンスを並列実行し、LLMの非決定性を活用した最適解の発見を実現する
 
 ## ⏱️ 所要時間
 約15〜25分
 
 ## 🧰 必要なもの
 - Gitがインストール済み
-- [[🔍Claude Code]]がインストール済み
+- [[Claude Code]]がインストール済み
 - [[🔍Git Work Tree]]の基本理解
 - 複数のターミナルウィンドウ
 
 ## 📝 手順概要
 1. [[🔍Git Work Tree]]による作業環境の分離
-2. 複数ブランチでの[[🔍Claude Code]]実行
+2. 複数ブランチでの[[Claude Code]]実行
 3. 並列処理による効率化
 4. 結果の比較と最適解の選択
 
@@ -36,7 +36,7 @@ git worktree add ../project-claude3 feature/claude3
 ```
 
 ### Step 3: 並列実行の実践
-- 各ワークツリーで独立した[[🔍Claude Code]]セッション
+- 各ワークツリーで独立した[[Claude Code]]セッション
 - 同一タスクに対する複数アプローチ
 - 非決定的な結果の比較評価
 
@@ -47,7 +47,7 @@ git worktree add ../project-claude3 feature/claude3
 
 ## ✅ 完了チェック
 - [ ] 複数のワークツリーが作成されている
-- [ ] 各ツリーで[[🔍Claude Code]]が独立動作
+- [ ] 各ツリーで[[Claude Code]]が独立動作
 - [ ] マージ競合が発生していない
 - [ ] 最適解が選択・統合されている
 
@@ -58,7 +58,7 @@ git worktree add ../project-claude3 feature/claude3
 
 ## 🔄 関連リンク
 - [[🔍Git Work Tree]]
-- [[🔍Claude Code]]の基本概念
+- [[Claude Code]]の基本概念
 - 並列処理の効果
 
 ## 🚀 次のステップ

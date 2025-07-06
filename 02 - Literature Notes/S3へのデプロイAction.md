@@ -41,8 +41,8 @@ S3へのデプロイを1つのGitHub Actionsコマンドで実現
 - 権限設定の適切な設定
 
 ## 🔗 組み合わせるとさらに良い
-- [[💡GitHub ActionでAWS認証する簡単な方法]]
-- [[📋CloudFront配信ガイド]]でキャッシュ無効化
+- [[GitHub ActionでAWS認証する簡単な方法]]
+- [[CloudFront配信ガイド]]でキャッシュ無効化
 - 通知システムでデプロイ完了を通知
 
 ## 📈 レベルアップ版
@@ -82,4 +82,4 @@ jobs:
 ## 🔄 関連リンク
 - [[📋S3 へのデプロイ with Github Action]]
 - [[💡S3 sync --delete オプションの効果]]
-- [[💡GitHub ActionでAWS認証する簡単な方法]]
+- [[GitHub ActionでAWS認証する簡単な方法]]

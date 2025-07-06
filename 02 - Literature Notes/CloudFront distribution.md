@@ -38,4 +38,4 @@
 
 ## 🔄 つながり
 - 上位概念：[[🔍CloudFront]]
-- 設定方法：[[📋CloudFront配信ガイド]]、[[📋CloudFront OAC設定ガイド]]
+- 設定方法：[[CloudFront配信ガイド]]、[[📋CloudFront OAC設定ガイド]]

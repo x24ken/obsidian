@@ -51,7 +51,7 @@ S3バケットポリシーを更新し、[[🔍CloudFront]]からのアクセス
 - AWS IAMポリシー
 
 ## 🚀 次のステップ
-- [[📋CloudFront配信ガイド]]
+- [[CloudFront配信ガイド]]
 - [[📋CloudFront Basic認証設定ガイド]]
 - S3セキュリティ最適化
 

@@ -53,7 +53,7 @@ echo -n "testID:testPass" | base64
 
 ## 🚀 次のステップ
 - [[📋CloudFront OAC設定ガイド]]
-- [[📋CloudFront配信ガイド]]
+- [[CloudFront配信ガイド]]
 - 高度なセキュリティ設定
 
 **参考**: https://dev.classmethod.jp/articles/apply-basic-authentication-password-with-cloudfront-functions/

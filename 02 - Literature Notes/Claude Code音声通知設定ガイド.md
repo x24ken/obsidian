@@ -2,7 +2,7 @@
 【対象レベル】: 中級者（macOS、iTerm2の基本操作ができる）
 
 ## 🎯 このガイドのゴール
-macOSでiTerm2を使用して[[🔍Claude Code]]のタスク完了時や入力待ち時に音声通知を受け取れるようになる
+macOSでiTerm2を使用して[[Claude Code]]のタスク完了時や入力待ち時に音声通知を受け取れるようになる
 
 ## ⏱️ 所要時間
 約10-15分
@@ -10,11 +10,11 @@ macOSでiTerm2を使用して[[🔍Claude Code]]のタスク完了時や入力�
 ## 🧰 必要なもの
 - macOS環境
 - iTerm2がインストール済み
-- [[🔍Claude Code]]がインストール済み
+- [[Claude Code]]がインストール済み
 - システム管理者権限
 
 ## 📝 手順概要
-1. [[🔍Claude Code]]の通知設定を有効化
+1. [[Claude Code]]の通知設定を有効化
 2. macOSシステム通知の許可設定
 3. iTerm2の詳細設定調整
 4. 動作確認とテスト
@@ -65,7 +65,7 @@ claude -p "Hello world"
 ```
 
 ## ✅ 完了チェック
-- [ ] [[🔍Claude Code]]コマンド実行で音が鳴る
+- [ ] [[Claude Code]]コマンド実行で音が鳴る
 - [ ] 通知バナーが表示される
 - [ ] ベル音テストが正常動作
 - [ ] 設定が保存されている
@@ -89,11 +89,11 @@ claude -p "Hello world"
 - iTerm2がフォーカスされていない時のみ通知表示される設定の可能性
 
 ## 🔄 関連リンク
-- 上位ガイド：[[🔍Claude Code]]
+- 上位ガイド：[[Claude Code]]
 - 関連設定：[[📋Claude Code許可設定ガイド]]
-- 詳細設定：[[📋Claude Codeコマンド追加ガイド]]
+- 詳細設定：[[Claude Codeカスタムコマンド追加ガイド]]
 
 ## 🚀 次のステップ
-- [[🔍Claude Code]]の詳細機能設定
-- [[📋Git Work Tree並列化ガイド]]
+- [[Claude Code]]の詳細機能設定
+- [[Git Work Tree並列化ガイド]]
 - 高度な自動化スクリプト作成
