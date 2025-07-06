@@ -140,7 +140,7 @@ Zettelkastenって聞いたことはあるけど、よく分からない。ど�
 ## 📁 ファイル名規則
 
 **各テンプレートのファイル名形式:**
-- **Concept**: `🔍概念名.md`（例: 🔍Zettelkasten.md）
+- **Concept**: `🔍キーワード.md`（例: 🔍Zettelkasten.md）
 - **Guide**: `📋◯◯ガイド.md`（例: 📋Obsidian設定ガイド.md）
 - **Tips**: `💡自由な表現.md`（例: 💡ノート作成を爆速化する3つの技.md）
 
