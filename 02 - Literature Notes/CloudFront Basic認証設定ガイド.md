@@ -1,59 +1,33 @@
-【タスク】: CloudFront FunctionsでBasic認証を設定する
-【対象レベル】: 中級
+**タイプ**: 📋 Guide
 
-## 🎯 このガイドのゴール
-CloudFront Functionsを使用してBasic認証を実装し、Webサイトへのアクセスを制限する
+## 📝 一行要約
+CloudFront FunctionsでBasic認証を実装し、Webサイトへのアクセスを制限する方法
 
-## ⏱️ 所要時間
-約15〜20分
+## 🎯 最終ゴール
+[[CloudFront]]でBasic認証を実装し、サイトへのアクセスを安全に制限するシステムを構築する
 
-## 🧰 必要なもの
-- AWSアカウント
-- [[CloudFront distribution]]が設定済み
-- base64コマンドの知識
+## 🔧 実行手順
+1. **認証情報準備**: testID:testPassのような認証情報を準備
+2. **base64エンコード**: `echo -n "testID:testPass" | base64`で変換
+3. **CloudFront Functions作成**: エンコードされた認証情報を使用して関数を作成
+4. **配信設定適用**: [[CloudFront distribution]]のビヘイビア設定に関数を適用
 
-## 📝 手順概要
-1. Basic認証の認証情報を準備
-2. base64エンコードによる認証情報の変換
-3. CloudFront Functionsコードの実装
-4. [[CloudFront]]への関数適用
+## ⚠️ 注意点・罠
+- **認証が働かない**: base64エンコードが正確であることを再確認
+- **アクセスエラー**: CloudFrontキャッシュのクリアが必要
+- **設定反映遅延**: CloudFrontデプロイ完了までの待時間あり
 
-## 🔧 詳細手順
+## ✅ 成功の指標
+- 認証情報がbase64エンコードされている
+- CloudFront Functionsが正常に作成された
+- 配信設定に関数が適用されている
+- Basic認証が正常に動作している
 
-### Step 1: 認証情報の準備
-- **ID**: testID
-- **Password**: testPass
+## 💡 なぜ重要か
+[[CloudFront]]でBasic認証を実装することで、サーバーサイドでの認証処理が不要となり、シンプルかつ高速なアクセス制限が可能になる。これは[[CloudFront OAC設定ガイド]]と組み合わせて、包括的なセキュリティ戦略を実現できる。
 
-### Step 2: base64エンコード
-```bash
-echo -n "testID:testPass" | base64
-```
+## 🔗 つながり
+→ [[CloudFront]], [[CloudFront OAC設定ガイド]], [[作成予定-AWSセキュリティベストプラクティス]]
 
-### Step 3: CloudFront Functions実装
-上記のbase64エンコード結果をCloudFront Functionsに実装
-
-### Step 4: 配信設定への適用
-[[CloudFront distribution]]のビヘイビア設定に関数を適用
-
-## ✅ 完了チェック
-- [ ] 認証情報がbase64エンコードされている
-- [ ] CloudFront Functionsが正常に作成された
-- [ ] 配信設定に関数が適用されている
-- [ ] Basic認証が正常に動作している
-
-## 🚨 よくある失敗と対策
-- **認証が働かない**: base64エンコードが正しいか確認
-- **アクセスエラー**: [[CloudFront]]キャッシュのクリア
-- **設定反映されない**: [[CloudFront]]デプロイ完了を待つ
-
-## 🔄 関連リンク
-- [[CloudFront]]の基本概念
-- CloudFront Functionsの実装
-- Basic認証の仕組み
-
-## 🚀 次のステップ
-- [[CloudFront OAC設定ガイド]]
-- [[CloudFront配信ガイド]]
-- 高度なセキュリティ設定
-
-**参考**: https://dev.classmethod.jp/articles/apply-basic-authentication-password-with-cloudfront-functions/
+## 📚 参照元
+> [CloudFront FunctionsでBasic認証を実装する方法 - クラスメソッド, 2024年]

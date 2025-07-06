@@ -1,4 +1,12 @@
-【タスク】: S3 へのデプロイ with Github Action
+**タイプ**: 📋 Guide
+
+## 📝 一行要約
+GitHub ActionsでS3へ自動デプロイする手順
+
+## 🎯 最終ゴール
+GitHub ActionsでS3へ自動デプロイする
+
+## 【参考タスク】: S3 へのデプロイ with Github Action
 【対象レベル】: 初級〜中級
 
 ## 🎯 このガイドのゴール
