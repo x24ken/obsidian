@@ -24,14 +24,14 @@ When creating or modifying notes, use the `🤖Zettelkastenプロンプト.md` t
 - **💡 Tips**: For quick tricks, efficiency hacks, short solutions
 
 ### File Naming Convention
-- **Concept**: `🔍キーワード.md` (e.g., 🔍Zettelkasten.md)
-- **Guide**: `📋◯◯ガイド.md` (e.g., 📋Obsidian設定ガイド.md)
-- **Tips**: `💡自由な表現.md` (e.g., 💡ノート作成を爆速化する3つの技.md)
+- **Concept**: `キーワード.md` (e.g., Zettelkasten.md)
+- **Guide**: `◯◯ガイド.md` (e.g., Obsidian設定ガイド.md)
+- **Tips**: `自由な表現.md` (e.g., ノート作成を爆速化する3つの技.md)
 
 ### Linking Rules
 **CRITICAL**: Only create [[]] links to files that actually exist in the vault:
 - Check if the file exists before creating a link
-- Use exact file names including prefixes (🔍, 📋, 💡)
+- Use exact file names
 - Do not create links to abstract concepts that don't have corresponding files
 - Convert non-existent concept links to plain text
 
@@ -57,14 +57,9 @@ ls "02 - Literature Notes/" | grep -i "filename"
 
 The main purpose of this vault is to transform notes from `01 - Feeling Notes/` into properly formatted Zettelkasten notes:
 
-1. **Check Feeling Notes**: Review files in `01 - Feeling Notes/` for unprocessed notes (no emoji prefix)
-2. **Apply Zettelkasten Template**: Use `🤖Zettelkastenプロンプト.md` to transform the note
-3. **Add Emoji Prefix**: Processed files get an emoji prefix (🔍, 📋, or 💡) to mark completion
-4. **Human Review**: The user will review and move approved notes to `02 - Literature Notes/`
-
-### Processing Status
-- **No emoji prefix** = Unprocessed, needs transformation
-- **Has emoji prefix** (🔍/📋/💡) = Processed and ready for human review
+1. **Check Feeling Notes**: Review files in `01 - Feeling Notes/` for unprocessed notes
+2. **Apply Zettelkasten Template**: Use `超包括的Zettelkastenプロンプト.md` to transform the note
+3. **Human Review**: The user will review and move approved notes to `02 - Literature Notes/`
 
 ## Important Notes
 

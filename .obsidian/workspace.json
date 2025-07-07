@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Feeling Notes/🔍tsupとは.md",
+                "file": "01 - Feeling Notes/tsup実践チュートリアル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🔍tsupとは"
+              "title": "tsup実践チュートリアル"
             }
           }
         ],
@@ -195,14 +195,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "959121f9f15f09af",
+  "active": "a6cd26e13006d55d",
   "lastOpenFiles": [
+    "01 - Feeling Notes/tsupとは.md",
+    "01 - Feeling Notes/tsup実践チュートリアル.md",
     "01 - Feeling Notes/「頑張ってから休む」より「休んでから頑張る」アプローチ.md",
     "01 - Feeling Notes/🔍tsupとは.md",
     "01 - Feeling Notes/📋tsup実践チュートリアル.md",
-    "01 - Feeling Notes/tsup実践チュートリアル.md",
     "02 - Literature Notes/GitHub AWS認証設定ガイド.md",
-    "01 - Feeling Notes/tsupとは.md",
     "02 - Literature Notes/Git Work Tree並列化ガイド.md",
     "02 - Literature Notes/Claude Codeカスタムコマンド追加ガイド.md",
     "02 - Literature Notes/予定納税.md",
