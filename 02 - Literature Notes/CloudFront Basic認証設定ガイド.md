@@ -21,7 +21,7 @@ CloudFront FunctionsでBasic認証を実装し、Webサイトへのアクセス�
 [[CloudFront]]でBasic認証を実装することで、サーバーサイドでの認証処理が不要となり、シンプルかつ高速なアクセス制限が可能になる。これは[[CloudFront OAC設定ガイド]]と組み合わせて、包括的なセキュリティ戦略を実現できる。
 
 ## 🔗 つながり
-→ [[CloudFront]], [[CloudFront OAC設定ガイド]], [[作成予定-AWSセキュリティベストプラクティス]]
+→ [[CloudFront]], [[CloudFront OAC設定ガイド]]
 
 ## 📚 参照元
 > [CloudFront FunctionsでBasic認証を実装する方法 - クラスメソッド, 2024年]
