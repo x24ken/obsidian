@@ -28,7 +28,7 @@ Viteがなぜ開発時と本番時で異なるツールチェーンを使うの�
 この二重構造は、モダンフロントエンド開発における「速度vs品質」のジレンマを解決する画期的なアーキテクチャパターンとなった
 
 ## 🔗 つながり
-→ [[Vite]], [[esbuild]], [[Rollup]], [[Viteが開発時esbuild、本番時Rollupを使う理由]]
+→ [[Vite]], [[esbuild]], [[Rollup]], [[Viteが開発時esbuild、本番時Rollupを使う理由]], [[ネイティブESModules]], [[TypeScript二段階ビルドパターン]]
 
 ## 📚 参照元
 > [o3-search分析 - Viteアーキテクチャ, 2025-07-08]
