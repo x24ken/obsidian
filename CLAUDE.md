@@ -8,6 +8,7 @@ This is an Obsidian vault implementing the Zettelkasten note-taking system with 
 
 ## Directory Structure
 
+- `00 - Inbox/` - Pre-stage space for raw memos and AI-generated content
 - `01 - Feeling Notes/` - Temporary notes for quick capture
 - `02 - Literature Notes/` - Structured notes from external sources
 - `03 - Permanet notes/` - Permanent notes with original thoughts
@@ -64,22 +65,35 @@ ls "02 - Literature Notes/" | grep -i "filename"
 
 ## Obsidian Configuration
 
-- New files default location: `01 - Feeling Notes/`
+- New files default location: `00 - Inbox/`
 - Attachments folder: `80 - Image/`
 - Always update links when moving files: enabled
 
-## Primary Workflow: Feeling Notes → Literature Notes
+## Primary Workflow: Inbox → Feeling Notes → Literature Notes
 
-The main purpose of this vault is to transform notes from `01 - Feeling Notes/` into properly formatted Zettelkasten notes:
+The main purpose of this vault is to progressively refine notes through three stages:
 
-1. **Check Feeling Notes**: Review files in `01 - Feeling Notes/` for unprocessed notes
-2. **Apply Zettelkasten Template**: Use `超包括的Zettelkastenプロンプト.md` to transform the note
-3. **Human Review**: The user will review and move approved notes to `02 - Literature Notes/`
+### Stage 1: Inbox (00 - Inbox)
+- **Purpose**: Raw capture space for quick memos, titles only, scribbles
+- **AI Usage**: When user requests "メモして" or similar, create notes here
+- **Content**: Unstructured thoughts, AI-generated initial drafts, quick ideas
+
+### Stage 2: Feeling Notes (01 - Feeling Notes)
+- **Process**: Apply `超包括的Zettelkastenプロンプト.md` to Inbox items
+- **Purpose**: Transform raw memos into structured Zettelkasten format
+- **AI Role**: Use appropriate template from 11 types to structure the content
+
+### Stage 3: Literature Notes (02 - Literature Notes)
+- **Process**: Human review and approval of Feeling Notes
+- **Purpose**: Finalized, properly formatted Zettelkasten notes
+- **Human Role**: Quality check and move approved notes here
 
 ## Important Notes
 
 1. All interactions should be in Japanese (日本語で返してください)
-2. When modifying notes, preserve the template structure exactly
-3. Image files (CleanShot screenshots) are stored in `80 - Image/`
-4. The vault uses Zettelkasten methodology - maintain atomic notes with proper linking
-5. Focus on transforming Feeling Notes - this is the core workflow
+2. When user requests "メモして" or similar, create notes in `00 - Inbox/`
+3. When modifying notes, preserve the template structure exactly
+4. Image files (CleanShot screenshots) are stored in `80 - Image/`
+5. The vault uses Zettelkasten methodology - maintain atomic notes with proper linking
+6. Core workflow: Inbox → Feeling Notes → Literature Notes (progressive refinement)
+7. **Consult o3 MCP**: When facing technical uncertainties, implementation decisions, or need fact-checking, consult o3-search MCP in English for accurate information
