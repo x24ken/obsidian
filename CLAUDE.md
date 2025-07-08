@@ -51,6 +51,13 @@ All files use Japanese names without emojis. The template type is identified by 
 - Do not create links to abstract concepts that don't have corresponding files
 - Convert non-existent concept links to plain text
 
+### Auto-Linking for Zettelkasten Notes
+When creating or updating notes with Zettelkasten templates:
+- **Automatically search** for related notes in `01 - Feeling Notes/` and `02 - Literature Notes/`
+- **Analyze file names** to identify conceptually related notes
+- **Add meaningful links** based on actual topical relationships, not just creation order
+- **Avoid arbitrary links** - only link notes that share conceptual, methodological, or practical connections
+
 ### Common Tasks
 
 To check existing files in Literature Notes:
