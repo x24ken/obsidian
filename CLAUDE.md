@@ -89,6 +89,7 @@ The main purpose of this vault is to progressively refine notes through three st
 - **Process**: Apply `超包括的Zettelkastenプロンプト.md` to Inbox items
 - **Purpose**: Transform raw memos into structured Zettelkasten format
 - **AI Role**: Use appropriate template from 11 types to structure the content
+- **Cleanup**: Delete the original file from `00 - Inbox/` after successful transformation
 
 ### Stage 3: Literature Notes (02 - Literature Notes)
 - **Process**: Human review and approval of Feeling Notes
