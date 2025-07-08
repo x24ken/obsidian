@@ -4,7 +4,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project Overview
 
-This is an Obsidian vault implementing the Zettelkasten note-taking system with a specific three-template structure. All notes should follow one of three template formats: Concept (🔍), Guide (📋), or Tips (💡).
+This is an Obsidian vault implementing the Zettelkasten note-taking system with 11 distinct template types. The templates are organized by cognitive function: Understanding, Generating, Critiquing, and Integrating.
 
 ## Directory Structure
 
@@ -17,16 +17,31 @@ This is an Obsidian vault implementing the Zettelkasten note-taking system with 
 ## Note Creation Guidelines
 
 ### Template Selection
-When creating or modifying notes, use the `🤖Zettelkastenプロンプト.md` template to determine the appropriate format:
+When creating or modifying notes, use the `超包括的Zettelkastenプロンプト.md` template to determine the appropriate format from 11 available templates:
 
-- **🔍 Concept**: For definitions, explanations, "what is" content
-- **📋 Guide**: For step-by-step instructions, procedures, how-to content  
-- **💡 Tips**: For quick tricks, efficiency hacks, short solutions
+**A. Understanding (理解する)**
+- **🔍 Concept**: Core ideas, theories, definitions
+- **📝 Case**: Specific experiences, examples, project records
+- **🧩 Pattern**: Reproducible structures, laws, regularities
 
-### File Naming Convention
-- **Concept**: `キーワード.md` (e.g., Zettelkasten.md)
-- **Guide**: `◯◯ガイド.md` (e.g., Obsidian設定ガイド.md)
-- **Tips**: `自由な表現.md` (e.g., ノート作成を爆速化する3つの技.md)
+**B. Generating (生成する)**
+- **❓ Question**: Problem statements, inquiries, research topics
+- **🧪 Hypothesis**: Testable hypotheses, speculations, "what if" scenarios
+- **💡 Tips**: Practical heuristics, reminders, rules of thumb
+
+**C. Critiquing (批判する)**
+- **📊 Analysis**: Critical evaluation, comparison, data interpretation
+- **⚖️ Debate**: Opposing viewpoints, paradoxes, controversies
+
+**D. Integrating (統合する)**
+- **🔗 Connection**: Relationships between multiple notes/domains
+- **💭 Insight**: "Aha!" moments, insights, idea integration
+- **📋 Guide**: Step-by-step processes or frameworks
+
+### File Naming Convention (All 11 Types)
+All files use Japanese names without emojis. The template type is identified by metadata:
+- **All templates**: `[日本語タイトル].md`
+- Examples: `esbuild.md`, `JavaScriptバンドラー.md`, `Tailwind CSS v4 UIライブラリ公開術.md`
 
 ### Linking Rules
 **CRITICAL**: Only create [[]] links to files that actually exist in the vault:
