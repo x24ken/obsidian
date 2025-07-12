@@ -49,7 +49,3 @@ JavaScriptパッケージ公開ツール3種類：
 
 ## 🔗 つながり
 → [[esbuild]], [[Vite]], [[Rollup]], [[JavaScriptバンドラー]]
-
-## 📚 参照元
-> [Vite Library Mode Documentation - vite.dev, 2025-01-07]
-> [o3-search分析 - Vite library mode比較, 2025-01-08]

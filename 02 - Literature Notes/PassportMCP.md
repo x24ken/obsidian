@@ -23,5 +23,3 @@ PassportMCPは、Chrome拡張機能とPython SDKを組み合わせて、ユー�
 ## 🔗 つながり
 → 
 
-## 📚 参照元
-> [PassportMCP GitHub Repository - github.com/JoshMayerr/passport-mcp, 2025-07-12]

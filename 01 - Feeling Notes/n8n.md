@@ -21,7 +21,3 @@ ZapierやMake.comと似ているが、オープンソースで自己ホスト可
 
 ## 🔗 つながり
 → [[MCP]], [[Claude Code Action夜間自動開発システム]]
-
-## 📚 参照元
-> [n8n GitHub Repository - n8n.io]
-> [What is n8n: An Overview of a Powerful Tool for Enhancing Automation - Medium, 2024]

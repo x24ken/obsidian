@@ -25,6 +25,3 @@ Zettelkastenは現代の[[Obsidianの使い方は人それぞれ]]に見られ�
 
 ## 🔗 つながり
 → [[Feeling Notes]], [[Literature Notes]], [[Permanent Notes]], [[IKEA効果]], [[デジタルガーデン]]
-
-## 📚 参照元
-> [ニクラス・ルーマン『社会の社会』及びZettelkasten研究, 1927-1998年]

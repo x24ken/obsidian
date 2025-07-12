@@ -27,7 +27,3 @@ JavaScriptバンドラーは、複数のJavaScriptファイルや依存関係を
 
 ## 🔗 つながり
 → [[esbuild]], [[JavaScriptパッケージ公開ツール比較分析]], [[Vite]], [[Rollup]], [[ネイティブESModules]], [[JavaScriptバンドラー定義の曖昧性問題]], [[JavaScriptビルドツール進化史]]
-
-## 📚 参照元
-> [JavaScript Bundlers Explained - MDN Web Docs, 2025-01-07]
-> [Why Do We Need Module Bundlers - webpack.js.org, 2025-01-07]

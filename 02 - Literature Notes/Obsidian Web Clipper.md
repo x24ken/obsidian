@@ -24,7 +24,3 @@ Web情報をナレッジベースに統合する際の摩擦を最小化し、�
 
 ## 🔗 つながり
 → [[ReadItLaterプラグイン]]
-
-## 📚 参照元
-> [Obsidian Web Clipper - obsidian.md, 2024]
-> [SNSからObsidian取り込みシステム調査結果, 2025-07-12]

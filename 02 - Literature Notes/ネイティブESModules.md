@@ -27,7 +27,3 @@ ES2015で標準化された`import`/`export`構文を、ブラウザが直接解
 
 ## 🔗 つながり
 → [[Vite]], [[JavaScriptバンドラー]], [[Viteの二重構造による最適化戦略]], [[esbuild]], [[Viteが開発時esbuild、本番時Rollupを使う理由]]
-
-## 📚 参照元
-> [ES Modules - MDN Web Docs, 2025-07-08]
-> [o3-search分析 - ネイティブESM詳細, 2025-07-08]

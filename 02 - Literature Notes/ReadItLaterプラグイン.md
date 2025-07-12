@@ -24,6 +24,3 @@ ReadItLaterプラグインは、クリップボードにコピーされたURL・
 
 ## 🔗 つながり
 → [[Obsidian Web Clipper]]
-
-## 📚 参照元
-> [ReadItLater plugin - Obsidian Forum, 2024]

@@ -55,5 +55,3 @@ Playwright MCPサーバーを活用してTwitterの自動ログイン・コン�
 ## 🔗 つながり
 → [[PassportMCP]]
 
-## 📚 参照元
-> [Playwright MCP Server Documentation - github.com/Barresider/x-mcp, 2025-07-12]
