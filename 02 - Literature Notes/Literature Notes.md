@@ -19,7 +19,7 @@ Zettelkastenシステムにおいて、本、YouTube、Udemyなどの外部情�
 - **vs 引用**: そのまま転記ではなく自分の言葉で整理
 
 ## 💡 なぜ重要か
-[[Zettelkasten]]システムの中間段階として、[[Feeling Notes]]からの発展と[[Permanent Notes]]への橋渡しを担う。外部知識を自分の言葉で咀嚼することで理解を深化させ、知識の体系化と創発的洞察の基盤を提供する。
+Zettelkastenシステムの中間段階として、Feeling Notesからの発展とPermanent Notesへの橋渡しを担う。外部知識を自分の言葉で咀嚼することで理解を深化させ、知識の体系化と創発的洞察の基盤を提供する。
 
 ## 🔗 つながり
-→ [[Feeling Notes]], [[Permanent Notes]]
+→ [[Feeling Notes]], [[Permanent Notes]], [[Zettelkasten]]
