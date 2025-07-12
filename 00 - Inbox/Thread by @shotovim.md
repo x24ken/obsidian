@@ -1,1 +1,0 @@
-https://x.com/shotovim/status/1906352073089962327
