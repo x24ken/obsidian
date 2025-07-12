@@ -29,6 +29,3 @@ Viteがなぜ開発時と本番時で異なるツールチェーンを使うの�
 
 ## 🔗 つながり
 → [[Vite]], [[esbuild]], [[Rollup]], [[Viteが開発時esbuild、本番時Rollupを使う理由]], [[ネイティブESModules]], [[TypeScript二段階ビルドパターン]]
-
-## 📚 参照元
-> [o3-search分析 - Viteアーキテクチャ, 2025-07-08]

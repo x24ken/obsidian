@@ -23,6 +23,3 @@ Zettelkastenシステムにおいて、本、YouTube、Udemyなどの外部情�
 
 ## 🔗 つながり
 → [[Feeling Notes]], [[Permanent Notes]]
-
-## 📚 参照元
-> [Zettelkastenシステム実践 - Literature Notes活用法, 2025年実践経験]

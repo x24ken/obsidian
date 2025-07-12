@@ -23,6 +23,3 @@ Zettelkastenにおける一時的なメモ（Fleeting Notes）
 
 ## 🔗 つながり
 → [[Literature Notes]], [[Permanent Notes]]
-
-## 📚 参照元
-> [Zettelkastenシステム実践 - Feeling Notes活用法, 2025年実践経験]
