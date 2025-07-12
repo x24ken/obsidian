@@ -22,4 +22,5 @@ RESTful APIはHTTPリソース操作に焦点を当てるのに対し、RPCは�
 → [[JSON-RPC 2.0]]
 
 ## 📚 参照元
-> [個人調査, 2025-07-12]
+> [Remote Procedure Call](https://en.wikipedia.org/wiki/Remote_procedure_call) - Wikipedia
+> [What is RPC?](https://www.cloudflare.com/learning/app-services/what-is-rpc/) - Cloudflare

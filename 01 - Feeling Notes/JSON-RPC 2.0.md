@@ -22,4 +22,5 @@ RESTful APIは状態転送に焦点を当てるのに対し、JSON-RPC 2.0は関
 → [[リモートプロシージャコール（RPC）]], [[WebSocket]], [[esbuild]], [[Vite]]
 
 ## 📚 参照元
-> [個人調査, 2025-07-12]
+> [JSON-RPC 2.0 Specification](https://www.jsonrpc.org/specification) - jsonrpc.org
+> [Understanding JSON-RPC](https://en.wikipedia.org/wiki/JSON-RPC) - Wikipedia

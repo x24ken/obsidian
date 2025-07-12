@@ -22,4 +22,5 @@ HTTPは要求-応答の一回限り通信で毎回接続を確立するのに対
 → [[JSON-RPC 2.0]], [[リモートプロシージャコール（RPC）]]
 
 ## 📚 参照元
-> [個人調査, 2025-07-12]
+> [The WebSocket Protocol](https://datatracker.ietf.org/doc/html/rfc6455) - RFC 6455
+> [WebSocket API](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket) - MDN Web Docs
