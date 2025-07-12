@@ -1,1 +1,0 @@
-https://note.com/kamechan_usagi/n/nfb1a2a98f092
