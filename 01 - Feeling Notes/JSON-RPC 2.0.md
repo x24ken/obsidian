@@ -19,7 +19,7 @@ RESTful APIは状態転送に焦点を当てるのに対し、JSON-RPC 2.0は関
 現代の分散システムにおける標準的通信プロトコルとして、VSCodeのLanguage Server Protocol（LSP）やClaude CodeのModel Context Protocol（MCP）など、多くの重要なツールチェーンで採用されており、開発者体験の向上に直接寄与している。
 
 ## 🔗 つながり
-→ [[リモートプロシージャコール（RPC）]], [[esbuild]], [[Vite]]
+→ [[リモートプロシージャコール（RPC）]], [[WebSocket]], [[esbuild]], [[Vite]]
 
 ## 📚 参照元
 > [個人調査, 2025-07-12]
