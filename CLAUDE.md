@@ -51,6 +51,12 @@ All files use Japanese names without emojis. The template type is identified by 
 - Do not create links to abstract concepts that don't have corresponding files
 - Convert non-existent concept links to plain text
 
+**Link Categories** (思考の流れで分類):
+- ⬅️ 前提・背景: Prerequisites and foundational concepts
+- ➡️ 発展・結果: Developments and outcomes
+- 🔀 別の視点: Alternative approaches or perspectives
+- 🎯 実践例: Practical examples and implementations
+
 ### Auto-Linking for Zettelkasten Notes
 When creating or updating notes with Zettelkasten templates:
 - **Automatically search** for related notes in `01 - Feeling Notes/` and `02 - Literature Notes/`
@@ -114,3 +120,11 @@ The main purpose of this vault is to progressively refine notes through three st
 5. The vault uses Zettelkasten methodology - maintain atomic notes with proper linking
 6. Core workflow: Inbox → Feeling Notes → Literature Notes (progressive refinement)
 7. **Consult o3 MCP**: When facing technical uncertainties, implementation decisions, or need fact-checking, consult o3-search MCP in English for accurate information
+
+### Reference Citation Format
+Always use clickable markdown links for references:
+- **Web articles**: `> [記事タイトル - サイト名, YYYY-MM-DD](https://example.com/article-url)`
+- **Books**: `> [著者名 (YYYY) 書籍名, p. XX](https://amazon.co.jp/dp/ISBN番号)`
+- **Videos**: `> [動画タイトル - チャンネル名, XX:XX](https://youtube.com/watch?v=VIDEO_ID)`
+- **GitHub**: `> [リポジトリ名 - ファイル名](https://github.com/user/repo/blob/main/file.md)`
+- **Personal experiences**: `> 個人体験, YYYY-MM-DD` (no link)
