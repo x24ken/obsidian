@@ -58,6 +58,15 @@ When creating or updating notes with Zettelkasten templates:
 - **Add meaningful links** based on actual topical relationships, not just creation order
 - **Avoid arbitrary links** - only link notes that share conceptual, methodological, or practical connections
 
+### Reference Citation Format
+All references must use clickable markdown link format `[Text](URL)`:
+- **Books (ISBN/Amazon)**: `> [Author (YYYY) Book Title, p. XX](https://amazon.co.jp/dp/ISBN)`
+- **Web Articles**: `> [Article Title - Site Name, YYYY-MM-DD](https://example.com/article-url)`
+- **Videos**: `> [Video Title - Channel Name, XX:XX](https://youtube.com/watch?v=VIDEO_ID)`
+- **Papers**: `> [Author et al. (YYYY) Paper Title](https://doi.org/10.xxxx/xxxxx)`
+- **GitHub/Code**: `> [Repository Name - File Name](https://github.com/user/repo/blob/main/file.md)`
+- **Personal Experience (no link)**: `> Personal Experience, YYYY-MM-DD`
+
 ### Common Tasks
 
 To check existing files in Literature Notes:
