@@ -50,6 +50,7 @@ All files use Japanese names without emojis. The template type is identified by 
 - Use exact file names
 - Do not create links to abstract concepts that don't have corresponding files
 - Convert non-existent concept links to plain text
+- **If there are no relevant existing notes for a connection category, write "（現在関連するノートはありません）" instead of creating fictional links**
 
 **Link Categories** (思考の流れで分類):
 - ⬅️ 前提・背景: Prerequisites and foundational concepts
