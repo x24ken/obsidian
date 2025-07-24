@@ -50,7 +50,7 @@ MCPトランスポートの選択は、ツールの実行場所とアクセス�
 両者の最大の違いは「どこで動くか」。stdioはあなたのPC内で完結し、外部ネットワークを使わない。Streamable HTTPはインターネット経由で外部サービスと通信する。stdioは`command`でプログラムを指定し、Streamable HTTPは`url`でエンドポイントを指定する。セキュリティ面では、stdioはローカル限定で安全、Streamable HTTPはAPIキーなどの認証が必要。
 
 ## 💡 なぜ重要か
-適切なトランスポートを選ぶことで、ツールの性能とセキュリティが最適化される。ローカルファイル操作にStreamable HTTPを使うと無駄に遅くなり、Web APIにstdioは使えない。現在のClaude Codeユーザーは、すべてのMCPサーバーがstdioで動いていることを理解し、将来Streamable HTTPが追加されたときに備えて、この使い分けを知っておく必要がある。
+適切なトランスポートを選ぶことで、ツールの性能とセキュリティが最適化される。ローカルファイル操作にStreamable HTTPを使うと無駄に遅くなり、Web APIにstdioは使えない。2025年1月現在、Claude Codeは「リモートMCPサーバー」機能でStreamable HTTPをサポート開始。ローカルMCPサーバーはstdio、リモートMCPサーバーはStreamable HTTPという使い分けが標準となっている。
 
 ## 🔗 つながり
 ### ⬅️ 前提・背景
