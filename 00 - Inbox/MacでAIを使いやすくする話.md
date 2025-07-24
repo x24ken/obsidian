@@ -1,1 +1,0 @@
-https://note.com/mt07/n/n083d639fcf68
