@@ -1,4 +1,4 @@
-# Zapier、Zapier MCP、iPassのまとめ
+# Zapier、Zapier MCP、iPaaSのまとめ
 
 ## 1. Zapier
 - **概要**: ノーコードで7,000以上のWebアプリを連携し、ワークフロー（Zaps）を自動化するiPaaS（Integration Platform as a Service）
