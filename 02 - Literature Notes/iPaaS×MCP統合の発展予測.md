@@ -34,6 +34,10 @@ iPaaS×MCP統合は2025-2027年にかけて主流となり、AI-drivenな統合�
 
 ### 🔀 別の視点
 → [[Zapier]] - 早期MCP対応による市場優位性確立
+→ [[n8n]] - オープンソースプラットフォームの対応動向
+
+### 🎯 実践例
+→ [[MCPクライアントのリモートサーバー対応状況（2025年7月）]] - 業界標準化の具体的進展
 
 ## 📚 参照元
 > [Are Model Context Protocols (MCP) the Future of SaaS Integrations? - Medium, 2025](https://meghrshah.medium.com/are-model-context-protocols-the-future-of-saas-integrations-79c503ccbf43)
