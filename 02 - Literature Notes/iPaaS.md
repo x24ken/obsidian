@@ -24,13 +24,17 @@ iPaaS（Integration Platform as a Service）は、クラウドネイティブな
 （現在関連するノートはありません）
 
 ### ➡️ 発展・結果
-→ [[Zapier]], [[n8n]], [[iPaaS×MCP統合の発展予測]]
+→ [[iPaaS×MCP統合の発展予測]] - iPaaSとAI技術の統合予測
 
 ### 🔀 別の視点
-→ [[MCP]], [[MCPの秘書と道具箱例え話]]
+→ [[MCP]] - AI-ツール連携の類似統合アプローチ
+→ [[MCPの秘書と道具箱例え話]] - 統合プラットフォームの概念理解
 
 ### 🎯 実践例
-→ [[Zapier MCP]], [[PassportMCP]]
+→ [[Zapier]] - SMB向けiPaaSプラットフォームの代表例
+→ [[n8n]] - オープンソースiPaaSソリューション
+→ [[Zapier MCP]] - iPaaSとAI連携の具体実装
+→ [[PassportMCP]] - 認証統合でのiPaaS活用例
 
 ## 📚 参照元
 > [Information Platform as a Service (iPaaS) - Gartner Glossary](https://www.gartner.com/en/information-technology/glossary/information-platform-as-a-service-ipaas)
