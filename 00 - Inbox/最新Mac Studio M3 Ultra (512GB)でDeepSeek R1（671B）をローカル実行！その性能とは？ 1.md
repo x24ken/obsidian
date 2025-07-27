@@ -1,0 +1,4 @@
+This YouTube video by テックナビ (Tech Navi) explores the performance of the DeepSeek R1 (671B) large language model running locally on the latest Mac Studio M3 Ultra (with 512GB of memory). The video includes tests with various model sizes (1.5B, 7B, 14B, 32B, 70B, and 671B) using MLX and GGUF formats. The creator encourages viewers to support the channel through membership and provides links to their X (formerly Twitter) account and other related videos. Chapters are provided for easy navigation. Keywords: エンジニア, AI, 人工知能, テクノロジー, プログラミング, テクノロジーニュース, 生成AI, Apple, M3 ultra, mlx, llm.
+
+ ## 参照元
+[最新Mac Studio M3 Ultra (512GB)でDeepSeek R1（671B）をローカル実行！その性能とは？](https://www.youtube.com/embed/HG_24EFF-Uw)
