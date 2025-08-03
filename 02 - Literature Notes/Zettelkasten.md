@@ -39,4 +39,3 @@ Zettelkastenは現代の[[Obsidianの使い方は人それぞれ]]に見られ�
 
 ### 🎯 実践例
 → [[IKEA効果]] - Zettelkastenで自己構築による愛着が生まれる心理的メカニズム
-→ [[02フォルダ全体つながりマップ]] - Zettelkastenシステムの実際の運用例
