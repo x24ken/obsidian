@@ -121,6 +121,7 @@ The main purpose of this vault is to progressively refine notes through three st
 5. The vault uses Zettelkasten methodology - maintain atomic notes with proper linking
 6. Core workflow: Inbox → Feeling Notes → Literature Notes (progressive refinement)
 7. **Consult o3 MCP**: When facing technical uncertainties, implementation decisions, or need fact-checking, consult o3-search MCP in English for accurate information
+8. **o3 MCP Status Check**: Always check if o3-search MCP is working before using it. If it returns timeout errors or fails, immediately inform the user that "o3が現在利用できないため、私の知識で回答します" and proceed with available knowledge
 
 ### Reference Citation Format
 Always use clickable markdown links for references:
