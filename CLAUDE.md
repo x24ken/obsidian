@@ -53,17 +53,52 @@ All files use Japanese names without emojis. The template type is identified by 
 - **If there are no relevant existing notes for a connection category, write "（現在関連するノートはありません）" instead of creating fictional links**
 
 **Link Format** (シンプルな矢印形式):
-- `← [[ノート名]]：簡潔な説明` - 元になった考え・前提
-- `↔ [[ノート名]]：簡潔な説明` - 同レベルの関連・別視点  
-- `→ [[ノート名]]：簡潔な説明` - 発展・応用・実践例
+- `← [[ノート名]]：関係性の説明` - 元になった考え・前提
+- `↔ [[ノート名]]：関係性の説明` - 同レベルの関連・別視点  
+- `→ [[ノート名]]：関係性の説明` - 発展・応用・実践例
 
-Example:
+**Zettelkasten Linking Rules** (厳格な品質基準):
+
+1. **つながりの数: 2-5個**
+   - 最小2個（孤立ノートは死んだノート）
+   - 最大5個（多すぎると意味が薄まる）
+   - 理由を1文で説明できないリンクは作らない
+
+2. **リンクを作る4つの基準**:
+   - **継続（Continuation）**: 前のアイデアを拡張・修正・例示
+   - **対比（Contrast）**: 異なる視点や対立する考え
+   - **橋渡し（Bridge）**: 通常出会わない文脈をつなぐ
+   - **変容（Transformation）**: 組み合わせで新しい洞察を生む
+
+3. **リンクを作らない場合**:
+   - 単なる分類（`[[JavaScript]]`のような分類タグ的リンク）
+   - 関係性を説明できない
+   - 完全性のためだけの網羅的リンク
+
+4. **品質チェック**:
+   - 各リンクに「：」の後に関係性の具体的説明を必須
+   - 双方向性の確保（リンク先にも逆リンクがあるか）
+   - 定期的な剪定（弱いリンクの削除）
+
+Example (Good):
 ```markdown
 ## つながり
 
-← [[JavaScriptバンドラーの歴史]]：esbuildが登場した背景
-↔ [[Viteの開発体験]]：同じ高速化を目指すツール
-→ [[esbuildプラグインの作成方法]]：実践的な応用
+← [[JavaScriptビルドツール進化史]]：速度問題への解答として登場
+↔ [[Rollup]]：速度vs最適化のトレードオフ関係
+→ [[Vite]]：開発環境での高速性を活かした実装
+```
+
+Example (Bad):
+```markdown
+## つながり
+
+← [[JavaScript]]：JavaScriptの話だから
+← [[プログラミング]]：プログラミングツール
+→ [[ツール1]]：関連ツール
+→ [[ツール2]]：関連ツール
+→ [[ツール3]]：関連ツール
+→ [[ツール4]]：関連ツール
 ```
 
 ### Auto-Linking for Zettelkasten Notes
