@@ -23,19 +23,7 @@
 ## 💡 なぜ重要か
 Zettelkastenは現代の[[Obsidianの使い方は人それぞれ]]に見られる個人知識管理の原型。[[IKEA効果]]のように「自分で作り上げる」ことで愛着と理解が深まる。[[デジタルガーデン]]や現代PKMシステムの理論的基盤として、情報過多時代の知識創造方法論を提供する。
 
-## 🔗 つながり
-### ⬅️ 前提・背景
-（現在関連するノートはありません）
-
-### ➡️ 発展・結果
-→ [[Feeling Notes]] - Zettelkastenシステムの一時的思考記録段階
-→ [[Literature Notes]] - Zettelkastenシステムの文献整理段階
-→ [[Permanent Notes]] - Zettelkastenシステムの永続的洞察記録段階
-→ [[デジタルガーデン]] - Zettelkastenのデジタル時代の発展形
-→ [[Obsidian]] - Zettelkastenを実装するデジタルツール
-
-### 🔀 別の視点
-→ [[Obsidianの使い方は人それぞれ]] - Zettelkasten方法論の個人的適応
-
-### 🎯 実践例
-→ [[IKEA効果]] - Zettelkastenで自己構築による愛着が生まれる心理的メカニズム
+## つながり
+→ [[Feeling Notes]]：Zettelkastenシステムの一時的思考記録段階
+↔ [[Obsidianの使い方は人それぞれ]]：Zettelkasten方法論の個人的適応
+→ [[IKEA効果]]：Zettelkastenで自己構築による愛着が生まれる心理的メカニズム
