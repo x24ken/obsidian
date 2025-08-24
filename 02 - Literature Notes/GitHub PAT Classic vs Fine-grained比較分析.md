@@ -33,7 +33,6 @@ GitHub Personal Access Tokenの2種類（Classic vs Fine-grained）は、セキ�
 
 ## つながり
 ← [[GitHub Personal Access Token (PAT)]]：PATの基本概念と必要性
-→ [[GitHub App]]：長期的な自動化にはPATよりも推奨される認証方法
 ↔ [[SSHキー認証]]：HTTPS/PAT以外のGit認証方法
 
 ## 📚 参照
