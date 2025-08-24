@@ -52,11 +52,19 @@ All files use Japanese names without emojis. The template type is identified by 
 - Convert non-existent concept links to plain text
 - **If there are no relevant existing notes for a connection category, write "（現在関連するノートはありません）" instead of creating fictional links**
 
-**Link Categories** (思考の流れで分類):
-- ⬅️ 前提・背景: Prerequisites and foundational concepts
-- ➡️ 発展・結果: Developments and outcomes
-- 🔀 別の視点: Alternative approaches or perspectives
-- 🎯 実践例: Practical examples and implementations
+**Link Format** (シンプルな矢印形式):
+- `← [[ノート名]]：簡潔な説明` - 元になった考え・前提
+- `↔ [[ノート名]]：簡潔な説明` - 同レベルの関連・別視点  
+- `→ [[ノート名]]：簡潔な説明` - 発展・応用・実践例
+
+Example:
+```markdown
+## つながり
+
+← [[JavaScriptバンドラーの歴史]]：esbuildが登場した背景
+↔ [[Viteの開発体験]]：同じ高速化を目指すツール
+→ [[esbuildプラグインの作成方法]]：実践的な応用
+```
 
 ### Auto-Linking for Zettelkasten Notes
 When creating or updating notes with Zettelkasten templates:
