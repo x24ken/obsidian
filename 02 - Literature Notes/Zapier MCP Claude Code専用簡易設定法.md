@@ -80,7 +80,6 @@ claude mcp add zapier https://mcp.zapier.com/api/mcp/mcp \
 
 ## つながり
 
-← [[Zapier MCP設定ガイド]]：従来の汎用的な設定方法
 ← [[Claude Code]]：この専用設定の対象ツール
 ↔ [[MCPトランスポート層]]：HTTPトランスポートとヘッダー認証の技術詳細
 → [[MCPクライアントのリモートサーバー対応状況（2025年7月）]]：クライアント別の実装差異
