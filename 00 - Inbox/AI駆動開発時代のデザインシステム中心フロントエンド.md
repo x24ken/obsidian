@@ -41,139 +41,37 @@ Figma (デザインの源泉)
 
 ### 1. Figma MCPによるデザイン情報の取得
 
-**Figma MCP**を使用することで、Figmaで定義されたデザインシステムから直接情報を取得：
-
-```typescript
-// Figma MCPを通じてデザイントークンを取得
-const designTokens = await figmaMCP.getDesignTokens({
-  fileId: 'your-design-system-file',
-  nodeId: 'tokens-page'
-});
-
-// カラーパレット、スペーシング、タイポグラフィなどを自動取得
-const { colors, spacing, typography } = designTokens;
-```
+**Figma MCP**を使用することで、Figmaで定義されたデザインシステムから直接情報を取得できます。カラーパレット、スペーシング、タイポグラフィなどのデザイントークンを自動的に取り込み、開発環境に反映させることが可能になります。
 
 ### 2. 独自UIライブラリーの自動生成
 
-取得したデザイン情報を基に、プロジェクト専用のUIライブラリーを構築：
-
-```typescript
-// デザイントークンからTailwind設定を生成
-const tailwindConfig = {
-  theme: {
-    extend: {
-      colors: generateColorScale(colors),
-      spacing: generateSpacingScale(spacing),
-      fontFamily: typography.families,
-    }
-  }
-};
-
-// Reactコンポーネントも自動生成
-const Button = styled.button`
-  background-color: ${colors.primary};
-  padding: ${spacing.md};
-  font-family: ${typography.body};
-`;
-```
+取得したデザイン情報を基に、プロジェクト専用のUIライブラリーを構築します。これにより、デザイントークンからTailwind CSS設定を生成したり、Reactコンポーネントを自動生成したりすることができます。
 
 ### 3. Storybookでの可視化
 
-生成されたコンポーネントをStorybookで自動ドキュメント化：
-
-```typescript
-// Storybook用のストーリーも自動生成
-export default {
-  title: 'Components/Button',
-  component: Button,
-  parameters: {
-    design: {
-      type: 'figma',
-      url: figmaUrl, // Figmaの該当コンポーネントへのリンク
-    },
-  },
-};
-```
+生成されたコンポーネントをStorybookで自動ドキュメント化することで、開発者とデザイナーが同じビジョンを共有できます。Figmaの該当コンポーネントへのリンクも含めることで、デザインと実装の対応関係を明確にします。
 
 ### 4. 独自UI MCPによる配布
 
-作成したUIライブラリーを**独自のMCP**として公開し、AIが理解できる形で提供：
+作成したUIライブラリーを**独自のMCP**として公開し、AIが理解できる形で提供します。これにより、AIはプロジェクト固有のコンポーネントやデザインルールを理解し、一貫性のあるコードを生成できるようになります。
 
-```json
-{
-  "name": "custom-ui-mcp",
-  "version": "1.0.0",
-  "components": [
-    {
-      "name": "Button",
-      "props": ["variant", "size", "disabled"],
-      "usage": "Primary action button following design system",
-      "examples": [...]
-    }
-  ],
-  "designTokens": {...},
-  "guidelines": "Always use these components instead of creating new ones"
-}
-```
-
-## 実装例：Figma → UIライブラリー → プロダクト
+## 実装の流れ：Figma → UIライブラリー → プロダクト
 
 ### ステップ1: Figmaからデザイントークンを取得
 
-```javascript
-// Figma MCPを使用してデザインシステムを取得
-const figmaDesignSystem = await mcp.figma.getDesignSystem({
-  fileKey: 'abc123',
-  includeComponents: true,
-  includeTokens: true
-});
-```
+Figma MCPを使用してデザインシステムの情報を取得します。コンポーネントの定義やデザイントークンなど、必要な情報を一括で取り込みます。
 
 ### ステップ2: UIライブラリーを生成
 
-```javascript
-// デザインシステムからUIライブラリーを生成
-const uiLibrary = generateUILibrary({
-  tokens: figmaDesignSystem.tokens,
-  components: figmaDesignSystem.components,
-  framework: 'react',
-  styling: 'tailwind'
-});
-
-// Storybookストーリーも同時生成
-const stories = generateStorybook(uiLibrary);
-```
+取得したデザインシステム情報から、プロジェクトに最適化されたUIライブラリーを生成します。ReactやTailwind CSSなど、使用するフレームワークに応じた形式で出力されます。
 
 ### ステップ3: MCPとして公開
 
-```javascript
-// 独自MCPサーバーを起動
-const customUIMCP = new MCPServer({
-  name: 'my-design-system',
-  components: uiLibrary.components,
-  tokens: uiLibrary.tokens,
-  guidelines: uiLibrary.guidelines
-});
-
-// AIが使用可能な形で公開
-customUIMCP.serve();
-```
+生成したUIライブラリーを独自のMCPサーバーとして起動し、AIが使用可能な形で公開します。コンポーネント情報、デザイントークン、使用ガイドラインなどをAPIとして提供します。
 
 ### ステップ4: AIによる一貫性のある開発
 
-```javascript
-// AIがMCPを通じてUIライブラリーを使用
-const generatedCode = await ai.generate({
-  prompt: "ユーザー登録フォームを作成",
-  context: {
-    mcp: 'my-design-system',
-    enforceDesignSystem: true
-  }
-});
-
-// 結果：デザインシステムに準拠したコード
-```
+AIがMCPを通じてUIライブラリーを参照し、デザインシステムに準拠したコードを生成します。これにより、「AIぽさ」のない、プロフェッショナルな仕上がりが実現できます。
 
 ## メリット
 
@@ -197,50 +95,15 @@ const generatedCode = await ai.generate({
 
 ### 1. Figma MCPの設定
 
-```yaml
-# mcp-config.yaml
-figma:
-  api_key: ${FIGMA_API_KEY}
-  design_system_file: "your-file-id"
-  auto_sync: true
-  sync_interval: "1h"
-```
+Figma APIキーやデザインシステムファイルのIDを設定し、定期的な同期を有効にすることで、常に最新のデザイン情報を反映できます。
 
 ### 2. カスタムMCPの作成
 
-```typescript
-class CustomUIMCP extends MCPServer {
-  async getComponent(name: string) {
-    // コンポーネント情報を返す
-    return this.components[name];
-  }
-  
-  async getDesignToken(path: string) {
-    // デザイントークンを返す
-    return this.tokens.get(path);
-  }
-  
-  async generateCode(spec: ComponentSpec) {
-    // 仕様からコードを生成
-    return this.codeGenerator.generate(spec);
-  }
-}
-```
+独自のMCPサーバーを実装し、コンポーネント情報の取得、デザイントークンの参照、コード生成などの機能を提供します。
 
 ### 3. AIへのコンテキスト提供
 
-```typescript
-// AIにデザインシステムのコンテキストを提供
-const aiConfig = {
-  systemPrompt: `
-    You must use components from the custom-ui-mcp.
-    Never create inline styles or custom components.
-    Always refer to the design tokens for colors and spacing.
-  `,
-  mcp: ['custom-ui-mcp'],
-  strictMode: true
-};
-```
+AIにデザインシステムのコンテキストを提供し、カスタムUIライブラリーのコンポーネントを優先的に使用するよう指示します。インラインスタイルやカスタムコンポーネントの作成を制限し、デザイントークンの参照を必須とします。
 
 ## 導入事例のシナリオ
 
