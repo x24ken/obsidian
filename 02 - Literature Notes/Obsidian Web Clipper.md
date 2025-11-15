@@ -26,3 +26,7 @@ Web情報をナレッジベースに統合する際の摩擦を最小化し、�
 ← [[Obsidian]]：Obsidianエコシステムの一部
 ↔ [[ReadItLaterプラグイン]]：クリップボードベースの代替手法
 → [[IKEA効果]]：自分でクリップに関与する効果
+
+## 📚 参照元
+> [Obsidian Web Clipper - Official Documentation](https://help.obsidian.md/Plugins/Web+Clipper)
+> [Obsidian Web Clipper - GitHub Repository](https://github.com/obsidianmd/obsidian-clipper)

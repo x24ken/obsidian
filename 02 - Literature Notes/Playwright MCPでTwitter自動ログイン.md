@@ -57,3 +57,8 @@ Playwright MCPサーバーを活用してTwitterの自動ログイン・コン�
 ↔ [[PassportMCP]]：ブラウザセッションベースの代替アプローチ
 → [[MCPの秘書と道具箱例え話]]：ブラウザ操作道具箱の例
 
+## 📚 参照元
+> [Playwright - Official Documentation](https://playwright.dev/)
+> [@microsoft/playwright-mcp - npm](https://www.npmjs.com/package/@microsoft/playwright-mcp)
+> [x-mcp (Twitter専用MCP) - GitHub](https://github.com/Barresider/x-mcp)
+

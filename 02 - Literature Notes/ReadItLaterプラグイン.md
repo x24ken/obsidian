@@ -24,3 +24,7 @@ ReadItLaterプラグインは、クリップボードにコピーされたURL・
 
 ## 🔗 つながり
 → [[Obsidian Web Clipper]]
+
+## 📚 参照元
+> [ReadItLater - Obsidian Community Plugin](https://obsidian.md/plugins?id=readitlater)
+> [ReadItLater - GitHub Repository](https://github.com/DominikPieper/obsidian-ReadItLater)

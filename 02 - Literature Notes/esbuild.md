@@ -31,3 +31,7 @@ esbuildは「ビルド時間の削減」という開発者の根本的な課題�
 ↔ [[Rollup]]：速度vs最適化品質のトレードオフ関係
 → [[Vite]]：開発環境での事前バンドルという革新的活用
 → [[tsup]]：esbuildベースのTypeScript特化ツールへの発展
+
+## 📚 参照元
+> [esbuild - Official Documentation](https://esbuild.github.io/)
+> [esbuild - GitHub Repository](https://github.com/evanw/esbuild)

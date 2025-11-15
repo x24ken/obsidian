@@ -36,3 +36,8 @@ TypeScriptコードをJavaScriptに変換するビルドツール群の性能比
 → [[JavaScriptパッケージ公開ツール比較分析]]：パッケージ公開特化の比較
 ↔ [[esbuild]]：超高速コンパイラー
 → [[Rollup]]：ライブラリビルドでの適用
+
+## 📚 参照元
+> 個人的比較分析, 2025-11-15
+> [TypeScript Official Documentation](https://www.typescriptlang.org/)
+> [esbuild TypeScript Support](https://esbuild.github.io/content-types/#typescript)

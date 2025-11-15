@@ -52,3 +52,8 @@ JavaScriptパッケージ公開ツール3種類：
 → [[Typescriptビルドツール比較分析]]：TypeScript特化の比較分析
 ↔ [[tsup]]：esbuildベースのシンプルツール
 → [[TypeScript二段階ビルドパターン]]：特定ビルドパターンでの適用
+
+## 📚 参照元
+> 個人的比較分析, 2025-11-15
+> [Vite Library Mode](https://vitejs.dev/guide/build.html#library-mode)
+> [tsup Documentation](https://tsup.egoist.dev/)

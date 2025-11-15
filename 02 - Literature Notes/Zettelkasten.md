@@ -27,3 +27,7 @@ Zettelkastenは現代の[[Obsidianの使い方は人それぞれ]]に見られ�
 → [[Feeling Notes]]：Zettelkastenシステムの一時的思考記録段階
 ↔ [[Obsidianの使い方は人それぞれ]]：Zettelkasten方法論の個人的適応
 → [[IKEA効果]]：Zettelkastenで自己構築による愛着が生まれる心理的メカニズム
+
+## 📚 参照元
+> [Ahrens, S. (2017). How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers.](https://www.amazon.co.jp/dp/B06WVYW33Y)
+> [Schmidt, J. (2016). Niklas Luhmann's Card Index: Thinking Tool, Communication Partner, Publication Machine. In Cevolini, A. (Ed.), Forgetting Machines: Knowledge Management Evolution in Early Modern Europe.](https://www.degruyter.com/document/doi/10.1515/9783110418309-003/html)

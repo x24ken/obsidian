@@ -2,6 +2,20 @@
 
 This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
+## Priority Stack
+
+When rules conflict, follow this priority order:
+
+1. **正確性（Factual Accuracy）** - 事実の正確さが最優先
+2. **引用の整合性（Citation Integrity）** - 出典の明記と正確性
+3. **アトミック性（Atomicity）** - 1ノート1アイデア
+4. **リンク品質（Link Quality）** - 意味のある関係性の説明
+5. **テンプレート適合（Template Conformity）** - テンプレート構造の遵守
+6. **リンク数目標（Link Count Targets）** - リンク数の推奨値
+
+**例外ポリシー：**
+ルールに従えない正当な理由がある場合、1行で理由を説明すれば例外を許可します。
+
 ## Project Overview
 
 This is an Obsidian vault implementing the Zettelkasten note-taking system with 11 distinct template types. The templates are organized by cognitive function: Understanding, Generating, Critiquing, and Integrating.
@@ -59,10 +73,12 @@ All files use Japanese names without emojis. The template type is identified by 
 
 **Zettelkasten Linking Rules** (厳格な品質基準):
 
-1. **つながりの数: 2-5個**
-   - 最小2個（孤立ノートは死んだノート）
-   - 最大5個（多すぎると意味が薄まる）
-   - 理由を1文で説明できないリンクは作らない
+1. **つながりの数: 1-3個推奨（柔軟）**
+   - **推奨**: 作成時に1-3個の強いリンクを目指す
+   - **0個も許可**: 新しいアイデアや初期段階のノートは0個から始めてOK
+   - **上限なし**: 意味のあるリンクなら5個以上も可
+   - **原則**: 理由を1文で説明できないリンクは作らない
+   - **注意**: 硬直的なクォータは避ける（弱いリンクを捏造する原因になる）
 
 2. **リンクを作る4つの基準**:
    - **継続（Continuation）**: 前のアイデアを拡張・修正・例示
@@ -165,6 +181,25 @@ The main purpose of this vault is to progressively refine notes through three st
 6. Core workflow: Inbox → Feeling Notes → Literature Notes (progressive refinement)
 7. **Consult o3 MCP**: When facing technical uncertainties, implementation decisions, or need fact-checking, consult o3-search MCP in English for accurate information
 8. **o3 MCP Status Check**: Always check if o3-search MCP is working before using it. If it returns timeout errors or fails, immediately inform the user that "o3が現在利用できないため、私の知識で回答します" and proceed with available knowledge
+
+## Security and Privacy Rules
+
+**CRITICAL - NEVER VIOLATE THESE RULES:**
+
+- **NEVER include API keys, tokens, passwords, or any credentials in notes**
+- **ALWAYS use environment variables** (`process.env.API_KEY`) or placeholders (`YOUR_API_KEY_HERE`) in code examples
+- If actual credentials are needed, suggest using `.env` files and verify they are in `.gitignore`
+- Ask user for confirmation before creating notes that might contain sensitive information
+
+**Bad Example:**
+```javascript
+const apiKey = "SG.abc123..."  // ❌ ABSOLUTELY FORBIDDEN
+```
+
+**Good Example:**
+```javascript
+const apiKey = process.env.SENDGRID_API_KEY  // ✅ Correct
+```
 
 ### Reference Citation Format
 Always use clickable markdown links for references:

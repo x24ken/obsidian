@@ -29,3 +29,7 @@ BDNFは経験依存的な脳の可塑性の中心分子であり、「使えば�
 ← [[疲労と疲労感は違う]]：脳機能の客観的測定指標としてのBDNF
 → [[運動によるBDNF増加と海馬の神経新生]]：運動による増加メカニズムの詳細
 ↔ [[「休んでから頑張る」アプローチ]]：運動と休息によるBDNF最適化
+
+## 📚 参照元
+> [Barde, Y. A., Edgar, D., & Thoenen, H. (1982). Purification of a new neurotrophic factor from mammalian brain. EMBO Journal, 1(5), 549-553.](https://www.embopress.org/doi/abs/10.1002/j.1460-2075.1982.tb01207.x)
+> [Lu, B., Nagappan, G., & Lu, Y. (2014). BDNF and synaptic plasticity, cognitive function, and dysfunction. Handbook of Experimental Pharmacology, 220, 223-250.](https://link.springer.com/chapter/10.1007/978-3-642-45106-5_9)
