@@ -24,6 +24,8 @@ Language Server Protocol (LSP) のトランスポートと類似しているが�
 → [[Streamable HTTPプロトコル]]：2025年仕様でのストリーミング通信
 ↔ [[WebSocket]]：双方向通信の代替手段
 → [[Playwright MCPでTwitter自動ログイン]]：stdioトランスポートの実装例
+↔ [[MCP Python SDK]]：Python実装でのトランスポート層の実装
+↔ [[FastMCP]]：プロダクション環境でのトランスポート活用
 
 ## 📚 参照元
 > [MCP Specification - Transports](https://spec.modelcontextprotocol.io/specification/basic/transports/)
