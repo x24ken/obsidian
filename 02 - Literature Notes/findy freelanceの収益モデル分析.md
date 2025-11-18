@@ -33,7 +33,4 @@ Win-Win-Winモデル：エンジニアは高報酬、企業は質の高い人材
 
 ## つながり
 ← [[iPaaS]]：プラットフォームビジネスモデル
-
-## 📚 参照元
-> [Findy Freelanceの評判・口コミ - freeconsul, 2025-08-15](https://freeconsul.co.jp/cs/findy-freelance-review/)
 > [料金体系 | Findy](https://findy-code.io/enterprise-service/fee/)

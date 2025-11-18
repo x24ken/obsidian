@@ -25,8 +25,3 @@ ZapierやMake.comと似ているが、オープンソースで自己ホスト可
 ↔ [[AIエージェント]]：AI Agentノードによる知的自動化の実装
 ↔ [[Zapier]]：セルフホストvsクラウドの設計哲学対比
 → [[n8n Self Hosted vs Cloud MCPトランスポート使い分け]]：実装形態の詳細
-
-## 📚 参照元
-> [n8n - Official Documentation](https://docs.n8n.io/)
-> [n8n - Official Website](https://n8n.io/)
-> [n8n - GitHub Repository](https://github.com/n8n-io/n8n)

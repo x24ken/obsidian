@@ -22,7 +22,4 @@ Python（Django）とReact.jsベースのマイクロサービスアーキテク
 → [[Zapier MCP]]：AI連携を強化する拡張技術
 ↔ [[n8n]]：オープンソースの代替プラットフォーム
 → [[PassportMCP]]：ZapierのAPI課金を回避する事例
-
-## 📚 参照元
-> [What is Zapier? - Zapier Help Center, 2025](https://help.zapier.com/hc/en-us/articles/37518970271245-What-is-Zapier)
 > [Zapier Pricing - Capterra, 2025](https://www.capterra.com/p/130182/Zapier/pricing/)

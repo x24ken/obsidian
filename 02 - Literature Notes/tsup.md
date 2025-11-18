@@ -21,7 +21,3 @@ npmパッケージを公開する際、ESMとCommonJSの両方に対応する必
 ← [[esbuild]]：esbuildの高速性を活かした上位ツール
 → [[Typescriptビルドツール比較分析]]：ライブラリビルドでの標準選択肢
 ↔ [[Rollup]]：速度vs最適化品質のトレードオフ
-
-## 📚 参照元
-> [tsup - Official Documentation](https://tsup.egoist.dev/)
-> [tsup - GitHub Repository](https://github.com/egoist/tsup)

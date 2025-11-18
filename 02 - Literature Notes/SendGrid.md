@@ -87,9 +87,3 @@ await sgMail.send(msg);
 ## つながり
 
 （現在関連するノートはありません）
-
-## 📚 参照元
-
-> [Twilio SendGrid Documentation](https://www.twilio.com/docs/sendgrid)
-> [SendGrid Email Deliverability Guide - 2024](https://sendgrid.com/en-us/resource/email-deliverability-guide)
-> [Gmail security & anti-spam protection for users - Google Blog, 2024-02](https://blog.google/products/gmail/gmail-security-authentication-spam-protection/)

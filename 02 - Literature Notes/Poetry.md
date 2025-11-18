@@ -24,8 +24,3 @@ Pythonの依存関係管理の混沌（pip, venv, setup.py, requirements.txtの�
 ↔ [[Python依存関係管理の進化]]：pip/requirements.txtからの移行を牽引
 → [[uv]]：Poetryの次世代として登場した超高速ツール
 → [[MCP Python SDK]]：公式SDKもpyproject.toml採用（Poetry互換）
-
-## 📚 参照元
-> [Poetry - Python dependency management and packaging made easy](https://python-poetry.org/)
-> [PEP 621 – Storing project metadata in pyproject.toml](https://peps.python.org/pep-0621/)
-> 個人体験, 2025-11-18

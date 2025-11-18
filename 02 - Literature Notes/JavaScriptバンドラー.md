@@ -31,7 +31,3 @@ JavaScriptバンドラーは、複数のJavaScriptファイルや依存関係を
 → [[esbuild]]：速度革命を起こした次世代実装
 → [[Vite]]：開発体験を革新したハイブリッド型実装
 ↔ [[JavaScriptビルドツール進化史]]：バンドラー概念の歴史的発展
-
-## 📚 参照元
-> [Module Bundlers Explained - JavaScript.info](https://javascript.info/modules-intro)
-> [Understanding JavaScript Module Bundlers - freeCodeCamp](https://www.freecodecamp.org/news/javascript-modules-part-2-module-bundling-5020383cf306/)

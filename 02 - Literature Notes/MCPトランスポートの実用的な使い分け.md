@@ -59,8 +59,4 @@ MCPトランスポートの選択は、ツールの実行場所とアクセス�
 → [[Playwright MCPでTwitter自動ログイン]]：stdioトランスポートの実例
 → [[MCP Python SDK]]：公式SDKでのトランスポート実装例
 → [[FastMCP]]：プロダクション環境でのトランスポート選択と実装
-
-## 📚 参照元
-> [Model Context Protocol Documentation - Transports](https://modelcontextprotocol.io/docs/concepts/transports)
-> [Claude Code Documentation - MCP Configuration](https://docs.anthropic.com/en/docs/claude-code/mcp)
 > 個人体験, 2025-01-24

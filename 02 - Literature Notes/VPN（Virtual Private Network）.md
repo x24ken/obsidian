@@ -23,8 +23,4 @@ VPN（Virtual Private Network）は、公開ネットワーク上に論理的な
 ← [[VPS（Virtual Private Server）]]：VPNサーバーをホストする基盤として利用
 → [[MCPクライアントのリモートサーバー対応状況（2025年7月）]]：VPN経由での安全な接続実現
 ↔ [[WebSocket]]：リアルタイム通信の別アプローチ
-
-## 📚 参照元
-> [WireGuard Protocol Documentation](https://www.wireguard.com/protocol/)
-> [OpenVPN Community Resources](https://openvpn.net/community-resources/)
 > [RFC 7296 - Internet Key Exchange Protocol Version 2 (IKEv2)](https://tools.ietf.org/html/rfc7296)

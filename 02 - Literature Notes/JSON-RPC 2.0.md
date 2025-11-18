@@ -22,7 +22,4 @@ RESTful APIは状態転送に焦点を当てるのに対し、JSON-RPC 2.0は関
 ← [[リモートプロシージャコール（RPC）]]：JSON-RPC 2.0の基礎概念
 → [[MCP]]：JSON-RPC 2.0をベースとしたAI-ツール連携プロトコル
 ↔ [[WebSocket]]：JSON-RPC 2.0の代替トランスポート手段
-
-## 📚 参照元
-> [JSON-RPC 2.0 Specification](https://www.jsonrpc.org/specification) - jsonrpc.org
 > [Understanding JSON-RPC](https://en.wikipedia.org/wiki/JSON-RPC) - Wikipedia

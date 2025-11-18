@@ -112,10 +112,3 @@
 ## つながり
 
 ← [[双極性障害の私生活管理ガイド]]：正午光療法の実践方法の具体化
-
-## 📚 参照元
-> [Northern Light Technologies TRAVelite Desk Lamp II - Official Product Page](https://northernlighttechnologies.com/shop/travelite-desk-lamp-ii-2/)
-> [Yale School of Medicine Winter Depression Research Clinic - Light Box Recommendations](https://medicine.yale.edu/psychiatry/research/clinics-and-programs/winter-depression/obtain/)
-> [Sit DK et al. (2018) Adjunctive Bright Light Therapy for Bipolar Depression - American Journal of Psychiatry](https://pubmed.ncbi.nlm.nih.gov/28969438/)
-> [QAI Directory - Northern Light Technologies Safety Certification](https://qai.org/directory/137023-canada-inc-dba-northern-light-technologies/)
-> [Center for Environmental Therapeutics - BOXelite Recommendation](https://cet.org/shop/lighting/bright-light-therapy-lamp-2/)

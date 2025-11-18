@@ -23,8 +23,3 @@ PoetryがもたらしたNode.js的体験を、さらに高速化・統合化し�
 
 ← [[Poetry]]：uvが置き換えを狙う前世代ツール
 ↔ [[Python依存関係管理の進化]]：requirements.txt→Poetry→uvの進化
-
-## 📚 参照元
-> [uv: An extremely fast Python package installer and resolver](https://github.com/astral-sh/uv)
-> [Astral Blog - Announcing uv, 2024-02-15](https://astral.sh/blog/uv)
-> 個人体験, 2025-11-18

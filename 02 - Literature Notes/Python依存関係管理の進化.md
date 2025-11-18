@@ -57,9 +57,3 @@ Python依存関係管理ツールは、技術的制約と開発体験の両面�
 → [[pip]]：第1期を代表するツール
 → [[Poetry]]：第2期を代表するツール
 → [[uv]]：第3期の最有力ツール
-
-## 📚 参照元
-> [PEP 518 – Specifying Minimum Build System Requirements, 2016](https://peps.python.org/pep-0518/)
-> [PEP 621 – Storing project metadata in pyproject.toml, 2020](https://peps.python.org/pep-0621/)
-> [Astral Blog - Announcing uv, 2024-02-15](https://astral.sh/blog/uv)
-> 個人体験, 2025-11-18

@@ -58,8 +58,4 @@ n8nの導入時にself hosted vs cloudの選択がMCP機能の可用性を大き
 ← [[n8n]]：プラットフォームの基本概念
 → [[iPaaS×MCP統合の発展予測]]：オープンソース vs クラウドの将来性
 ↔ [[Zapier]]：クラウドオンリーでの制約事例
-
-## 📚 参照元
-> 個人体験, 2025-08-05
-> [n8n Documentation - Self-hosting](https://docs.n8n.io/hosting/)
 > [Model Context Protocol - Transport Layer](https://modelcontextprotocol.io/docs/concepts/transports)

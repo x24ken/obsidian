@@ -28,7 +28,4 @@ ZapierのノーコードiPaaSをAI時代に適応させる戦略的進化。人�
 → [[iPaaS×MCP統合の発展予測]]：Zapierの先行実装事例
 ↔ [[PassportMCP]]：APIキー不要の代替アプローチ
 → [[MCPの秘書と道具箱例え話]]：AI秘書が8,000アプリ道具箱を使う例
-
-## 📚 参照元
-> [Zapier MCP: Perform 30,000+ actions in your AI tool - Zapier Blog](https://zapier.com/blog/zapier-mcp-guide/)
 > [Zapier MCP—Connect your AI to any app instantly - Zapier](https://zapier.com/mcp)

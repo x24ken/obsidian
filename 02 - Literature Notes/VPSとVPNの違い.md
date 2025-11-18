@@ -40,7 +40,4 @@ VPSとVPNは補完関係にあり、用途に応じて使い分けるべき：
 ← [[VPS（Virtual Private Server）]]：サーバー仮想化技術
 ↔ [[Hostinger]]：VPSサービスプロバイダーの実例
 → [[n8n Self Hosted vs Cloud MCPトランスポート使い分け]]：VPS上でのサービス運用例
-
-## 📚 参照元
-> [VPS vs VPN: What's the Difference? - DigitalOcean](https://www.digitalocean.com/community/tutorials/vps-vs-vpn)
 > [Understanding Virtual Private Networks - Cisco](https://www.cisco.com/c/en/us/products/security/vpn-endpoint-security-clients/what-is-vpn.html)

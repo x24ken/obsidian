@@ -22,6 +22,4 @@ Zettelkastenシステムの最終段階であり、情報を智恵に変換す�
 
 ## 🔗 つながり
 → [[Feeling Notes]], [[Literature Notes]], [[IKEA効果]]
-
-## 📚 参照元
 > [Ahrens, S. (2017). How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers.](https://www.amazon.co.jp/dp/B06WVYW33Y)

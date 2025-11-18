@@ -22,9 +22,4 @@ stdio通信は、UNIX哲学「小さなプログラムを組み合わせて大�
 ## つながり
 → [[Language Server Protocol（LSP）]]：LSPの主要トランスポート方式として活用
 ↔ [[WebSocket]]：ネットワークベースのプロセス間通信の代替手段
-
-## 📚 参照元
-> [Advanced Programming in the UNIX Environment - W. Richard Stevens](https://www.amazon.co.jp/dp/0321637739)
-> [The Linux Programming Interface - Michael Kerrisk](https://man7.org/tlpi/)
-> [POSIX.1-2017 Standard](https://pubs.opengroup.org/onlinepubs/9699919799/)
 > 個人体験, 2025-01-24

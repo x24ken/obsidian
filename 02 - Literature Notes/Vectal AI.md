@@ -25,8 +25,4 @@ Vectal AIは、AIエージェントが自動的にタスクを整理・調査・
 ← [[AIエージェント]]：タスク実行の基盤技術
 ↔ [[n8n]]：ワークフロー自動化という共通目的を異なるアプローチで実現
 → [[第二層不幸解決のための実存的実践ガイド]]：AIが代替できない本質的タスクの識別
-
-## 📚 参照元
-> [Vectal AI - Official Website](https://www.vectal.ai/)
-> [Revolutionize Task Management with Vectal - MachineBrain](https://www.machinebrain.org/blog/revolutionize-task-management-with-vectal-free-ai-powered-tool)
 > [Vectal AI Review - Max-Productive](https://max-productive.ai/ai-tools/vectal-ai/)

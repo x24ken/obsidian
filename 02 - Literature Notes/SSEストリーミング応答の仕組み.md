@@ -54,8 +54,4 @@ SSEストリーミング応答により、チャットボットの応答生成�
 → [[Streamable HTTPプロトコル]]：最新のMCPトランスポート仕様
 ↔ [[WebSocket]]：双方向通信との比較
 → [[MCP]]：長時間処理結果の段階的返却で使用
-
-## 📚 参照元
-> [Server-Sent Events - W3C Recommendation](https://www.w3.org/TR/eventsource/)
-> [Stream Updates with Server-Sent Events - HTML5 Rocks](https://www.html5rocks.com/en/tutorials/eventsource/basics/)
 > 個人体験, 2025-07-25

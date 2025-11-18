@@ -23,7 +23,4 @@ HTTPは要求-応答の一回限り通信で毎回接続を確立するのに対
 → [[JSON-RPC 2.0]]：, [[リモートプロシージャコール（RPC）]], [[MCPトランスポート層]]
 ↔ [[SSEストリーミング応答の仕組み]]：, [[stdioによるプロセス間通信]]
 → [[MCP]]：, [[MCPの秘書と道具箱例え話]]
-
-## 📚 参照元
-> [The WebSocket Protocol](https://datatracker.ietf.org/doc/html/rfc6455) - RFC 6455
 > [WebSocket API](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket) - MDN Web Docs

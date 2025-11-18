@@ -28,8 +28,3 @@ LLMとツールの連携における標準化により、開発者は一度MCP�
 → [[Claude Code]]：MCPクライアントの代表的実装例
 → [[MCP Python SDK]]：MCPの公式Python実装
 → [[FastMCP]]：プロダクション特化のMCPフレームワーク
-
-## 📚 参照元
-> [Model Context Protocol - Official Documentation](https://modelcontextprotocol.io/)
-> [Model Context Protocol - Specification](https://spec.modelcontextprotocol.io/)
-> [Model Context Protocol - GitHub Repository](https://github.com/modelcontextprotocol)

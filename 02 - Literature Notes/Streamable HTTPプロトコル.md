@@ -25,9 +25,4 @@ Streamable HTTPは、モダンなAPI設計における柔軟性と効率性を�
 ← [[HTTP + SSEパターン]]：従来の分離型アプローチ
 ↔ [[WebSocket]]：双方向通信の代替技術
 → [[MCP]]：2025年3月仕様での採用例
-
-## 📚 参照元
-> [Model Context Protocol - Transports](https://modelcontextprotocol.io/docs/concepts/transports)
-> [Why MCP Deprecated SSE and Go with Streamable HTTP - FKA Blog](https://blog.fka.dev/blog/2025-06-06-why-mcp-deprecated-sse-and-go-with-streamable-http/)
-> [Comparison of data before and after using Streamable HTTP - Medium](https://medium.com/@higress_ai/comparison-of-data-before-and-after-using-streamable-http-b094db8b414e)
 > 個人体験, 2025-01-24

@@ -23,7 +23,4 @@ RESTful APIはHTTPリソース操作に焦点を当てるのに対し、RPCは�
 ← [[WebSocket]]：リアルタイムRPCのトランスポート層として活用
 → [[JSON-RPC 2.0]]：RPC概念のJSONベース標準実装
 → [[MCP]]：JSON-RPC 2.0を基盤とするLLMツール統合プロトコル
-
-## 📚 参照元
-> [Remote Procedure Call](https://en.wikipedia.org/wiki/Remote_procedure_call) - Wikipedia
 > [What is RPC?](https://www.cloudflare.com/learning/app-services/what-is-rpc/) - Cloudflare

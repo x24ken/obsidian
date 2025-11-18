@@ -43,7 +43,4 @@ Claude Codeは「AI駆動開発環境」の新パラダイムを確立してい�
 ← [[MCP]]：外部ツール統合のプロトコル基盤
 ↔ [[AIエージェント]]：自然言語による開発タスク自動化の具現化
 → [[MCPクライアントのリモートサーバー対応状況（2025年7月）]]：Claude CodeのMCP実装詳細
-
-## 📚 参照元
-> [Claude Code Documentation - Anthropic](https://docs.anthropic.com/en/docs/claude-code)
 > [Claude Code CLI Reference - Anthropic](https://docs.anthropic.com/en/docs/claude-code/cli-reference)

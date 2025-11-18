@@ -25,7 +25,3 @@ FastMCP（パッケージ名`fastmcp`）は、公式MCP Python SDKの上位レ�
 ↔ [[MCP]]：MCPプロトコルの基礎概念
 → [[MCPトランスポート層]]：プロダクション環境でのStreamable HTTP活用
 → [[MCPトランスポートの実用的な使い分け]]：実際の環境での適用パターン
-
-## 📚 参照元
-> [GitHub - jlowin/fastmcp](https://github.com/jlowin/fastmcp)
-> [MCP Python SDK Documentation](https://modelcontextprotocol.github.io/python-sdk/)

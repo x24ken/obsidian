@@ -22,8 +22,4 @@ iPaaS（Integration Platform as a Service）は、クラウドネイティブな
 → [[iPaaS×MCP統合の発展予測]]：iPaaSとAI技術の統合予測
 ↔ [[MCP]]：AI-ツール連携の類似統合アプローチ
 → [[Zapier]]：SMB向けiPaaSプラットフォームの代表例
-
-## 📚 参照元
-> [Information Platform as a Service (iPaaS) - Gartner Glossary](https://www.gartner.com/en/information-technology/glossary/information-platform-as-a-service-ipaas)
-> [What is iPaaS? - IBM Think](https://www.ibm.com/think/topics/ipaas)
 > [What is iPaaS? - SAP Integration Suite](https://www.sap.com/products/technology-platform/integration-suite/what-is-ipaas.html)

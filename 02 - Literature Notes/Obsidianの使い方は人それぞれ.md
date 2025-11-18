@@ -23,6 +23,4 @@ Obsidianは使用者の数だけ異なる使い方が存在し、YouTubeで10人
 
 ## 🔗 つながり
 → [[Zettelkasten]], [[IKEA効果]]
-
-## 📚 参照元
 > 個人的観察（YouTubeにおける多様なObsidian活用事例の分析）, 2025-11-15

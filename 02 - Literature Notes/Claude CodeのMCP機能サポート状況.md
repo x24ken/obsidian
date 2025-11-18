@@ -39,6 +39,3 @@ MCPの全機能を前提とした設計をすると、Claude Codeでは動作し
 ← [[Claude Code]]：分析対象のMCPクライアント
 ↔ [[MCPサンプリング機能]]：Claude Codeでは未サポート
 ↔ [[MCPエリシテーション機能]]：Claude Codeでは未サポート
-
-## 📚 参照元
-> [Claude Code MCP Documentation - Anthropic](https://docs.claude.com/en/docs/claude-code/mcp.md)

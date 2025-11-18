@@ -27,7 +27,4 @@ Viteのアーキテクチャにおける二つの異なるビルドツールの�
 
 ## 🔗 つながり
 → [[Vite]], [[esbuild]], [[Rollup]], [[JavaScriptパッケージ公開ツール比較分析]]
-
-## 📚 参照元
-> [Vite - Why Bundle for Production](https://vitejs.dev/guide/why.html#why-bundle-for-production)
 > 個人的洞察, 2025-11-15

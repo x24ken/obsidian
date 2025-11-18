@@ -30,7 +30,3 @@ ES2015で標準化された`import`/`export`構文を、ブラウザが直接解
 → [[Vite]]：ネイティブESMを基盤とするモダンツール
 ↔ [[ビルドツール進化の周期的パターン]]：開発時間短縮の技術進化例
 → [[Viteが開発時esbuild、本番時Rollupを使う理由]]：ネイティブESMの実践的活用
-
-## 📚 参照元
-> [ES modules: A cartoon deep-dive - Mozilla Hacks](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/)
-> [Using JavaScript modules on the web - MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)

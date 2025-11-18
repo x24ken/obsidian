@@ -76,8 +76,3 @@ Streamable HTTPは「動的ストリーミング選択」という設計によ�
 ← [[Streamable HTTPプロトコル]]：比較対象の一方
 ↔ [[HTTP + SSEパターン]]：Streamable HTTPの前身技術
 → [[WebSocket]]：リアルタイム通信の代替技術
-
-## 📚 参照元
-> [Model Context Protocol - Transports](https://modelcontextprotocol.io/docs/concepts/transports)
-> [Why MCP Deprecated SSE and Go with Streamable HTTP - FKA Blog](https://blog.fka.dev/blog/2025-06-06-why-mcp-deprecated-sse-and-go-with-streamable-http/)
-> 個人体験, 2025-10-04

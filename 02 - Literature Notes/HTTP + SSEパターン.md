@@ -25,9 +25,4 @@ HTTP + SSEパターンは、リアルタイムWebアプリケーションの基�
 ## つながり
 → [[SSEストリーミング応答の仕組み]]：SSE技術の具体的実装詳細
 ↔ [[WebSocket]]：双方向リアルタイム通信の代替技術
-
-## 📚 参照元
-> [Server-Sent Events - W3C Recommendation](https://www.w3.org/TR/eventsource/)
-> [Using server-sent events - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Server-sent_events/Using_server-sent_events)
-> [Stream Updates with Server-Sent Events - HTML5 Rocks](https://www.html5rocks.com/en/tutorials/eventsource/basics/)
 > 個人体験, 2025-01-24

@@ -83,7 +83,4 @@ claude mcp add zapier https://mcp.zapier.com/api/mcp/mcp \
 ← [[Claude Code]]：この専用設定の対象ツール
 ↔ [[MCPトランスポート層]]：HTTPトランスポートとヘッダー認証の技術詳細
 → [[MCPクライアントのリモートサーバー対応状況（2025年7月）]]：クライアント別の実装差異
-
-## 📚 参照元
-> [Zapier MCP Connect Tab - Screenshot, 2025-08-25](画面キャプチャ)
 > [Claude Code MCP Documentation - Anthropic](https://docs.anthropic.com/en/docs/claude-code/mcp)

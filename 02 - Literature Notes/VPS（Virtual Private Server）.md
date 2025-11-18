@@ -24,7 +24,4 @@ VPSは中規模ワークロードに最適な選択肢を提供し、開発者�
 → [[n8n Self Hosted vs Cloud MCPトランスポート使い分け]]：VPS上でのセルフホスティング実装
 ↔ [[WebSocket]]：VPS上でリアルタイム通信を実装する技術
 → [[MCPクライアントのリモートサーバー対応状況（2025年7月）]]：VPS上でのMCPサーバー運用
-
-## 📚 参照元
-> [VPS Hosting Definition - DigitalOcean](https://www.digitalocean.com/community/tutorials/what-is-vps-hosting)
 > [KVM Virtualization - Red Hat](https://www.redhat.com/en/topics/virtualization/what-is-KVM)

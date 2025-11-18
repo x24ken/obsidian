@@ -24,8 +24,4 @@ GitHubが生成するランダム文字列トークンで、HTTPSベースのGit
 ## つながり
 → [[GitHub PAT Classic vs Fine-grained比較分析]]：2種類のPATの詳細な比較
 ↔ SSHキー認証：HTTPSではなくSSHプロトコルを使用する認証方法
-
-## 📚 参照元
-> [Creating a personal access token - GitHub Docs](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
-> [GitHub Security Blog - Token authentication requirements for Git operations, 2020-12-15](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
 > 個人体験, 2021-08-13

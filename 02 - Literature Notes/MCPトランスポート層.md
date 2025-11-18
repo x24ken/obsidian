@@ -26,8 +26,4 @@ Language Server Protocol (LSP) のトランスポートと類似しているが�
 → [[Playwright MCPでTwitter自動ログイン]]：stdioトランスポートの実装例
 ↔ [[MCP Python SDK]]：Python実装でのトランスポート層の実装
 ↔ [[FastMCP]]：プロダクション環境でのトランスポート活用
-
-## 📚 参照元
-> [MCP Specification - Transports](https://spec.modelcontextprotocol.io/specification/basic/transports/)
-> [MCP Specification Draft - Transports (2024-11-05)](https://modelcontextprotocol.io/specification/2024-11-05/basic/transports)
 > 個人体験, 2025-01-24

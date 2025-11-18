@@ -34,7 +34,3 @@
 ← [[BDNF（脳由来神経栄養因子）]]：運動で増加する神経栄養因子の基礎
 ↔ [[「休んでから頑張る」アプローチ]]：適切な運動と休息のバランスによる最適化
 → [[知識と幸福の逆説的関係性]]：脳機能向上が必ずしも幸福に直結しない複雑性
-
-## 📚 参照元
-> [Erickson, K. I., et al. (2011). Exercise training increases size of hippocampus and improves memory. Proceedings of the National Academy of Sciences, 108(7), 3017-3022.](https://doi.org/10.1073/pnas.1015950108)
-> [Voss, M. W., et al. (2013). Exercise, brain, and cognition across the life span. Journal of Applied Physiology, 111(5), 1505-1513.](https://journals.physiology.org/doi/full/10.1152/japplphysiol.00210.2011)

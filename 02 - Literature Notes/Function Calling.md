@@ -21,8 +21,4 @@ LLMを散文生成からプログラム合成に近い動作に進化させる�
 ## つながり
 ← [[AIエージェント]]：Function Callingを活用するエージェントシステム
 ↔ [[ReActフレームワーク]]：推論と行動を組み合わせる思考パターン
-
-## 📚 参照元
-> [OpenAI Function Calling and API Updates](https://openai.com/index/function-calling-and-other-api-updates/)
-> [Anthropic Claude Tool Use Documentation](https://docs.anthropic.com/en/docs/build-with-claude/tool-use/overview)
 > [Google Gemini Function Calling Guide](https://ai.google.dev/gemini-api/docs/function-calling)

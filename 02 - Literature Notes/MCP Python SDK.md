@@ -25,8 +25,3 @@ MCP仕様の公式実装として、Claude DesktopからChatGPT Appsまで幅広
 ↔ [[FastMCP]]：同名だが別物のプロダクション特化フレームワーク
 → [[MCPトランスポート層]]：stdio/Streamable HTTPの技術詳細
 → [[MCPツール機能]]：ツール定義の実装パターン
-
-## 📚 参照元
-> [MCP Python SDK Documentation](https://modelcontextprotocol.github.io/python-sdk/)
-> [GitHub - modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk)
-> [MCP Specification - Transports](https://modelcontextprotocol.io/specification/2025-03-26/basic/transports)

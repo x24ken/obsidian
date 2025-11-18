@@ -38,9 +38,4 @@ LSPは言語固有の開発ツール統合に特化しているのに対し、MC
 ## つながり
 ← [[リモートプロシージャコール（RPC）]]：LSPが実現する分散通信の基礎概念
 ↔ [[MCP]]：JSON-RPC 2.0ベースの類似プロトコル標準化事例
-
-## 📚 参照元
-> [Language Server Protocol Specification - Microsoft](https://github.com/microsoft/language-server-protocol)
-> [Language Server Protocol - Visual Studio Code Docs](https://code.visualstudio.com/docs/extensionAPI/language-server-extension-guide)
-> [LSP Libraries and Tools](https://langserver.org/)
 > 個人体験, 2025-07-24
