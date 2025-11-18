@@ -21,7 +21,7 @@ Pythonエコシステムの長年の課題だった「設定ファイル乱立�
 ## つながり
 
 ← [[MCP Python SDK]]：公式SDKもpyproject.toml採用
-↔ [[Python依存関係管理の歴史]]：requirements.txtからの移行過程
+↔ [[Python依存関係管理の進化]]：requirements.txtからの移行過程
 → [[Poetry]]：pyproject.toml前提のパッケージマネージャ
 
 ## 📚 参照元

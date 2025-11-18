@@ -22,7 +22,7 @@ PoetryがもたらしたNode.js的体験を、さらに高速化・統合化し�
 ## つながり
 
 ← [[Poetry]]：uvが置き換えを狙う前世代ツール
-↔ [[Python依存関係管理の歴史]]：requirements.txt→Poetry→uvの進化
+↔ [[Python依存関係管理の進化]]：requirements.txt→Poetry→uvの進化
 → [[Ruff]]：同じAstral社のRust製linter/formatter
 
 ## 📚 参照元
