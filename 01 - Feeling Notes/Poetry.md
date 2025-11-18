@@ -21,7 +21,6 @@ Pythonの依存関係管理の混沌（pip, venv, setup.py, requirements.txtの�
 
 ## つながり
 
-← [[pyproject.toml]]：Poetryが前提とする設定ファイル形式
 ↔ [[Python依存関係管理の進化]]：pip/requirements.txtからの移行を牽引
 → [[uv]]：Poetryの次世代として登場した超高速ツール
 → [[MCP Python SDK]]：公式SDKもpyproject.toml採用（Poetry互換）
