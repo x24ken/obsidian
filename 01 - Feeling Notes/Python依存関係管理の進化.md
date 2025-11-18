@@ -45,7 +45,6 @@ Python依存関係管理ツールは、技術的制約と開発体験の両面�
 
 ## つながり
 
-← [[Python依存関係管理の歴史]]：requirements.txtからpyproject.tomlへの移行背景
 → [[pyproject.toml]]：第2期の標準化を支えた設定形式
 → [[Poetry]]：第2期を代表するツール
 → [[uv]]：第3期の最有力ツール

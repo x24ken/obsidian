@@ -23,7 +23,6 @@ PoetryがもたらしたNode.js的体験を、さらに高速化・統合化し�
 
 ← [[Poetry]]：uvが置き換えを狙う前世代ツール
 ↔ [[Python依存関係管理の進化]]：requirements.txt→Poetry→uvの進化
-→ [[Ruff]]：同じAstral社のRust製linter/formatter
 
 ## 📚 参照元
 > [uv: An extremely fast Python package installer and resolver](https://github.com/astral-sh/uv)
