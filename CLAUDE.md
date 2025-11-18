@@ -7,11 +7,10 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 When rules conflict, follow this priority order:
 
 1. **正確性（Factual Accuracy）** - 事実の正確さが最優先
-2. **引用の整合性（Citation Integrity）** - 出典の明記と正確性
-3. **アトミック性（Atomicity）** - 1ノート1アイデア
-4. **リンク品質（Link Quality）** - 意味のある関係性の説明
-5. **テンプレート適合（Template Conformity）** - テンプレート構造の遵守
-6. **リンク数目標（Link Count Targets）** - リンク数の推奨値
+2. **アトミック性（Atomicity）** - 1ノート1アイデア
+3. **リンク品質（Link Quality）** - 意味のある関係性の説明
+4. **テンプレート適合（Template Conformity）** - テンプレート構造の遵守
+5. **リンク数目標（Link Count Targets）** - リンク数の推奨値
 
 **例外ポリシー：**
 ルールに従えない正当な理由がある場合、1行で理由を説明すれば例外を許可します。
@@ -124,14 +123,11 @@ When creating or updating notes with Zettelkasten templates:
 - **Add meaningful links** based on actual topical relationships, not just creation order
 - **Avoid arbitrary links** - only link notes that share conceptual, methodological, or practical connections
 
-### Reference Citation Format
-All references must use clickable markdown link format `[Text](URL)`:
-- **Books (ISBN/Amazon)**: `> [Author (YYYY) Book Title, p. XX](https://amazon.co.jp/dp/ISBN)`
-- **Web Articles**: `> [Article Title - Site Name, YYYY-MM-DD](https://example.com/article-url)`
-- **Videos**: `> [Video Title - Channel Name, XX:XX](https://youtube.com/watch?v=VIDEO_ID)`
-- **Papers**: `> [Author et al. (YYYY) Paper Title](https://doi.org/10.xxxx/xxxxx)`
-- **GitHub/Code**: `> [Repository Name - File Name](https://github.com/user/repo/blob/main/file.md)`
-- **Personal Experience (no link)**: `> Personal Experience, YYYY-MM-DD`
+### References Policy
+**IMPORTANT: Do NOT include reference/citation sections in notes.**
+- The user does not review references after note creation
+- References were removed from all existing notes as of 2025-11-18
+- Focus on note content and connections instead of tracking sources
 
 ### Common Tasks
 
@@ -201,10 +197,3 @@ const apiKey = "SG.abc123..."  // ❌ ABSOLUTELY FORBIDDEN
 const apiKey = process.env.SENDGRID_API_KEY  // ✅ Correct
 ```
 
-### Reference Citation Format
-Always use clickable markdown links for references:
-- **Web articles**: `> [記事タイトル - サイト名, YYYY-MM-DD](https://example.com/article-url)`
-- **Books**: `> [著者名 (YYYY) 書籍名, p. XX](https://amazon.co.jp/dp/ISBN番号)`
-- **Videos**: `> [動画タイトル - チャンネル名, XX:XX](https://youtube.com/watch?v=VIDEO_ID)`
-- **GitHub**: `> [リポジトリ名 - ファイル名](https://github.com/user/repo/blob/main/file.md)`
-- **Personal experiences**: `> 個人体験, YYYY-MM-DD` (no link)
