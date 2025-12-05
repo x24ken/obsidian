@@ -15,6 +15,26 @@ When rules conflict, follow this priority order:
 **例外ポリシー：**
 ルールに従えない正当な理由がある場合、1行で理由を説明すれば例外を許可します。
 
+## Memory Type Policy（Tulvingの記憶分類に基づく）
+
+このVaultに残すのは**意味記憶**と**エピソード記憶**のみ。**手続き記憶（ハウツー・手順書）は残さない**。
+
+### 残さないノートの例（手続き記憶）
+- 技術的な設定手順・コマンド例（AIに聞けば済む）
+- 使い分けガイド・選定ガイド（AIに聞けば済む）
+- 長いステップバイステップのガイド（見返さない）
+
+### 残すノートの例
+- **意味記憶**: 概念の定義、理論、比喩による理解（例：`LSPの翻訳者例え話.md`）
+- **エピソード記憶**: 個人的な体験、ケーススタディ
+- **身体化すべきTips**: タイトルだけで思い出せる短い教訓（例：`悩んだら紙に書け.md`）
+
+### 判断基準
+ノート作成時に自問する：
+1. 「これはAIに聞けば毎回正確に教えてくれるか？」→ Yes なら残さない
+2. 「このノートを見返すか？」→ No なら残さない
+3. 「タイトルだけで価値が伝わるか？」→ No なら残さないか、タイトルを改善
+
 ## Project Overview
 
 This is an Obsidian vault implementing the Zettelkasten note-taking system with 11 distinct template types. The templates are organized by cognitive function: Understanding, Generating, Critiquing, and Integrating.
@@ -50,7 +70,6 @@ When creating or modifying notes, use the `超包括的Zettelkastenプロンプ�
 **D. Integrating (統合する)**
 - **🔗 Connection**: Relationships between multiple notes/domains
 - **💭 Insight**: "Aha!" moments, insights, idea integration
-- **📋 Guide**: Step-by-step processes or frameworks
 
 ### File Naming Convention (All 11 Types)
 All files use Japanese names without emojis. The template type is identified by metadata:
