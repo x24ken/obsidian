@@ -13,4 +13,3 @@ AIに委託可能な場合は、そのルールやHowToを、CLUAUDE.mdに
 積極的に外部化が可能。
 
 [[Tulvingの長期記憶システム]]
-[[Claude Code]]
