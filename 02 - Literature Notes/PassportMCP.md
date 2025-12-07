@@ -22,5 +22,4 @@ PassportMCPは、Chrome拡張機能とPython SDKを組み合わせて、ユー�
 
 ## つながり
 ← [[MCP]]：MCPサーバーの基本概念
-↔ [[Playwright MCPでTwitter自動ログイン]]：ブラウザ自動化の代替アプローチ
 → [[MCPの秘書と道具箱例え話]]：秘書がブラウザセッション道具箱を使う例

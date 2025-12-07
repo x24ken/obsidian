@@ -42,11 +42,15 @@ This is an Obsidian vault implementing the Zettelkasten note-taking system with 
 ## Directory Structure
 
 - `00 - Inbox/` - Pre-stage space for raw memos and AI-generated content
-- `01 - Feeling Notes/` - Temporary notes for quick capture
-- `02 - Literature Notes/` - Structured notes from external sources
-- `03 - Permanet notes/` - Permanent notes with original thoughts
+- `01 - Fleeting Notes/` - Temporary notes for quick capture (renamed from Feeling Notes)
+- `02 - Literature Notes/` - **AI-generated** structured knowledge notes
+- `03 - Permanent Notes/` - **Human-written** original thoughts and insights
 - `80 - Image/` - Image attachments
 - `99 - Templates/` - Contains Zettelkasten prompt templates
+
+### Note Authorship Distinction
+- **02 - Literature Notes/**: AIが生成した知識ノート（検索・参照用）
+- **03 - Permanent Notes/**: 人間が自分の言葉で書いた洞察（本当の価値）
 
 ## Note Creation Guidelines
 
@@ -137,7 +141,7 @@ Example (Bad):
 
 ### Auto-Linking for Zettelkasten Notes
 When creating or updating notes with Zettelkasten templates:
-- **Automatically search** for related notes in `01 - Feeling Notes/` and `02 - Literature Notes/`
+- **Automatically search** for related notes in `01 - Fleeting Notes/` and `02 - Literature Notes/`
 - **Analyze file names** to identify conceptually related notes
 - **Add meaningful links** based on actual topical relationships, not just creation order
 - **Avoid arbitrary links** - only link notes that share conceptual, methodological, or practical connections
@@ -166,25 +170,38 @@ ls "02 - Literature Notes/" | grep -i "filename"
 - Attachments folder: `80 - Image/`
 - Always update links when moving files: enabled
 
-## Primary Workflow: Inbox → Feeling Notes → Literature Notes
+## Primary Workflow: Inbox → Fleeting Notes → Literature Notes → Permanent Notes
 
-The main purpose of this vault is to progressively refine notes through three stages:
+The main purpose of this vault is to progressively refine notes through four stages:
 
 ### Stage 1: Inbox (00 - Inbox)
 - **Purpose**: Raw capture space for quick memos, titles only, scribbles
 - **AI Usage**: When user requests "メモして" or similar, create notes here
 - **Content**: Unstructured thoughts, AI-generated initial drafts, quick ideas
 
-### Stage 2: Feeling Notes (01 - Feeling Notes)
+### Stage 2: Fleeting Notes (01 - Fleeting Notes)
 - **Process**: Apply `超包括的Zettelkastenプロンプト.md` to Inbox items
 - **Purpose**: Transform raw memos into structured Zettelkasten format
 - **AI Role**: Use appropriate template from 11 types to structure the content
 - **Cleanup**: Delete the original file from `00 - Inbox/` after successful transformation
 
 ### Stage 3: Literature Notes (02 - Literature Notes)
-- **Process**: Human review and approval of Feeling Notes
-- **Purpose**: Finalized, properly formatted Zettelkasten notes
+- **Process**: Human review and approval of Fleeting Notes
+- **Purpose**: **AI-generated** finalized Zettelkasten notes (reference/search)
 - **Human Role**: Quality check and move approved notes here
+
+### Stage 4: Permanent Notes (03 - Permanent Notes)
+- **Process**: Human writes original insights based on reading Literature Notes
+- **Purpose**: **Human-written** thoughts in own words (true value)
+- **Key Principle**: Only human can write Permanent Notes - these are the real Zettelkasten
+
+```
+AIに質問 → 02にAI生成ノート保存
+                ↓
+      自分で読んで咀嚼
+                ↓
+      自分の言葉で洞察 → 03に手書きノート
+```
 
 ## Important Notes
 
@@ -193,9 +210,10 @@ The main purpose of this vault is to progressively refine notes through three st
 3. When modifying notes, preserve the template structure exactly
 4. Image files (CleanShot screenshots) are stored in `80 - Image/`
 5. The vault uses Zettelkasten methodology - maintain atomic notes with proper linking
-6. Core workflow: Inbox → Feeling Notes → Literature Notes (progressive refinement)
-7. **Consult o3 MCP**: When facing technical uncertainties, implementation decisions, or need fact-checking, consult o3-search MCP in English for accurate information
-8. **o3 MCP Status Check**: Always check if o3-search MCP is working before using it. If it returns timeout errors or fails, immediately inform the user that "o3が現在利用できないため、私の知識で回答します" and proceed with available knowledge
+6. Core workflow: Inbox → Fleeting Notes → Literature Notes → Permanent Notes
+7. **AI writes to 02, Human writes to 03**: AIはLiterature Notesを生成、人間だけがPermanent Notesを書く
+8. **Consult o3 MCP**: When facing technical uncertainties, implementation decisions, or need fact-checking, consult o3-search MCP in English for accurate information
+9. **o3 MCP Status Check**: Always check if o3-search MCP is working before using it. If it returns timeout errors or fails, immediately inform the user that "o3が現在利用できないため、私の知識で回答します" and proceed with available knowledge
 
 ## Security and Privacy Rules
 

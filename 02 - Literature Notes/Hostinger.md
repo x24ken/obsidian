@@ -19,6 +19,5 @@
 
 ## つながり
 ← [[n8n]]：ワンクリック展開で提供される自動化プラットフォーム
-→ [[n8n Self Hosted vs Cloud MCPトランスポート使い分け]]：セルフホスティングの実装方法
 ↔ [[Zapier]]：クラウドベースの代替自動化サービス
 > [Hostinger Product Updates 2025](https://www.hostinger.com/blog/product-updates-2025)
