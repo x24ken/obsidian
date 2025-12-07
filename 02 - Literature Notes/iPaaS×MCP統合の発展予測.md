@@ -27,5 +27,4 @@ iPaaS×MCP統合は2025-2027年にかけて主流となり、AI-drivenな統合�
 ## つながり
 ← [[Zapier MCP]]：先行実装事例
 ↔ [[Zapier]]：早期MCP対応による市場優位性確立
-→ [[MCPクライアントのリモートサーバー対応状況（2025年7月）]]：業界標準化の具体的進展
 > [The MCP Revolution: How the Model Context Protocol is Transforming AI in 2025 - Medium](https://medium.com/@airabbitX/the-mcp-revolution-how-the-model-context-protocol-is-transforming-ai-in-2025-93c9ab8fbe35)
